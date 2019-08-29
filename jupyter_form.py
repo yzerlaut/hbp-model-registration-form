@@ -2,8 +2,8 @@ from __future__ import print_function
 from ipywidgets import interact, interactive, fixed, interact_manual
 import ipywidgets as widgets
 
-import sys, pathlib
-sys.path.append(str(pathlib.Path(__file__).resolve().parent))
+import sys, pathlib2
+sys.path.append(str(pathlib2.Path(__file__).resolve().parent))
 from kg_interaction import check_if_alias_is_already_taken
 
 import requests
@@ -266,7 +266,7 @@ class Registration_Form:
     def build_dictionary(self):
         dictionary = {}
         for key in self.order:
-            if key not in ['submit', 'fig_display']:
+            if key not in ['submit', 'fig_display', 'version_text']:
                 dictionary[key] = self.Widget_List[key].children[0].value
         return dictionary
 
