@@ -151,7 +151,8 @@ class Registration_Form:
                                                                  'systems biology: continuous',
                                                                  'systems biology: discrete',
                                                                  'systems biology: flux balance',
-                                                                 'systems biology'],
+                                                                 'systems biology',
+                                                                 'Other'],
                                                         value='',
                                                         description='Abstraction level:',
                                                             layout={'width':'70%'}))
@@ -182,8 +183,9 @@ class Registration_Form:
                                                 {'manual': True, 'manual_name':'Check commit'},
                                                   x=widgets.Text(\
                                                     value='',
-                                                    placeholder='',
-                                                    description='Commit:'));
+                                            placeholder='If using version control, please provide a commit ID: e.g. 8e4g23j',
+                                              description='Commit:',
+                                                                 layout={'width':'70%'}));
         self.Widget_List['version_description'] = interactive(self.f,
                                                         x=widgets.Textarea(
                                                         placeholder='Decribe the version',
@@ -192,7 +194,7 @@ class Registration_Form:
         self.Widget_List['version_parameter'] = interactive(self.f,
                                                         x=widgets.Textarea(
                                                             placeholder='Specific parameters describing this version ?\ne.g. Vrest=-70mV, T=27deg,...',
-                                                        description='Description:',
+                                                        description='Parameters:',
                                                             layout={'width':'70%', 'height':'150px'}))
 
         self.Widget_List['submit'] = interactive(self.f_submission,
@@ -303,11 +305,14 @@ class Registration_Form:
             val.close()
 
     def print_registration_results(self):
+        dict_string = ' {'
         for key in self.order:
             try:
-                print(self.Widget_List[key])
+                dict_string += '"%s":"%s",\n' % (key, self.Widget_List[key].children[0].value.replace("'","").replace('"',''))
             except AttributeError:
                 pass
+        dict_string += '}'
+        print(dict_string)
 
 
 
