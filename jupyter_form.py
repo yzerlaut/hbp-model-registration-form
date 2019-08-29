@@ -315,4 +315,21 @@ class Registration_Form:
         print(dict_string)
 
 
-
+Zerlaut_Destexhe_PCB2017 = {
+    'name':'Rall model morphology for Layer V pyramidal neuron in juvenile mice V1',
+    'alias':'Rall-Morpho_L5PyrMiceV1',
+    'contact': 'Zerlaut, Yann',
+    'contributors': 'Zerlaut, Yann; Destexhe, Alain',
+    'institution': 'CNRS, France',
+    'description': 'Neocortical processing of sensory input relies on the specific activation of subpopulations within the cortical network. Though specific circuitry is thought to be the primary mechanism underlying this functional principle, we explore here a putative complementary mechanism: whether diverse biophysical features in single neurons contribute to such differential activation. In a previous study, we reported that, in young mice visual cortex, individual neurons differ not only in their excitability but also in their sensitivities to the properties of the membrane potential fluctuations. In the present work, we analyze how this heterogeneity is translated into diverse input-output properties in the context of low synchrony population dynamics. As expected, we found that individual neurons couple differentially to specific form of presynaptic activity (emulating afferent stimuli of various properties) mostly because of their differences in excitability. However, we also found that the response to proximal dendritic input was controlled by the sensitivity to the speed of the fluctuations (which can be linked to various levels of density of sodium channels and sodium inactivation). Our study thus proposes a novel quantitative insight into the functional impact of biophysical heterogeneity: because of their various firing responses to fluctuations, individual neurons will differentially couple to local network activity.',
+    'species':'Mus Musculus',
+    'region':'Cortex',
+    'cell_type':'Pyramidal Cell',
+    'scope':'single cell',
+    'abstraction':'biophysical model',
+    'version_name':'PCB2017',
+    'version_description':'version published as : "Heterogeneous firing responses predict diverse couplings to presynaptic activity in mice layer V pyramidal neurons" Y Zerlaut, A Destexhe. PLoS computational biology 13 (4), e1005452',
+    'data_url':'https://github.com/yzerlaut/diverse_coupling_to_synaptic_activity',
+    'fig_url':'https://raw.github.com/yzerlaut/diverse_coupling_to_synaptic_activity/master/figures/fig2_demo.png',
+    'commit_id':'8223e95',
+    'license':'Free'}
