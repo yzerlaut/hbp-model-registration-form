@@ -1,0 +1,290 @@
+{
+  "importantMessage": "This query is executed with a mode thought for query testing only (with throttled performance). Please register your query if you're happy with it. It's easy and you gain speed ;)!",
+  "results": [
+    {
+      "identifier": "bf67cd9e-2830-471e-b04c-cf682600cc2e",
+      "name": "HID: MOTO task",
+      "description": "In the instructed moto-coordination task (MOTO), patient were instructed by a visual cue to move alternatively their eyes, head, arms and legs. Each block of the task started with a written instruction informing the participant of the requested action for that block (e.g. « move your left or right index finger »). After a waiting period of 4000 ms, a succession of ten screens (a central coloured dot, either red or green, for 1000 ms followed by a blank screen for another 1000 ms) instructed the participant to perform the designated movement with the left or right side of his body (red = left, green = right). Red and green dots alternated (five times each). There were seven blocks/« actions » instructing participants to : « move their arm » (ARM); « move their index finger » (INDEX); « make a saccade » (SAC : red/green dot = saccade to the left/right); « move their head » (HEAD : red/green dot = to the left/right); « lift their leg » (LEG); « tell the word 'left' or 'right' » (TELL : red/green = « left »/« right », but the specific word is obviously irrelevant); « do not move » (whether the dot is red or green, control condition).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/bf67cd9e-2830-471e-b04c-cf682600cc2e"
+    },
+    {
+      "identifier": "3cd2c1da-8d73-4dc0-b0d5-1344e9d5ee0f",
+      "name": "M-11-peri",
+      "description": "To describe the borders of the secondary visual cortex (e.g. Wang et al. (2011), Ji et al. (2015)), one 1:12 series of one PRH injected brain from experiment 2 was stained using an anti-M2 (muscarinic acetylcholine receptor 2) antibody (1:500; rat monoclonal; EDM Millipore/Merck, Germany, Catalog No. MAB367). Alexa Fluor™ 488 goat anti-rat IgG (H+L) (ThermoFisher, Catalog No. A11006) was used as secondary antibody with a 1:200 dilution.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/3cd2c1da-8d73-4dc0-b0d5-1344e9d5ee0f"
+    },
+    {
+      "identifier": "8120b67f-6f67-46e0-85ae-fe131eea5707",
+      "name": "M-02-peri",
+      "description": "Mice were first anesthetized with 2.5% isoflurane in an induction chamber before secured in a mouse stereotaxic frame (Kopf Instruments, USA). The isoflurane concentration was gradually decreased and maintained at about 1%. About 10 min before making an incision, 0.03 mL of a 0.075 mg/mL Temgesic® solution (in 0.9% saline; 0.3 mg/mL stock solution from Reckitt Benckiser, Switzerland) was administered subcutaneously. The fur on the head was removed with an electrical hand shaver and the skin was disinfected with 70% ethanol. An incision in the skin was followed by a craniotomy at the intended injection sites(s). The tracer was pressure injected using a Nanoject III (Drummond, USA, Catalog No. 3-000-207) and in-house-pulled glass pipets (opening approximately 20 µm). In experiment 1, a total of 120 nL tracer was injected which was split into six doses of 20 nL at an injection rate of 3 nL/sec with 25 sec breaks between each dose. In experiment 2, the amount was reduced to 100 nL for V2L injections (5x20 nL at 1 nL/sec with 25 sec breaks) and to 96 nL tracer for all PRH injections (8x12 nL at 1 nL/sec with 25 sec breaks). To ensure good spreading of the tracer at the injection site, the needle remained in the tissue for 10 more minutes after the injection protocol was finalized. In case of bilateral injections, the first injection site was immediately covered with the skin to reduce light exposure during the second injection, since the fluorescent tracers were light-sensitive (prevention from bleaching). After suturing the incision site, 0.03 mL of a 5 mg/mL Rimadyl® solution (in 0.9% saline; 50 mg/mL stock solution form Zoetis, USA) and approximately 0.5 mL saline were administered subcutaneously. Post-surgery, animals were regularly monitored for signs of postsurgical complications, such as respiratory problems while being kept alone in a heated cage. The mice were not returned to the colony until their overall wellbeing and activity level had normalized. Operated animals received 0.03 mL of a 5 mg/mL Rimadyl™ solution intraperitoneally (with maximal 24 h between administrations) for three days post-surgery. Animals were monitored to identify potential postsurgical complications such as rapid weight loss or an infected incision site. Different tracers require different post-surgery times for optimal infection of the target neurons. The incubation period has to be long enough so that the tracer can distribute efficiently but short enough to avoid an extensive degradation of the tracer. According to previous experiences of laboratory members (lab internal communication), the retrograde tracer was incubated for five days following surgery and the anterograde tracer was incubated for four weeks following surgery. During this time animals remained in their colonies.         ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/8120b67f-6f67-46e0-85ae-fe131eea5707"
+    },
+    {
+      "identifier": "69ec1068-3ac8-486a-9e19-25f3e070a54e",
+      "name": "M-01-peri",
+      "description": "25 adult male C57BL/6J mice (aged: 15 - 18 weeks, weight: 25 - 32 g) were used and underwent the same surgical procedures. Ten animals were ordered from NAISER (Norwegian Animal Import Service AS) and kept at the animal facility at the Department of Biosciences (The Faculty of Mathematics and Natural Sciences, University of Oslo). Another 15 animals were order from NAISER and kept at another animal facility (Domus Medica, Institute of Basic Medical Sciences at the Department of Medicine, University of Oslo), because the animal facility at the Department of Biosciences closed for renovation. Animals were housed in groups of six to eight individuals in standard cages, with a 12/12 h light/dark cycle (housing procedures and conditions were alike in both facilities). Food and water were provided ad libitum.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/69ec1068-3ac8-486a-9e19-25f3e070a54e"
+    },
+    {
+      "identifier": "9015680e-776b-42fd-b024-82dbeca7e766303708",
+      "name": "DW-MRI",
+      "description": "Diffusion-weighted magnetic resonance imaging is the use of specific MRI sequences that uses the diffusion of water molecules to generate contrast in MR images.  ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/9015680e-776b-42fd-b024-82dbeca7e766"
+    },
+    {
+      "identifier": "a289c4d0-6dc3-4092-b4ed-01beae266bb6303708",
+      "name": "Parcellation based strategies",
+      "description": "This method takes into account morphological information from the cortical folding pattern.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/a289c4d0-6dc3-4092-b4ed-01beae266bb6"
+    },
+    {
+      "identifier": "19e2000f-6ab3-4189-bea0-90a08add5bf4",
+      "name": "MUA",
+      "description": "Raw data sampled at 24.4KHz was band-passed filtered between 500-5000Hz (2nd order Butterworth filter). The filtered data was hafl-wave rectified (negative became positive) and then low-pass filtered below 200Hz. The resulting signal was down-sampled to 763Hz and provides an instantaneous measure of the envelope of the high-frequency power.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/19e2000f-6ab3-4189-bea0-90a08add5bf4"
+    },
+    {
+      "identifier": "980c41d9-e53a-4741-9bbb-d5e5f7d971e9",
+      "name": "M-05-peri",
+      "description": "Mice were deeply anesthetized with an intraperitoneal injection of 0.19 - 0.2 mL of a 100 mg/mL pentobarbital solution (in 0.9% saline; 400 mg/mL stock solution from Virbac, France). During transcardial perfusion, a 0.9% saline solution was followed by a 4% paraformaldehyde solution (PFA; in MQ water). Brains were removed from the skull and post-fixated for 5 h in 4% PFA. Cryoprotection was performed with a 30% sucrose solution (in 0.01 M PBS; Sigma-Aldrich/Merck, Germany, Catalog No. S7903) for approximately 24 h at room temperature or for 48 - 72 h in the fridge at 4°C. Brains were then frozen and either directly sectioned or stored at -80°C for later processing. Each brain was coronally sectioned on a cryostat (Leica CM1950). Sectioning started at the cerebellum. Sections were collected from approximately -5.0 mm to -1.5 mm relative to Bregma (mouse brain atlas from Paxinos and Franklin (2001)). The 40 μm thick sections were collected in 12 series. The 12 series were either immediately further processed or stored in the fridge at 4°C for later processing.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/980c41d9-e53a-4741-9bbb-d5e5f7d971e9"
+    },
+    {
+      "identifier": "e73403ce-5abf-4cfc-ad07-428dd21f7b51",
+      "name": "Attention data",
+      "description": "Electrophysiological and eye-position data during a curve-tracing task. In the curve-tracing experiments the patient began each trial by directing gaze to the fixation point. After 300ms the curves and targets appeared. The curves had a width of 5 pixels (0.1°). The targets were red, 3° in diameter and were presented at -10°, -30° and -50° from the horizontal meridian at 13° eccentricity. We presented a total of nine stimuli in a pseudo random sequence.  The patient had to maintain fixation for a further 500ms, and then the fixation point became green cueing the patient to make a saccade to the larger circle at the end of the target curve. ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/e73403ce-5abf-4cfc-ad07-428dd21f7b51"
+    },
+    {
+      "identifier": "ae296981-85e4-4be2-8a50-ffca35c45f30",
+      "name": "HID: MVEB task",
+      "description": "Sternberg's verbal working memory task (MVEB) is conducted with letter stimuli. Each of the main 36 trials started with the presentation of a 1500 ms central fixation cross followed by a horizontal, central and linear array of six symbols including two, four, or six consonants and # signs (the « sample » stimulus, i.e. « S#H### » or « F#GH#K » or « GTHNCL » ). After 1500 ms, the sample stimulus was replaced by a fixation cross which stayed on screen for 3000 ms (the « retention » period). At the end of the retention period, a letter appeared for 1500 ms (the « test » stimulus) and participants had to press a key with their right index (« present ») or middle finger (« absent ») to indicate whether that letter was present of absent in the sample stimulus. There were 12 trials for each memory load (two, four or six letters). In addition, 12 trials (control condition) showed a sample stimulus with a two, four or six identical letters and # signs (i.e. « F#F### » or « H#HH#H » or « GGGGGG »), indicating that participants only had to remember that single letter (e.g. load equals « one »). There were 48 trials overall (36 + 12 controls) randomly presented during the task. All task sessions took place in patients' hospital rooms. Stimuli were presented to the participants on a 17 inch computer screen at a 60 cm viewing distance. The strings subtended 4 degrees of visual angle along the horizontal axis. Stimuli were delivered using the stimulus delivery software Presentation (Neurobehavioral systems Inc).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/ae296981-85e4-4be2-8a50-ffca35c45f30"
+    },
+    {
+      "identifier": "8476388a-fc55-427f-95b5-0c3425352b69",
+      "name": "M-04-peri",
+      "description": "In the following, all used coordinates are expressed as millimeter from bregma (Bregma = 0, anteriorly to Bregma > 0 and posteriorly to Bregma < 0). The coordinates were adapted from the mouse brain atlas (Paxinos and Franklin (2001)), as well as experiences from earlier injections with mice of a similar age, weight and strain (personal findings/pilot experiments and communication with M. Hvorslef-Eide). Ten mice were bilaterally injected in V2L with the retrograde tracers. The coordinates were chosen to cover the lateral secondary visual cortex (Table S1). The used anterior-posterior (AP) coordinates reached from -2.2 mm to -3.7 mm with 0.4 mm increasing increments. All five AP coordinates were used twice while one set was combined with ±3.5 mm as medial-lateral (ML) coordinate and the other set with ±3.6 mm as ML coordinate. The dorsal-ventral (DV) coordinate remained unchanged for all injections at -0.4 mm from Dura. In total, 15 mice were used in this experiment. Five of these were bilaterally injected in V2L, and another five were bilaterally injected in PRH with the retrograde tracers. The remaining five mice were unilaterally injected in PRH with the anterograde tracer. \nThe V2L coordinates were chosen based on preliminary results from experiment 1, which showed successful injection sites and projections. The AP coordinates were changed to -2.2 mm to -3.0 mm with 0.2 mm increasing increments. For all five AP coordinates, the ML coordinate was ±3.6 mm, and the DV coordinate was -0.4 mm (from Dura; Table S2).\nBased on earlier findings in rats (Agster and Burwell (2009)) and preliminary data from experiment 1, the PRH coordinates used targeted the rostrocaudal and caudal area of the perirhinal cortex. Five AP coordinates were chosen from -2.6 mm to -3.4 mm with 0.2 mm increasing increments. The ML coordinate was -4.3 mm, and DV varied from -2.0 to -1.4 mm (from Dura; for details see Table S2).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/8476388a-fc55-427f-95b5-0c3425352b69"
+    },
+    {
+      "identifier": "40996621-602c-49e9-a166-323dd9aad705",
+      "name": "HID: MCSE task",
+      "description": "The visual search task (MCSE) is the adaptation of a classical visual search test by Treisman and Gelade (1980). Each stimulus consisted of an array of 36 letters (6 X 6 square arrays with 35 tilted Ls and one T, all letters with independently and randomly tilted). Participants were instructed to find the letter « T » as fast as possible and press one of two response buttons to report its position in the upper (right index finger) or lower (right middle finger) part of the array. Two main experimental conditions were contrasted: an easy search (pop out) and a difficult (sustained) search condition (see Ossandon et al., 2011). In the easy condition, the target was grey and all distractors were black, while in the difficult condition, all letters were grey. The difficult and easy condition stimuli were intermixed randomly, with 48 trials for each condition and an inter stimulus interval of 4s between consecutive array onsets. Arrays were shown for 3 seconds and participants were encouraged to respond as fast as possible, while keeping their gaze on the center of the array. All task sessions took place in patients' hospital rooms. Stimuli were presented to the participants on a 17 inch computer screen at a 60 cm viewing distance. The arrays subtended 6x6 degrees of visual angle. Stimuli were delivered using the stimulus delivery software Presentation (Neurobehavioral systems Inc).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/40996621-602c-49e9-a166-323dd9aad705"
+    },
+    {
+      "identifier": "11bb0d1d-951a-4a9b-8225-400d5110f72f303708",
+      "name": "Fiber clustering",
+      "description": "Fiber clustering over the tractography data brings to consideration the shape of the fibers once these leave the cortex.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/11bb0d1d-951a-4a9b-8225-400d5110f72f"
+    },
+    {
+      "identifier": "2e04e675-e9c6-48ff-8e2b-80185ae0e5c6",
+      "name": "HID: MVIS task",
+      "description": "The delayed visual matched-to-sample task (MVIS) is conducted with visuo-spatial stimuli (dot arrays). Each of the main 36 trials started with the presentation of a 1500 ms central fixation cross followed by a 4-by-4 grid containing two, four or six dots (the « sample\" stimulus). After 1500 ms, the sample stimulus was replaced by an empty grid which stayed on screen for 3000ms (the « retention » period). At the end of the retention period, a dot appeared in one position of the grid for 1500 ms (the « test » stimulus) and participants had to press a key with their right index (« present ») or middle finger (« absent ») to indicate whether that dot was present or absent in the sample stimulus. There were 12 trials for each memory load (two, four or six dots). In addition, 12 trials (control condition) showed a sample stimulus with a single hollow dot in the array, indicating that participants only had to remember that single location (e.g. load equals « one »). They were 48 trials overall (36 + 12 controls) randomly presented during the task. All task sessions took place in patients' hospital rooms. Stimuli were presented to the participants on a 17 inch computer screen at a 60 cm viewing distance. The grid subtended 4x4 degrees of visual angle. Stimuli were delivered using the stimulus delivery software Presentation (Neurobehavioral systems Inc).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/2e04e675-e9c6-48ff-8e2b-80185ae0e5c6"
+    },
+    {
+      "identifier": "abd4a13d-b62f-47d2-812e-35f52b2361d8",
+      "name": "",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/abd4a13d-b62f-47d2-812e-35f52b2361d8"
+    },
+    {
+      "identifier": "55d88d32-4a28-49f2-93c5-af2f3dc1bca7",
+      "name": "HID: AUDI task",
+      "description": "During the auditory discrimination task (AUDI), participants listened to 36 sounds of 12 different categories knowing that three of them would be replayed at the end of the task, together with three novel sounds: their task was to listen attentively to all sounds in order to be able to report at the end which of the six final sounds had been heard before (auditory functional localization). All sounds lasted 12 seconds, and categories of sounds were a) simple sentences read in French (computer voice, French Sentence) b) the same sentences, played backwards in time (Flipped Sentences) c) simple sentences read in Suomi (Finnish, unfamiliar to participants, Suomi Sentences) d) predictable speech patterns (e.g. counting up « 1 … 2 … 3 …. » or the alphabet « a …. b …. c …. », Predictible Speech), e) human voices with no speech (Voices), e) human sounds : people crying (Crying), f) human sounds : people laughing (Laughing) g) human sounds : people yawning (Yawning), h) human sounds : people coughing (Coughing), i) instrumental music (no lyrics, Music), j) environmental sounds (e.g. cars, machines, …, Environmental), k) animal sounds (e.g. cows, horses, dogs, …. Animal). They were also three 12-s episodes of pure silence (Silence). Some of the sounds (Voices, Crying, Yawning, Laughing, Environmental and Animal) were concatenations of shorter stimuli of a functional localizer of the Temporal Voice Area ( Belin et al., 2000 ; Pernet et al., 2007 ). The 36 sounds (3 sounds of 12 categories) and 3 silent baseline periods were played consecutively, once each and in a pseudo-random order (to avoid that two sounds of the same category follow each other immediately). Participants listened to all sounds continuously with their eyes closed. The sequence was pseudorandom, to ensure that two sounds of the same category did not follow each other. All task sessions took place in patients' hospital rooms. Sounds were delivered binaurally via earphones using the stimulus delivery software Presentation (Neurobehavioral Systems). All acoustic signals had the same intensity, quantified by their root mean square, and were played at a comfortable hearing level.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/55d88d32-4a28-49f2-93c5-af2f3dc1bca7"
+    },
+    {
+      "identifier": "c37fae95-c719-41da-a24a-b7ad91192265",
+      "name": "M-08-peri",
+      "description": "All immunohistochemical stainings followed the same protocol: Sections were rinsed three-times in 0.01 M PBS for five minutes, then blocked for 1 h at room temperature (RT) using approximately 2% bovine serum albumin (BSA; Sigma-Aldrich/Merck, Germany, Catalog No. A8022) and approximately 0.5% TWEEN® 20 (Sigma-Aldrich/Merck, Germany, Catalog No. P1379) in 0.01 M PBS. After rinsing (3x5 min in 0.01 M PBS), the sections were incubated with the primary antibody in blocking solution for approximately 24 h at RT on a shaker. Sections were rinsed again (3x5 min in 0.01 M PBS) and incubated with the secondary antibody in 0.01 M PBS for 1-2 h at RT on a shaker. After the final rinsing steps (3x5 min in 0.01 M PBS), sections were mounted. Sections were always protected from light exposure to prevent bleaching. The specific primary and secondary antibodies and the concentrations used varied and are described for each staining.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/c37fae95-c719-41da-a24a-b7ad91192265"
+    },
+    {
+      "identifier": "b12cfd54-e285-4aa0-aa54-31ca44b80ef8",
+      "name": "HID: REST",
+      "description": "During resting state (REST), participants were recorded at rest, with no other instruction than to keep their eyes closed.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/b12cfd54-e285-4aa0-aa54-31ca44b80ef8"
+    },
+    {
+      "identifier": "512ddcb5-ccb3-45dd-862a-afe1be8323e9303708",
+      "name": "Probability mapping of brain fiber",
+      "description": "Provides the probabilty for voxels to be part of a defined brain fiber (probability mapping).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/512ddcb5-ccb3-45dd-862a-afe1be8323e9"
+    },
+    {
+      "identifier": "13cfd38f-3071-4de3-ab32-2ead83d18c2d",
+      "name": "depthELimplant",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/13cfd38f-3071-4de3-ab32-2ead83d18c2d"
+    },
+    {
+      "identifier": "c7e32fd8-b6b4-4247-9a25-250dee865507",
+      "name": "HID: LEC1 task",
+      "description": "The word recognition task (LEC1) was adapted from Mainy et al (2008). Patients were recorded under three different experimental conditions: a Control condition, a Phonological condition and a Semantic condition. In the Control condition, participants were shown series of five or six-letter consonant strings, which could not be read according to the conventional graphotactic rules of the French language (i.e., ''xwxqn''). Their task was to indicate whether the string was written in upper of lower case (50% probability for each category). In the Phonological condition, participants had to silently read five- and six-letter pseudo-words, pronounceable according to the phonotactic conventions of the French language (i.e., ''picron'') but with no obvious resemblance to known words. Their task was to determine the number of syllables included in the pseudo-word (two or three, 50% probability for each type). In the Semantic condition, participants had to judge whether five or six-letter words represented living things or not (animacy decision, 50% probability for each type). The experiment itself consisted of 12 runs. In each run, participants were presented with three blocks of five stimuli, one for each condition (Control, Phonological or Semantic). The order of the three conditions was counterbalanced between runs. The patients could take a short break and relax between two runs. Between blocks (5 stimuli of the same condition), a white cross-hair fixation point reminded participants of the condition for the block to come (coded with its precise location on a vertical axis). Strings were presented for 2000 ms, with a constant interstimulus interval (3500 ms). All stimuli (60 for each condition) were presented foveally on a 17'' computer screen, as white lower-case letters (courier font, size 36) on a light gray back-ground. Participants were instructed to respond by pressing a key with their left index finger (« Uppercase », or « Two Syllables » or « Living Entity » for the Control, Phonological and Semantic conditions respectively) or their right middle finger (« Lowerrcase », or « Three Syllables » or « Not a Living Entity »). Participants were asked not to move their tongue or lips during the tasks. All task sessions took place in patients' hospital rooms. Stimuli were presented to the participants on a 17 inch computer screen at a 60 cm viewing distance. Stimuli were delivered using the stimulus delivery software Presentation (Neurobehavioral systems Inc).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/c7e32fd8-b6b4-4247-9a25-250dee865507"
+    },
+    {
+      "identifier": "101f71a3-b770-4d03-b432-d77623519d34",
+      "name": "M-06-peri",
+      "description": "Nissl stain binds to DNA and is a commonly used counterstain labelling entire cell bodies. For Nissl staining, the tissue was rinsed three-times in 0.01 M PBS for five minutes. Afterwards the tissue was transferred into the staining solution (NeuroTrace™ 530/615 red (ThermoFisher, Catalog No. N21482) in 0.01 M PBS (1:50)) and incubated for 30 min. After two more rinsing steps in 0.01 M PBS for five minutes, the tissue was mounted and dried. Following rehydration in MQ water, about two to three drops of FluorSave™ (Millipore/Merck, Germany, Catalog No. 345789) was applied on the slide and covered with a coverslip. ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/101f71a3-b770-4d03-b432-d77623519d34"
+    },
+    {
+      "identifier": "6cbb11e4-690e-4be6-8ce2-38b562b5b6a9",
+      "name": "M-03-peri",
+      "description": "To investigate projections between the perirhinal cortex and ventral visual stream areas, two different types of tracers were used: The adenovirus-based tracer AAV5-hSyn-hChR2(H134R)-EYFP (from the Deisseroth Lab at UNC Vector Core, USA) was used for anterograde access from projection neurons, and two Cholera toxin (subunit b)-based tracers were used for retrograde access from projection sites. The retrograde tracers were functionally identical but conjugated with two different fluorophores (Alexa 488 (green; Sigma-Aldrich/Merck, Darmstadt, Germany, Catalog No. C1655) and Alexa 594 (red; ThermoFisher, Catalog No. C22842)). All used tracers distribute monosynaptically allowing the visualization of direct connections to the injection sites. While the anterograde tracer is taken up by cell bodies and delivered through the axon with the information flow to the presynaptic terminals, the retrograde tracer is taken up by the terminals and delivered against the information flow to the source of the terminals - the cell bodies (Figure 4). Here, anterograde tracer injections resulted in labelled fibers, and retrograde tracer injections resulted in labelled cell bodies. Retrograde tracers were injected bilaterally (conjugate with Alexa 488 in one hemisphere and conjugate with Alexa 594 in the other hemisphere) to allow bilateral differentiation of projections. The anterograde tracer was injected unilaterally. All tracers were prepared in 0.01 M phosphate buffered saline (PBS, pH 7.4) as a 1% w/v solution.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/6cbb11e4-690e-4be6-8ce2-38b562b5b6a9"
+    },
+    {
+      "identifier": "6ca38abc-6ebf-45f9-9032-541071536d82",
+      "name": "M2-ImmunohistochemicalStaining",
+      "description": "Staining protocol...",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/6ca38abc-6ebf-45f9-9032-541071536d82"
+    },
+    {
+      "identifier": "90f87ae4-9ba8-4220-a4f3-ff85ab40a395",
+      "name": "HID: LEC2 task",
+      "description": "The visual selective attention task (LEC2) was adapted from Nobre et al. (1998). In each block of the experiment, participants were presented with two intermixed stories, shown word by word at a rapid rate (one word every 700 ms, shown for 200 ms). One of the stories was written in grey (on a black screen) and the other in white. Consecutive grey words formed a meaningful and simple short story in French. Consecutive white words formed another meaningful and simple short story in French, although some of the words were interchanged between two parts of the story. Participants were instructed to read the grey story to summarize it at the end of the task, while ignoring white words. The task comprised 400 words, with 200 grey words (task-relevant, attended stimuli) and 200 white words (task-irrelevant, to-be-ignored stimuli). Color distribution within the 400 words was pseudo-randomized, so that participants could not predict whether the subsequent word was to be attended or not (but there were never more than three consecutive words of the same color). As announced, participants were told at the end of the task to summarize the story, and were also asked questions about the attended text, which could not have been answered from general knowledge. They were also asked to report anything weird they could have noticed within the white story, if they happened to read part of it unintentionally (interchanged words). All task sessions took place in patients' hospital rooms. Stimuli were presented to the participants on a 17 inch computer screen at a 60 cm viewing distance. Stimuli were delivered using the stimulus delivery software Presentation (Neurobehavioral systems Inc).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/90f87ae4-9ba8-4220-a4f3-ff85ab40a395"
+    },
+    {
+      "identifier": "8056af05-5097-4abb-9f3d-8aab3d721381",
+      "name": "RF mapping",
+      "description": "Electrophysiological and eye-position data during mapping of the receptive-field. We measured RFs by flashing a small white check (1° x 1°) at every point of an 11°x11° grid. The patient had to maintain fixation within a 2 degree radius window during the entire duration of each trial.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/8056af05-5097-4abb-9f3d-8aab3d721381"
+    },
+    {
+      "identifier": "02264bed-7436-48a3-b615-d000b3b76b34",
+      "name": "HID: VISU task",
+      "description": "In this visual oddball task (VISU), participants were shown pictures of different categories and were instructed to press a button each time they saw a picture of a fruit. Visual stimuli were gray-scale pictures presented foveally within an oval aperture (all pictures had the same average luminance). They were drawn from nine categories: houses, faces, animals, landscapes, objects, pronounceable French pseudo-words, unpronounceable consonant-strings, scrambled images and fruits (target items). No stimulus was presented more than once. Stimuli were presented for 200 ms every 1000-1200 ms in series of 5 pictures interleaved with 3-s pause periods during which participants could freely blink. Participants reported the detection of targets by manually pressing a joystick button with their right index finger and received a visual feedback immediately after (hit, miss or false alarm). A 2-s delay after each button press allowed participants to re-focus after each button press. Visual categories were distributed randomly across the experiment, with 50 pictures of each category, each shown only once. All task sessions took place in patients' hospital rooms. Stimuli were presented to the participants on a 17 inch computer screen at a 60 cm viewing distance and pictures subtended 3 degrees of visual angle. Stimuli were delivered using the stimulus delivery software Presentation (Neurobehavioral systems Inc).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/02264bed-7436-48a3-b615-d000b3b76b34"
+    },
+    {
+      "identifier": "e5261d50-7c26-4b27-b5f1-cf34425aa157",
+      "name": "M-12-peri",
+      "description": "Images were obtained using a confocal fluorescence microscope (Zeiss LSM880 with Airyscan, Carl Zeiss, Germany). Generally, tile scans were performed to obtain images of entire sections or parts of sections with a 10x objective. \n",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/e5261d50-7c26-4b27-b5f1-cf34425aa157"
+    },
+    {
+      "identifier": "7617ddf7-4466-49e3-9b32-a30cec5fe671",
+      "name": "RF tuning",
+      "description": "Electrophysiological and eye-position data during measurements of RF tuning properties. RF tuning properties were measured using drifting sine-wave gratings placed at a location that activated neurons at both E6 and E7 (10.3° eccentricity, -14° angle from horizontal meridian). As standard stimuli we used gratings with a Michelson contrast of 80% that were 10° in diameter with a spatial frequency of 1 cycle/degree and they drifted with a temporal frequency of 3Hz. We presented orientations of 45° or 135°, except in the orientation/direction tuning session, which included 24 directions ranging from 0 to 345°, in steps of 15°. For the other tuning sessions, we varied one parameter while holding the others constant. Each session contained 10 repeats of every stimulus parameter. We completed 2 sessions for the orientation-tuning and contrast-tuning experiments and one session for the spatial frequency and size tuning experiments.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/7617ddf7-4466-49e3-9b32-a30cec5fe671"
+    },
+    {
+      "identifier": "72622f75-fe71-4176-9a6a-91386f9b1854264305",
+      "name": "Reporter proteins",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/72622f75-fe71-4176-9a6a-91386f9b1854"
+    },
+    {
+      "identifier": "3760cd53-ef30-4a0d-8c6a-3f6064e8397a",
+      "name": "M-09-peri",
+      "description": "To enhance the signal of the anterograde tracer, one 1:12 series from each of the five brains used for anterograde tracing were immunohistochemically stained with antibodies binding to the fluorescent protein. Since the yellow and green fluorescent proteins (YFP and GFP, respectively) show strong similarities, the anti-GFP primary antibody could be used, even though the anterograde tracer was conjugated with YFP. An anti-GFP antibody (rabbit monoclonal; ThermoFisher, Catalog No. G10362) was used as primary antibody with a 1:500 dilution and Alexa Fluor™ 488 goat anti-rabbit IgG (H+L) (ThermoFisher, A11034) was used as secondary antibody with a 1:200 dilution.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/3760cd53-ef30-4a0d-8c6a-3f6064e8397a"
+    },
+    {
+      "identifier": "46091d19-9594-44c9-af5b-1e22e2e66c2c",
+      "name": "FGM",
+      "description": "Electrophysiological data from V1 of two monkeys performing a figure-ground segregation task. The monkeys fixated on a central dot for 300ms, this was followed by a full-screen textures composed of thousands of oriented lines. On figure and ground trials a 4 degree wide square figure was presented at one of three locations. The figure was constructed by copying a square region of a texture with orthogonal orientation onto the background texture. The animals were required to maintain fixation for a further 400ms. Aftre this time the fixation dot was extinguished and teh animal was allowed to make an eye-movement towards the figure.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/46091d19-9594-44c9-af5b-1e22e2e66c2c"
+    },
+    {
+      "identifier": "99afe534-48cf-40c6-bf6d-71e041d28d8c",
+      "name": "Immunohistochemistry",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/99afe534-48cf-40c6-bf6d-71e041d28d8c"
+    },
+    {
+      "identifier": "27d24f37-4370-4642-b784-c8e6c9cbc206",
+      "name": "",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/27d24f37-4370-4642-b784-c8e6c9cbc206"
+    },
+    {
+      "identifier": "8b0edfb1-f1dd-4cbc-8552-272466958e29303708",
+      "name": "Maximum probability mapping of brain fiber",
+      "description": "provides parcellation of brain areas based on the maximum probability of the voxels to belong to a corresponding fiber (maximum probability mapping).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/8b0edfb1-f1dd-4cbc-8552-272466958e29"
+    },
+    {
+      "identifier": "e965653a-ddf6-419e-a888-86ef9df8e67b",
+      "name": "M-01",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/e965653a-ddf6-419e-a888-86ef9df8e67b"
+    },
+    {
+      "identifier": "4d772b16-4e15-4af6-9fce-41625b7f5fc2",
+      "name": "FGM",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/4d772b16-4e15-4af6-9fce-41625b7f5fc2"
+    },
+    {
+      "identifier": "555596cf-0d35-413f-88fb-dc04eb79421c",
+      "name": "MRI",
+      "description": "Magnetic Resonance Imaging technique that produces a single (3D) snapshot of body's organ.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/555596cf-0d35-413f-88fb-dc04eb79421c"
+    },
+    {
+      "identifier": "e8e66c6d-d6a2-4277-a6e8-8f0517b05135",
+      "name": "M-10-peri",
+      "description": "Parvalbumin (PV) is expressed by the largest subgroup of GABAergic interneurons (GABA: γ-aminobutyric acid). These interneurons are fast-spiking and are expressed by different neuron types, but primarily by chandelier and basket cells in the cortex (Watson et al. (2012)). Since there are significantly more PV+ cells in auditory and visual areas compared to TeA, PRH and Ent (Whissell et al. (2015)), the borders between auditory/visual areas and temporal association area can be obtained by examining PV cells. For visualization of PV+ cells, one 1:12 series of each retrogradely injected brain (five PRH injected and five V2L injected) were stained using an anti-parvalbumin antibody (1:1000; goat monoclonal; swant, Switzerland, Code No. PVG-213). Alexa Fluor™ 488 donkey anti-goat IgG (H+L) (ThermoFisher, Catalog No. A11055) was used as secondary antibody with a 1:500 dilution.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/e8e66c6d-d6a2-4277-a6e8-8f0517b05135"
+    },
+    {
+      "identifier": "e525265c-f62f-4bd0-9014-882ccb761bc4",
+      "name": "M-07-peri",
+      "description": "DAPi (4’,6-diamidino-2-phenylindole) is a fluorescent counterstain binding selectively to DNA. Staining with DAPi helps to recognize general structures within sections and to identify the nuclei of labeled cell. For first inspections of the sections, one 1:12 series was mounted on a Superfrost microscopy slide (ThermoFisher, Catalog No. J7800AMNT). The tissue was dried and rehydrated in MQ water. Afterwards the tissue was stained with a mounting medium containing DAPi solution (Sigma-Aldrich/Merck, Germany, Catalog No. F6057) directly on the slide and covered with a coverslip (Warner Instruments, USA).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/e525265c-f62f-4bd0-9014-882ccb761bc4"
+    },
+    {
+      "identifier": "abb98997-efca-4177-8064-2cbf616afff2",
+      "name": "MainM-peri",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/abb98997-efca-4177-8064-2cbf616afff2"
+    },
+    {
+      "identifier": "0bc568df-1867-4555-a1c9-3654b1fdf1ec",
+      "name": "FG task",
+      "description": "Electrophysiological and eye-position data during presentation of contextual gratings. In the contextual modulation experiments the gratings had the same properties as those described above for teh RF tuning data except that they were stationary. The phase of the central grating was randomly chosen on each trial from a uniform distribution ranging from -π to π. We used two different, orthogonal orientations for the central grating, 60° and 150°. We presented equal number of trials with the two orientations so that the average stimulation of the RF was identical for all conditions. The stimulus duration was 500ms with an inter-trial interval of 500ms.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/0bc568df-1867-4555-a1c9-3654b1fdf1ec"
+    },
+    {
+      "identifier": "44e7cc1d-56a8-40f6-ac4b-c031c82d4cd5",
+      "name": "sEEG",
+      "description": "Stereotactic electroencephalography (sEEG) is an electrophysiological method for recording electroencephalographic brain signals via depth electrodes that need to be implanted into the brain tissue during a stereotactic surgery.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/44e7cc1d-56a8-40f6-ac4b-c031c82d4cd5"
+    },
+    {
+      "identifier": "0f2ca1f3-a834-4d04-be21-3b908a88e49c264305",
+      "name": "Histology",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/0f2ca1f3-a834-4d04-be21-3b908a88e49c"
+    },
+    {
+      "identifier": "14ade072-054a-4cd9-b354-fb13565c12e1264305",
+      "name": "Brightfield microscopy imaging",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/14ade072-054a-4cd9-b354-fb13565c12e1"
+    },
+    {
+      "identifier": "98def9b3-dddf-4a45-a721-b5a7ffdb000b",
+      "name": "CSD",
+      "description": "Raw data was low-pass flitered below 200Hz (2nd order Butterworth filter) and down-sampled to 763Hz. The Current-source density analysis (CSD) was calculated as the second spatial derivative of this signal.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/98def9b3-dddf-4a45-a721-b5a7ffdb000b"
+    },
+    {
+      "identifier": "d1aa4998-c83e-40aa-9339-3d3b2f4bd08f",
+      "name": "",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/method/v1.0.0/d1aa4998-c83e-40aa-9339-3d3b2f4bd08f"
+    }
+  ],
+  "total": 47,
+  "size": 47,
+  "start": 0
+}

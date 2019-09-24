@@ -1,0 +1,341 @@
+{
+  "importantMessage": "This query is executed with a mode thought for query testing only (with throttled performance). Please register your query if you're happy with it. It's easy and you gain speed ;)!",
+  "results": [
+    {
+      "identifier": "3edef112-1231-4b9c-8015-d752bd4b1933",
+      "name": ".DAT",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/3edef112-1231-4b9c-8015-d752bd4b1933"
+    },
+    {
+      "identifier": "9480d9c2-9edb-4aeb-80e5-25db028ee1ad",
+      "name": "WAVE",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/9480d9c2-9edb-4aeb-80e5-25db028ee1ad"
+    },
+    {
+      "identifier": "a5939320-e909-4b1c-8c3a-487c7196c9fe",
+      "name": ".smr",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/a5939320-e909-4b1c-8c3a-487c7196c9fe"
+    },
+    {
+      "identifier": "7d53bcf3-3d91-49d9-9aa9-ee99b1e44b18",
+      "name": "Neurodata Without Border (NWB)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/7d53bcf3-3d91-49d9-9aa9-ee99b1e44b18"
+    },
+    {
+      "identifier": "54e3fef7-8979-4213-8507-ec56992c4611305524",
+      "name": "Tagged Image File Format",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/54e3fef7-8979-4213-8507-ec56992c4611"
+    },
+    {
+      "identifier": "5ce57347-d63b-4439-b737-a22d247d73e2",
+      "name": ".hda",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/5ce57347-d63b-4439-b737-a22d247d73e2"
+    },
+    {
+      "identifier": "0fcdc08a-3663-4a4e-afe8-9b58b91d8a3b301597",
+      "name": ".mhd",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/0fcdc08a-3663-4a4e-afe8-9b58b91d8a3b"
+    },
+    {
+      "identifier": "fd89d59d1e9b8807784ec4863e4dee58",
+      "name": "Nifti, Csv, Txt",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/8124ea2e-5efe-4caf-808d-65badff9c997"
+    },
+    {
+      "identifier": "cbd58fa7-f10c-470e-bcf3-bf686b032021301598",
+      "name": ".xls",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/cbd58fa7-f10c-470e-bcf3-bf686b032021"
+    },
+    {
+      "identifier": "1095f5a7-2e5d-4b61-a705-0b163dd3b299",
+      "name": "Comma-Separated Values (CSV)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/1095f5a7-2e5d-4b61-a705-0b163dd3b299"
+    },
+    {
+      "identifier": [
+        "386e3ec6cecc26ad1de7ee83f830ba1b",
+        "b475e018dbc1c499c57f1fa9a194ef8a"
+      ],
+      "name": "<Unknown>",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/4f3bb58e-718d-45bd-8191-2d7b011fd63f"
+    },
+    {
+      "identifier": "0ed36260-f28c-45d8-8214-7f957abd7b6e",
+      "name": ".xlsx",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/0ed36260-f28c-45d8-8214-7f957abd7b6e"
+    },
+    {
+      "identifier": "2312e3f54dd5bbda8a89bfd57c9d0e51",
+      "name": "tif, nii",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/545a2ec7-7a20-4b15-bf08-9256ce046c10"
+    },
+    {
+      "identifier": "f6e6c84c-4cce-43b1-af9d-d7a41b2f067d301598",
+      "name": ".seg",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/f6e6c84c-4cce-43b1-af9d-d7a41b2f067d"
+    },
+    {
+      "identifier": "2fd894f9-6a17-45b3-94d0-0fdb215c1e4e",
+      "name": ".tif",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/2fd894f9-6a17-45b3-94d0-0fdb215c1e4e"
+    },
+    {
+      "identifier": "32d1dcb2-f0ed-418c-8228-f4c141ff6b57301598",
+      "name": ".mat",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/32d1dcb2-f0ed-418c-8228-f4c141ff6b57"
+    },
+    {
+      "identifier": "ea9715932022991e0bb6d23cbfdd9f25",
+      "name": "nifti, Brainvisa Mesh, gifti, csv",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/19b66f2e-1e45-4c27-9aaf-3a0c17a2813f"
+    },
+    {
+      "identifier": "538c0058-7c9a-41bd-83fc-4b365566e0c7",
+      "name": "text file",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/538c0058-7c9a-41bd-83fc-4b365566e0c7"
+    },
+    {
+      "identifier": "f4e17b10-f9f5-4f7c-b70d-44749970b24c",
+      "name": "JavaScript Object Notation (JSON)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/f4e17b10-f9f5-4f7c-b70d-44749970b24c"
+    },
+    {
+      "identifier": "1e2916cd-4786-4dc9-91ea-7fb6e70f1f12301597",
+      "name": ".raw",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/1e2916cd-4786-4dc9-91ea-7fb6e70f1f12"
+    },
+    {
+      "identifier": "bff139fa05ac583f685a523ab3d110a0",
+      "name": "png",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/f7b17a38-41ec-406e-82b1-593bc0e2f5e2"
+    },
+    {
+      "identifier": "d7d67f70-5d2b-4d0d-b183-88595dbcb83d",
+      "name": ".mnc",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/d7d67f70-5d2b-4d0d-b183-88595dbcb83d"
+    },
+    {
+      "identifier": "0372f5ee-3a95-4a4e-bc3c-dc0eb3636bac301597",
+      "name": " image/nii;version=0",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/0372f5ee-3a95-4a4e-bc3c-dc0eb3636bac"
+    },
+    {
+      "identifier": "6f2df5bd-835e-494f-a7a7-042db74b250f",
+      "name": "QuickPOS Intuit Interchange Format",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/6f2df5bd-835e-494f-a7a7-042db74b250f"
+    },
+    {
+      "identifier": "6bc68f37-35b7-48ec-ac26-fc0e384f6a40",
+      "name": ".xlsx",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/6bc68f37-35b7-48ec-ac26-fc0e384f6a40"
+    },
+    {
+      "identifier": "33243ec4-80a4-4ee6-92af-abb46942a015",
+      "name": ".label",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/33243ec4-80a4-4ee6-92af-abb46942a015"
+    },
+    {
+      "identifier": "41bea6b0-8f6d-43cc-be9e-098b3a58edb1",
+      "name": ".tiff",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/41bea6b0-8f6d-43cc-be9e-098b3a58edb1"
+    },
+    {
+      "identifier": "50a99aae-0553-4bc1-945b-94fe3eac6c8b",
+      "name": "Microsoft Excel Open XML Spreadsheet format",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/50a99aae-0553-4bc1-945b-94fe3eac6c8b"
+    },
+    {
+      "identifier": "020c299a-796b-4edf-a5ff-8a94e9162e80301597",
+      "name": "TIFF",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/020c299a-796b-4edf-a5ff-8a94e9162e80"
+    },
+    {
+      "identifier": "55f7b848-fd02-4a28-b3d7-4a1e8dae1258",
+      "name": ".obj",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/55f7b848-fd02-4a28-b3d7-4a1e8dae1258"
+    },
+    {
+      "identifier": "cad93fa7-a84b-427c-8ea1-1a5b1cb4384c",
+      "name": "Geometry format under the Neuroimaging Informatics Technology Initiative (GIfTI)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/cad93fa7-a84b-427c-8ea1-1a5b1cb4384c"
+    },
+    {
+      "identifier": "348b67d0658c23b37e08a9700eaf6466",
+      "name": "pts, nii, gii, eeg, csv, pos, xlsx, docx",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/0afdf752-a164-4fe2-bf87-177713deb539"
+    },
+    {
+      "identifier": "68a7a859-a898-479c-8ca0-4c7c2e4adaf1",
+      "name": ".nii",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/68a7a859-a898-479c-8ca0-4c7c2e4adaf1"
+    },
+    {
+      "identifier": "4ef84990-3880-48ac-9f1a-2713316bb017",
+      "name": "CEF",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/4ef84990-3880-48ac-9f1a-2713316bb017"
+    },
+    {
+      "identifier": "cda238d81db57a23d61526c7576e6401",
+      "name": "ASC, DAT",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/9b71efd3-5039-41d9-98d9-9bcb213f424d"
+    },
+    {
+      "identifier": "b739ab20-2aac-4e3c-8dc6-1e2ab50cc703",
+      "name": "European Data Format (EDF)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/b739ab20-2aac-4e3c-8dc6-1e2ab50cc703"
+    },
+    {
+      "identifier": "bf3e2924dcba1c52da01b5eda1111b2b",
+      "name": "xlsx",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/c125789f-b051-46c0-9aac-e8fa860f94eb"
+    },
+    {
+      "identifier": "c3ad4a54-2056-4f1d-aa64-5cdcde6caf20",
+      "name": ".csv",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/c3ad4a54-2056-4f1d-aa64-5cdcde6caf20"
+    },
+    {
+      "identifier": "ffdf4010-187b-41f4-8e06-ac27b2a6bc22",
+      "name": ".czi",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/ffdf4010-187b-41f4-8e06-ac27b2a6bc22"
+    },
+    {
+      "identifier": "33804895-c5df-42c0-82be-9801fec4b1de",
+      "name": "Pro Tools Session format (PTS)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/33804895-c5df-42c0-82be-9801fec4b1de"
+    },
+    {
+      "identifier": "fc712120-44a9-4168-831b-754689fd0f27",
+      "name": "NeuroScan EEG format",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/fc712120-44a9-4168-831b-754689fd0f27"
+    },
+    {
+      "identifier": "c16b7a3869b0a92957e65f8cd11a06d4",
+      "name": "ZIP, 3D-TIFF",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/f3f7490c-66a7-485d-8af7-cd1864a4aa64"
+    },
+    {
+      "identifier": "379cb891-7d03-4da0-bd99-d39dfc1734d1",
+      "name": "abf",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/379cb891-7d03-4da0-bd99-d39dfc1734d1"
+    },
+    {
+      "identifier": "77270b41f129f57649307e02177d475c",
+      "name": "Nifti, bundles, bundlesdata,  minf",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/281ecf86-9b94-40d6-9b6a-784e01521d7e"
+    },
+    {
+      "identifier": "7a20bdbd-74e3-4e5d-88f0-fca96461f951",
+      "name": ".xyz",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/7a20bdbd-74e3-4e5d-88f0-fca96461f951"
+    },
+    {
+      "identifier": "c7640aef219038fcd94ec1fc87e6e9b1",
+      "name": "3D-TIFF",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/349b5877-024a-4b29-849d-0ffcfc0c0072"
+    },
+    {
+      "identifier": "1d3f6aa9-a1b6-4844-9c58-e96f9e330e05",
+      "name": ".tif",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/1d3f6aa9-a1b6-4844-9c58-e96f9e330e05"
+    },
+    {
+      "identifier": "6bfc212d-eec2-445f-83a0-c4c25d181b02",
+      "name": ".txt",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/6bfc212d-eec2-445f-83a0-c4c25d181b02"
+    },
+    {
+      "identifier": "8a714bc3-635b-4bf3-81cb-8db2e861d079303708",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/8a714bc3-635b-4bf3-81cb-8db2e861d079"
+    },
+    {
+      "identifier": "e1837b0b7060bddbfcf4b292c3f0cdec",
+      "name": "3D TIFF, MP4",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/cedd1c28-a870-4708-8fbd-3b642dbcc7a8"
+    },
+    {
+      "identifier": "42589642-78ec-4f14-bad2-3d08772106d8301598",
+      "name": ".png",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/42589642-78ec-4f14-bad2-3d08772106d8"
+    },
+    {
+      "identifier": "0f635d0e0f3874fff8b581c132e6c7a7",
+      "name": "xml",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/2942699c-51dd-43d8-9d1c-284f037e0314"
+    },
+    {
+      "identifier": "c2e800f2-012c-427a-8e9e-86431886cf32",
+      "name": "Digital Imaging and Communications in Medicine (Dicom)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/c2e800f2-012c-427a-8e9e-86431886cf32"
+    },
+    {
+      "identifier": "83943987-87e0-4bca-95ef-694a96ca659c",
+      "name": "nii",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/83943987-87e0-4bca-95ef-694a96ca659c"
+    },
+    {
+      "identifier": "4be3f13da8aa4b17c4959512628c7e7c",
+      "name": "electrophysiological data",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/e2d7d2d4-c347-4b7b-ac7f-a612aa986a0b"
+    },
+    {
+      "identifier": "36ad418c-c786-406e-8053-2f8ffd8e1214",
+      "name": ".accdb",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/36ad418c-c786-406e-8053-2f8ffd8e1214"
+    },
+    {
+      "identifier": "f37d951f1471ae80d3942be27ce79733",
+      "name": "Neuroimaging Informatics Technology Initiative (NIfTI)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/a6b07b03-d5cd-4492-a40d-bba9063f8ac2"
+    },
+    {
+      "identifier": "e88f59db-f19b-4c46-b33f-391a591a47e1",
+      "name": ".bin",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/e88f59db-f19b-4c46-b33f-391a591a47e1"
+    },
+    {
+      "identifier": "591c9f70ca6b27b8e5ce7e1967c03e94",
+      "name": "xlsx, tif, txt",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/6b3395bb-45e7-434c-b3e3-c5651393bfc1"
+    },
+    {
+      "identifier": "0150eb4e-d527-4d6f-8b64-71611dc65146",
+      "name": "PDF",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/0150eb4e-d527-4d6f-8b64-71611dc65146"
+    },
+    {
+      "identifier": "e3b67f25-4f0c-4201-a10a-97ef2c484405",
+      "name": "Tab-Separated Values (TSV)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/e3b67f25-4f0c-4201-a10a-97ef2c484405"
+    },
+    {
+      "identifier": "3d49d24a29a8ca3592264cf5b173d1b3",
+      "name": "Nifti Files, gifti files, csv files, json files",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/90fbf46d-ff18-495c-9f3a-7b829e46c007"
+    },
+    {
+      "identifier": "7b060379-bdf9-459d-bffc-57a2f3fc25c8",
+      "name": ".docx",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/7b060379-bdf9-459d-bffc-57a2f3fc25c8"
+    },
+    {
+      "identifier": "fdea219c-72bd-443a-9c6c-9e3a3ed5ab1a",
+      "name": ".jpg",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/fdea219c-72bd-443a-9c6c-9e3a3ed5ab1a"
+    },
+    {
+      "identifier": "9e2b8dff4f176e8fa401299f0d00cdf5",
+      "name": "nifti, mnc",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/9c000fd4-7c27-4d1f-8472-e92bb68baa20"
+    },
+    {
+      "identifier": "3a032096b3e5907e2e9be0c26eccc5e8",
+      "name": "3D TIFF",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/format/v1.0.0/d6638b0f-3c3b-4579-bc19-f45a8e74b6fb"
+    }
+  ],
+  "total": 66,
+  "size": 66,
+  "start": 0
+}

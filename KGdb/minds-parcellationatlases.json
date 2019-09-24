@@ -1,0 +1,134 @@
+{
+  "importantMessage": "This query is executed with a mode thought for query testing only (with throttled performance). Please register your query if you're happy with it. It's easy and you gain speed ;)!",
+  "results": [
+    {
+      "identifier": "36e3c195-219d-4254-95ab-e27917959cd1",
+      "name": "Paxinos and Franklin's The Mouse Brain in Stereotaxic Coordinates 2007 v3",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/36e3c195-219d-4254-95ab-e27917959cd1"
+    },
+    {
+      "identifier": [
+        "deec923ec31a82f89a9c7c76a6fefd6b",
+        "e2d45e028b6da0f6d9fdb9491a4de80a"
+      ],
+      "name": "Jülich Cytoarchitechtonic Brain Atlas (human)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/94c1125b-b87e-45e4-901c-00daee7f2579"
+    },
+    {
+      "identifier": "d00890c5-6162-43dc-aca8-e15934e99546",
+      "name": "left hemisphere Pars Triangularis (lh_Tr)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/d00890c5-6162-43dc-aca8-e15934e99546"
+    },
+    {
+      "identifier": "89f7ef46-d0c9-4da4-8991-dee56eae01a7264305",
+      "name": "Allen adult mouse brain reference atlas V2",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/89f7ef46-d0c9-4da4-8991-dee56eae01a7"
+    },
+    {
+      "identifier": "fe5ac517-1720-43cc-bbf6-e50be7cf08ff",
+      "name": "Desikan-Killiany Atlas (2006)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/fe5ac517-1720-43cc-bbf6-e50be7cf08ff"
+    },
+    {
+      "identifier": "4ad2804e-3916-4043-8e48-faea9f7b932c",
+      "name": "V1",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/4ad2804e-3916-4043-8e48-faea9f7b932c"
+    },
+    {
+      "identifier": "39a1384b-8413-4d27-af8d-22432225401f",
+      "name": "Allen Mouse Common Coordinate Framework v3",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/39a1384b-8413-4d27-af8d-22432225401f"
+    },
+    {
+      "identifier": [
+        "2195bbee9024503ee13ef654c3edd89b",
+        "8ccf6028f69962253feceacfc83c5d0b"
+      ],
+      "name": "MarsAtlas (human)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/112baeab-6aae-416a-b1ab-60eaa858fd5a"
+    },
+    {
+      "identifier": [
+        "e5b8828361f3035e8162b39abba2365c",
+        "41f5321f6915e533899b70e1edd10cbe"
+      ],
+      "name": "Paxinos Rat Brain Atlas (rat)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/e4939174-4b22-4ebe-ba63-07b926912ae7"
+    },
+    {
+      "identifier": [
+        "be9ef00ca328dd4f9c74823b329c1232",
+        "2b7f532cb5a7d52d96df7f588bce8a37"
+      ],
+      "name": " Waxholm Space atlas of the Sprague Dawley rat brain ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/522b368e-49a3-49fa-88d3-0870a307974a"
+    },
+    {
+      "identifier": [
+        "386e3ec6cecc26ad1de7ee83f830ba1b",
+        "88183b946cc5f0e8c96b2e66e1c74a7e"
+      ],
+      "name": "<Unknown>",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/e39b93c7-e484-4fc8-ab2a-0b3d7c0a800e"
+    },
+    {
+      "identifier": [
+        "9d41f19af8c41e8f564a06d7da34fa58",
+        "8e47ef8bcccef820a2e3ed7c68c7fd62"
+      ],
+      "name": "Allen Human Brain Atlas (human)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/5a7289a5-ab5f-443c-b9c1-e3548f8f466f"
+    },
+    {
+      "identifier": "ae0db341-4bfc-4ec9-a953-35971ffd1667301598",
+      "name": "Paxinos and Watson The Rat Brain in Stereotaxic Coordinates 2007 v6",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/ae0db341-4bfc-4ec9-a953-35971ffd1667"
+    },
+    {
+      "identifier": [
+        "6e9e95ca03e2ba2bf2505a24e4227ac5",
+        "ae242b645d2fe2401245a3471c223e4d"
+      ],
+      "name": "Allen Mouse Common Coordinate Framework v3 (mouse)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/e2b46bcf-2e8f-4f9f-930d-17935435460a"
+    },
+    {
+      "identifier": "2449a7f0-6dd0-4b5a-8f1e-aec0db03679d",
+      "name": "Waxholm Space atlas of the Sprague Dawley rat brain v2",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/2449a7f0-6dd0-4b5a-8f1e-aec0db03679d"
+    },
+    {
+      "identifier": "d8945893-5d0b-4036-90ae-4e3a471adb9d",
+      "name": "Allen adult mouse brain reference V3",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/d8945893-5d0b-4036-90ae-4e3a471adb9d"
+    },
+    {
+      "identifier": "a9729bd5-508f-4cae-a30e-7b984e477837",
+      "name": "Paxinos and Watson The Rat Brain In Stereotaxic Coordinates 2013 v7 (rat)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/a9729bd5-508f-4cae-a30e-7b984e477837"
+    },
+    {
+      "identifier": "e740254e-62df-42b9-a17e-e3900551d9b9",
+      "name": "Allen adult mouse brain reference atlas V3",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/e740254e-62df-42b9-a17e-e3900551d9b9"
+    },
+    {
+      "identifier": "e293ff3e-cc2e-4ae3-898a-9f530f8fada3",
+      "name": "Allen Mouse Common Coordinate Framework V3",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/e293ff3e-cc2e-4ae3-898a-9f530f8fada3"
+    },
+    {
+      "identifier": "59bf1652-a9d6-483f-92c5-9696db02a036",
+      "name": "Destrieux Atlas_aparc.a2009s",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/59bf1652-a9d6-483f-92c5-9696db02a036"
+    },
+    {
+      "identifier": "6b2f903d-bb36-4282-84b0-f95a26d1ca93",
+      "name": "left hemisphere Superior Frontal (lh_SF)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/parcellationatlas/v1.0.0/6b2f903d-bb36-4282-84b0-f95a26d1ca93"
+    }
+  ],
+  "total": 21,
+  "size": 21,
+  "start": 0
+}

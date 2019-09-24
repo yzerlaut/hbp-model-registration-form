@@ -1,0 +1,1383 @@
+{
+  "importantMessage": "This query is executed with a mode thought for query testing only (with throttled performance). Please register your query if you're happy with it. It's easy and you gain speed ;)!",
+  "results": [
+    {
+      "identifier": "d1a011c7-7349-4145-add2-021eeec5a443",
+      "name": "Delineation criteria",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/d1a011c7-7349-4145-add2-021eeec5a443"
+    },
+    {
+      "identifier": "adb4494b-dcb0-4ea9-b0a6-8747fe73024d",
+      "name": "multi-element event paradigm",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/adb4494b-dcb0-4ea9-b0a6-8747fe73024d"
+    },
+    {
+      "identifier": "9de7057a18b69a34c1114bbd031da361303708",
+      "name": "autoradiography with [³H] AMPA",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/f9e239c9-45a1-42ac-9376-dea859e3f61e"
+    },
+    {
+      "identifier": "7993cc46-b27a-439f-9ba0-af20ab184c91301597",
+      "name": "Microscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/7993cc46-b27a-439f-9ba0-af20ab184c91"
+    },
+    {
+      "identifier": "d5ee49c7-074e-4516-95ca-f24f9c6ca6e8",
+      "name": "mental imagery",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/d5ee49c7-074e-4516-95ca-f24f9c6ca6e8"
+    },
+    {
+      "identifier": "1e160acdff8ca126be6ac2860d0db80b",
+      "name": "high resoluted 3D reconstruction",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/ea4e6053-addb-46a0-8d21-400b892b358a"
+    },
+    {
+      "identifier": "cc5a6dc185aa2d5295086552673d55d6",
+      "name": "HCP Working Memory task",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/d791d5d6-6da7-45ff-bbff-fe49fc27350d"
+    },
+    {
+      "identifier": "81df8b07-360b-4c24-9871-3016da7d73e9",
+      "name": "high-density electroencephalography (hd-EEG)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/81df8b07-360b-4c24-9871-3016da7d73e9"
+    },
+    {
+      "identifier": "bb92a45299fe55639b370800eff1f64c303708",
+      "name": "autoradiography with [³H] CGP 54626",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/13f2b5d7-d7b3-46d1-9cd7-f0cac7d64e81"
+    },
+    {
+      "identifier": "2f4ea781-d682-4418-81b7-ce1a1c39ebfb",
+      "name": "Gabazine",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/2f4ea781-d682-4418-81b7-ce1a1c39ebfb"
+    },
+    {
+      "identifier": "5187c4df8f82dbadd1d172abd316224e",
+      "name": "HCP Gambling task",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/cef31f3f-1609-4a42-ba85-2b1306e3b5eb"
+    },
+    {
+      "identifier": "1b7f707e-bdf1-4290-aa6c-2079fa8d87a9",
+      "name": "Image analysis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/1b7f707e-bdf1-4290-aa6c-2079fa8d87a9"
+    },
+    {
+      "identifier": "d146be59-7b38-4b62-814a-6c14a60801ac",
+      "name": "Multi electrode extracellular electrophysiology recording technique",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/d146be59-7b38-4b62-814a-6c14a60801ac"
+    },
+    {
+      "identifier": "3b671c883959a8ef434b85a104c293d4",
+      "name": "Analysis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/9a606c09-3aeb-4665-b593-03e4d5efe19a"
+    },
+    {
+      "identifier": "0ff16ecb38b8206230be33bbdff43d29",
+      "name": "fiber clustering",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/438e5162-0da6-43d6-b9d0-a3124233cddf"
+    },
+    {
+      "identifier": "bcf396b0-555e-4766-8880-ed1c3d85aa8f",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/bcf396b0-555e-4766-8880-ed1c3d85aa8f"
+    },
+    {
+      "identifier": "7faa876747cf3c1f4df2ca5249ad4fc8303708",
+      "name": "autoradiography with [³H] ketanserin",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/ee6a083b-0349-447c-8cbb-218b887d3313"
+    },
+    {
+      "identifier": "035e4cd7-f735-46f3-85d5-4df2ea5eb6ec",
+      "name": "Anesthesia Isoflurane 0.8%",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/035e4cd7-f735-46f3-85d5-4df2ea5eb6ec"
+    },
+    {
+      "identifier": "5ba96ae8-ed62-4805-a236-5864843b39b1301598",
+      "name": "Wakefulness",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/5ba96ae8-ed62-4805-a236-5864843b39b1"
+    },
+    {
+      "identifier": "0ec1e47b-2eb0-48d2-8060-09832808a356",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/0ec1e47b-2eb0-48d2-8060-09832808a356"
+    },
+    {
+      "identifier": "a12cf0c9fbf229a1562ab980364275cc",
+      "name": "word recognition task (LEC1)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/a5c70eeb-9429-4095-b098-61cef980319e"
+    },
+    {
+      "identifier": "e3ec19269e05cc39ce2140d2c777d3f8303708",
+      "name": "autoradiography with [³H] prazosin",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/23ce6645-a069-4efb-9d8c-a59f13feb089"
+    },
+    {
+      "identifier": "ce3aa7025e7f4215474a25cd1ff69941",
+      "name": "VGAT (DAB) staining",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/4d92c75a-1c2d-401d-95fe-ff3a4cdfee4b"
+    },
+    {
+      "identifier": "2557de1b-5378-4e58-9937-5e66bc3d199e",
+      "name": "biomarkers",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/2557de1b-5378-4e58-9937-5e66bc3d199e"
+    },
+    {
+      "identifier": "cd5be37a0b6c75ef45922d2c330079a6",
+      "name": "instructed moto-coordination task (MOTO)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/f9dfb4d7-a864-41ec-810c-ef9865c401cc"
+    },
+    {
+      "identifier": "d3570afe-5aee-4898-84dd-9f45e3f4031c303708",
+      "name": "magnetic resonance imaging",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/d3570afe-5aee-4898-84dd-9f45e3f4031c"
+    },
+    {
+      "identifier": "ab11b3f8-f4d2-47c2-b3ff-beb9fdadf99e",
+      "name": "image segmentation based on convolutional neuronal networks",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/ab11b3f8-f4d2-47c2-b3ff-beb9fdadf99e"
+    },
+    {
+      "identifier": "ceaf0d82-eef1-4dc3-bc7a-26fbf68ad09e",
+      "name": "Stereotaxic",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/ceaf0d82-eef1-4dc3-bc7a-26fbf68ad09e"
+    },
+    {
+      "identifier": "5a1da82bb43a69ea06c9c82579968f51",
+      "name": "silver staining",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6cdc52b3-ecdd-4c2d-ae3d-d20cb06eea7a"
+    },
+    {
+      "identifier": "4df431f8-e57d-4c4c-8c7f-216c3e4b9b4f",
+      "name": "CGP",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/4df431f8-e57d-4c4c-8c7f-216c3e4b9b4f"
+    },
+    {
+      "identifier": "f379877103f39df03402d6d949677a13",
+      "name": "Density measurment",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/30ba0bd2-0d5e-41c5-a4cb-ba8895fe0a33"
+    },
+    {
+      "identifier": "82f99906-dd7d-4452-b1ba-ff73658103ed",
+      "name": "illusory perception",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/82f99906-dd7d-4452-b1ba-ff73658103ed"
+    },
+    {
+      "identifier": "57373e4a58fb8de69e61156d5bc09053",
+      "name": "Nissl Staining",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/611f5fb2-ff4f-479f-befc-2bbc4d323019"
+    },
+    {
+      "identifier": "efc61fda-4673-42fc-975f-e32f10cd3f34",
+      "name": "Right hemisphere",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/efc61fda-4673-42fc-975f-e32f10cd3f34"
+    },
+    {
+      "identifier": "eb3914a1-845e-4560-8b33-956c41a08de1",
+      "name": "auditory stimulus",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/eb3914a1-845e-4560-8b33-956c41a08de1"
+    },
+    {
+      "identifier": "6314e3a9-0fe2-46e4-bcf5-cfd877ab87b7",
+      "name": "visual perception",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6314e3a9-0fe2-46e4-bcf5-cfd877ab87b7"
+    },
+    {
+      "identifier": "28714b7e-7b36-493a-bef0-23e4e4e210eb303708",
+      "name": "maximum probability mapping",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/28714b7e-7b36-493a-bef0-23e4e4e210eb"
+    },
+    {
+      "identifier": "d3d4a527-66d9-47f1-ae2c-3e5b8b62fd7c301598",
+      "name": "Cortex",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/d3d4a527-66d9-47f1-ae2c-3e5b8b62fd7c"
+    },
+    {
+      "identifier": "84cd70d1e99ba399e58aa110514082d1",
+      "name": "Brightfield microscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/16c3c10e-47f9-400f-bc01-51082af0381b"
+    },
+    {
+      "identifier": "be450d1eb61507365ecf62a0805be545303708",
+      "name": "autoradiography with [³H] flumazenil",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/962e5b3e-6415-4e06-9833-35b9e6d6ae81"
+    },
+    {
+      "identifier": "4ab7d471b85d867f917bf1a97f4224ec",
+      "name": "Tracing",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/fd3d2e9b-aacc-4419-afeb-13dbf5770bda"
+    },
+    {
+      "identifier": "671bd1ef-13e8-4777-af9a-3cf25ab8cf6e",
+      "name": "Craniotomy technique",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/671bd1ef-13e8-4777-af9a-3cf25ab8cf6e"
+    },
+    {
+      "identifier": "27818657feaa5deb8a7b4b8d8e19c9c9",
+      "name": "cytoarchitectonic mapping",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/0434736a-490f-4448-a527-d0ad6d9ab096"
+    },
+    {
+      "identifier": "352a0db8-c869-410d-b66d-6797453c378b",
+      "name": "visual stimulation",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/352a0db8-c869-410d-b66d-6797453c378b"
+    },
+    {
+      "identifier": "071966ae157eb4d7049030554ad50635",
+      "name": "ARCHI standard",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/3ef48613-402b-4d8e-88c0-0708c93e019d"
+    },
+    {
+      "identifier": "027ee948d357ccb898ab98e34a6c6e3e",
+      "name": "Parvalbumin staining",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/c0d5b468-f1ce-46f3-aba4-dcb9a75fd661"
+    },
+    {
+      "identifier": "a0d2a736-cafe-4525-bcc2-20c6c501f0dd",
+      "name": "Digital brain atlas",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/a0d2a736-cafe-4525-bcc2-20c6c501f0dd"
+    },
+    {
+      "identifier": "1994fdd7eb0a5dad96c056597fbf9ac7",
+      "name": "Polarized Light Microscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/7534fdb0-e448-4e69-b639-cd5bf99a765b"
+    },
+    {
+      "identifier": "f59bdaea33e19726c1fff1944d7ef71e",
+      "name": "fiber orientation and light extinction determination",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/cb3fa8a8-6e37-43ed-82d9-ada5a994eb46"
+    },
+    {
+      "identifier": "42e1a8c63c55a55f3a049b745630c047",
+      "name": "Wide-field microscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/2e166981-b4cb-4910-93c7-28d9d8befda4"
+    },
+    {
+      "identifier": "d917317a3218b189f250fe4c73135608303708",
+      "name": "autoradiography with [³H] oxotremorine-M",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/0a69f8b9-e0de-40d2-b0d5-dbf555ea5ee7"
+    },
+    {
+      "identifier": "38b7ae9381ddac5c963f4f4e8ea2b6f4",
+      "name": "Neu-N (DAB) staining",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/34aceba1-1836-42f8-a9b6-8a8a4d4a8cd9"
+    },
+    {
+      "identifier": "9d8cbc8b-a032-4994-bd93-94e8ddd93005",
+      "name": "quantification",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/9d8cbc8b-a032-4994-bd93-94e8ddd93005"
+    },
+    {
+      "identifier": "95ad4317-7862-45ac-b4b6-f350c1507ce1",
+      "name": "decoding",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/95ad4317-7862-45ac-b4b6-f350c1507ce1"
+    },
+    {
+      "identifier": "b4733fb8d5671ffdd9e27689b691ce59",
+      "name": "electroencephalography (EEG)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/64b9dc7d-5607-4622-9b8e-9a68362c8da1"
+    },
+    {
+      "identifier": "d24b54f2-f717-476b-a3eb-868de767fde4",
+      "name": "Single electrode extracellular electrophysiology recording technique",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/d24b54f2-f717-476b-a3eb-868de767fde4"
+    },
+    {
+      "identifier": "f0f234cf-92a4-4784-92d9-78ffe4905981",
+      "name": "Reference atlas",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/f0f234cf-92a4-4784-92d9-78ffe4905981"
+    },
+    {
+      "identifier": "4946c8ab56e137c0f82c74388a8bf991",
+      "name": "functional magnetic resonance imaging",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/28e189fa-0543-4058-8c73-13d2f6f72223"
+    },
+    {
+      "identifier": "41fb895e93910c133c68197707db5860",
+      "name": "Field potential recording",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/c1ac0df1-b376-4cf2-9fc5-e70fffef07d0"
+    },
+    {
+      "identifier": "2a416456-d89c-441b-9e00-f80fdc88a39b",
+      "name": "mock control condition of illusory perception",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/2a416456-d89c-441b-9e00-f80fdc88a39b"
+    },
+    {
+      "identifier": "0172bfcd-c6aa-40dd-acc3-abd6077238b5",
+      "name": "amodal control condition of illusory perception",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/0172bfcd-c6aa-40dd-acc3-abd6077238b5"
+    },
+    {
+      "identifier": "ad5f35e6640b23a85127c2977cba1627303708",
+      "name": "autoradiography with [³H] epibatidine",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/e857c0e2-7499-4389-a1a5-99989d6877e4"
+    },
+    {
+      "identifier": "ad4200cb-5c94-4fa3-9082-5520382938c8301598",
+      "name": "Hippocampus",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/ad4200cb-5c94-4fa3-9082-5520382938c8"
+    },
+    {
+      "identifier": "c2a40719-cdb8-4ea9-8fc7-0fc6110de3e5301598",
+      "name": "Anesthesia ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/c2a40719-cdb8-4ea9-8fc7-0fc6110de3e5"
+    },
+    {
+      "identifier": "a8ef1aa5-b4da-46e8-8195-8e0f7d3e941e",
+      "name": "analysis technique",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/a8ef1aa5-b4da-46e8-8195-8e0f7d3e941e"
+    },
+    {
+      "identifier": "19f057f4-23e1-4adc-8269-d77c61c83942",
+      "name": "Connectivity",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/19f057f4-23e1-4adc-8269-d77c61c83942"
+    },
+    {
+      "identifier": "1c81a635b1a1864c3b3c5e458299121a",
+      "name": "spatial transformation",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/c77382c2-5419-4fb0-8b06-be6cb706d38b"
+    },
+    {
+      "identifier": "4a878e0095836ac89fa7495825d2a53d",
+      "name": "Conjunction analysis across CBP based on Meta-analytic connectivity modeling (MACM), RSFC and PDT",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/c995946f-019a-4cb1-a2f2-e20f2df47347"
+    },
+    {
+      "identifier": "4d2d082d555a2967d771c9abcf27a7e1",
+      "name": "Knockout",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/e56bb8a0-1896-477f-9ba1-073c6f0430c2"
+    },
+    {
+      "identifier": "0a0d26c6fe34eb2c9eac9ffe3313e9bc303708",
+      "name": "autoradiography with [³H] MK-801",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/f2e3c59c-906c-4583-be09-88f0f2932d4b"
+    },
+    {
+      "identifier": "54eca39154690859fcf38dbdb379996a",
+      "name": "receptor density fingerprint analysis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/d0e5f335-e317-4410-a65a-bf7d47494cce"
+    },
+    {
+      "identifier": "4be6df9e-715c-47ff-baac-0a1e6068c3f0",
+      "name": "In vitro technique",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/4be6df9e-715c-47ff-baac-0a1e6068c3f0"
+    },
+    {
+      "identifier": "5b83b1ab-c73c-4d11-928b-b923320da65c",
+      "name": "autoradiography - imaging",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/5b83b1ab-c73c-4d11-928b-b923320da65c"
+    },
+    {
+      "identifier": "533a704300e860a422361f1ebb3457ae",
+      "name": "HBP_MEM:0000014",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6c85b1df-1ef4-4baa-a308-3c4c7fd924ed"
+    },
+    {
+      "identifier": "3e7b2ca67e5c7f8cb46bb2e83215f9e7",
+      "name": "Positron emission tomography",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/3861bd3d-2883-4471-8393-f652b0d075e1"
+    },
+    {
+      "identifier": "320383aef87d8ed63c892650b296c3fd",
+      "name": "HCP Motor task",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/7f85aff9-b5ed-42a2-911c-c16e732a7735"
+    },
+    {
+      "identifier": "ac1b32c6-334d-4ef2-a2af-4e887bd79086",
+      "name": "Figure-ground segregation task",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/ac1b32c6-334d-4ef2-a2af-4e887bd79086"
+    },
+    {
+      "identifier": "9c3767c1-cf99-4751-9221-5c707818501f",
+      "name": "atlas registration",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/9c3767c1-cf99-4751-9221-5c707818501f"
+    },
+    {
+      "identifier": "cd424f7d-516d-44ae-88ef-cf5c7f812581",
+      "name": "Brightfield microscopy technique",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/cd424f7d-516d-44ae-88ef-cf5c7f812581"
+    },
+    {
+      "identifier": "3f11c28ab66a03b371b70ba0916e25bc",
+      "name": "Knockin",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/1e7de922-57d6-4077-b4fa-48eb7462a6b7"
+    },
+    {
+      "identifier": "fdd163f1735816432f089c85b0474662",
+      "name": "Diffusion magnetic resonance imaging",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/a80d52d2-4ada-457d-a236-c7621dfd27ad"
+    },
+    {
+      "identifier": "85c0bde7279589a1d78aa8f9555de7db303708",
+      "name": "autoradiography with [³H] pirenzepine",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/68db00fd-4dab-4ae9-a891-cd616c6f09ee"
+    },
+    {
+      "identifier": "4a1f0724-1521-4396-abf3-f4fe8ce884c5",
+      "name": "ultra-high resolution structural magnetic resonance imaging ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/4a1f0724-1521-4396-abf3-f4fe8ce884c5"
+    },
+    {
+      "identifier": "0fd252eafd6c236c92b36b1fa769f851",
+      "name": "resting state (REST)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/d799ace5-0cb3-4e30-ad33-77dbcae6153d"
+    },
+    {
+      "identifier": "c144ed69-dcfb-40d9-b066-5f3945753bdf",
+      "name": "functional magnetic resonance imaging (fMRI)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/c144ed69-dcfb-40d9-b066-5f3945753bdf"
+    },
+    {
+      "identifier": "188bff14af6e898bb4e6d428b840db0c",
+      "name": "Multiple electrode recording",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/8f6eee64-9e54-4dd6-bfcc-702cdc0acccc"
+    },
+    {
+      "identifier": "ebbb2e637bcff43c889bb3d9661204d4303708",
+      "name": "autoradiography with [³H] SCH23390",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/9300862c-6ed8-41a5-8e19-0a373b6945b3"
+    },
+    {
+      "identifier": "5852cb3e09118e880547b8f21ae4111f",
+      "name": "SMI32 staining",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/7a86714c-cdd3-4907-98d5-9c6c47148c55"
+    },
+    {
+      "identifier": "2d25f4eeadfddd4f50a352758f882358",
+      "name": "HBP_MEM:0000015",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/e49e9fd2-5547-496a-ae4a-741fe8f2e377"
+    },
+    {
+      "identifier": "3a15576e-1386-494d-be69-55ff85abb25b",
+      "name": "Anesthesia isoflurane 0.75%",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/3a15576e-1386-494d-be69-55ff85abb25b"
+    },
+    {
+      "identifier": "e8d49cf4-6cfd-4ac3-84ce-e39d310c5ca1",
+      "name": "Light-sheet microscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/e8d49cf4-6cfd-4ac3-84ce-e39d310c5ca1"
+    },
+    {
+      "identifier": "25999a726caae1f9b09ffcece7c48854",
+      "name": "Extracellular recording",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/aea856db-b1cd-448f-a5e4-9add4d134ca0"
+    },
+    {
+      "identifier": "7cd4ad4b3fa9cdf36453a7740980332c",
+      "name": "Voltage clamp recording",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/c6f69f25-f608-4f19-b4d0-19e484967fb9"
+    },
+    {
+      "identifier": "e3c580b5fbdd811375a72f1640296462",
+      "name": "ARCHI spatial",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/e49add76-8548-45c2-ae37-1e1646f928e3"
+    },
+    {
+      "identifier": "2a8de8395f7df17ed48f0e7abdbd06c5",
+      "name": "receptor autoradiography plot",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/b70ea59c-b852-4dc9-936e-69344248f689"
+    },
+    {
+      "identifier": "5f91d13f2264c27ed2e160d3eaed6275",
+      "name": "Connectomist  analysis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/44857512-11ed-4605-b630-d650cd8ed157"
+    },
+    {
+      "identifier": "e1ba10bc-00e3-4f2f-ac1b-439b691335e7",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/e1ba10bc-00e3-4f2f-ac1b-439b691335e7"
+    },
+    {
+      "identifier": "be343ea9-136c-456d-bc7c-fed1b8ae0595303688",
+      "name": "biocytin staining",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/be343ea9-136c-456d-bc7c-fed1b8ae0595"
+    },
+    {
+      "identifier": "41f01cc1e125bc012e822887b1c0b6de",
+      "name": "Morphology visualization",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/c507d828-95d9-45f6-a522-c29f52b98b3d"
+    },
+    {
+      "identifier": "8c192d0255f4d2aa9a2d7c06d0a7d7c7",
+      "name": "visual search task (MCSE)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/df8ed8b3-c3c8-4492-bafe-ce4d28813d28"
+    },
+    {
+      "identifier": "6d189af2-e1b2-483b-935a-73da5faf6ab9",
+      "name": "Photoactivation technique",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6d189af2-e1b2-483b-935a-73da5faf6ab9"
+    },
+    {
+      "identifier": "ea7d77a6980d89b8a90671c7caf9e7f5",
+      "name": "reconstruction of the grey–white matter interface",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/da6aa277-c606-43af-8804-b300e157542e"
+    },
+    {
+      "identifier": "a7041310-2883-47b7-b040-a885b0e009d4301598",
+      "name": "LFP",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/a7041310-2883-47b7-b040-a885b0e009d4"
+    },
+    {
+      "identifier": "727174e40913d9c5f1c8c9a5e2aee198",
+      "name": "diffusion-weighted magnetic resonance imaging",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/0a340e14-f6f8-4c4d-95e4-a803fae1f471"
+    },
+    {
+      "identifier": "60585ea00659581e082af67738abf906",
+      "name": "GLUR2 staining",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/a76b1ab4-6ecd-415e-a517-3c23df146603"
+    },
+    {
+      "identifier": "3551472c-0647-419b-9b6a-e89bf7cce8e2",
+      "name": "in situ hybridisation",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/3551472c-0647-419b-9b6a-e89bf7cce8e2"
+    },
+    {
+      "identifier": "29a94899-255d-45b8-b349-00d72aaf6a95",
+      "name": "GABAA antagonist",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/29a94899-255d-45b8-b349-00d72aaf6a95"
+    },
+    {
+      "identifier": "69324902-9be4-49f3-81a1-9f3659b7ac32303708",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/69324902-9be4-49f3-81a1-9f3659b7ac32"
+    },
+    {
+      "identifier": "448afcf4-ce92-46d2-a589-98782fafda1f303708",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/448afcf4-ce92-46d2-a589-98782fafda1f"
+    },
+    {
+      "identifier": "495946db-333e-4588-9a4c-83a11512599d",
+      "name": "Anesthesia isoflurane 1.2%",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/495946db-333e-4588-9a4c-83a11512599d"
+    },
+    {
+      "identifier": "3b1b8f40-aae1-430b-94dd-e7e3a1e434c3",
+      "name": "Anterograde tracing technique",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/3b1b8f40-aae1-430b-94dd-e7e3a1e434c3"
+    },
+    {
+      "identifier": "692d082c-41f8-4fca-8c50-f874a97424b8303708",
+      "name": "parcellation based strategies",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/692d082c-41f8-4fca-8c50-f874a97424b8"
+    },
+    {
+      "identifier": "c186bc3d2f5c77065ea3caf71e07c342",
+      "name": "Immunohistochemistry",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/aee4d6cd-9f8d-44f8-94c8-ba07298cf981"
+    },
+    {
+      "identifier": "8aaec837-9b30-48d6-8152-61645e1f190d",
+      "name": "Tract Tracing",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/8aaec837-9b30-48d6-8152-61645e1f190d"
+    },
+    {
+      "identifier": "3ad82871cfc28da3bf1356953ea4cf00",
+      "name": "visual oddball task (VISU)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/5b900ddf-e9d4-45ab-8bae-c6c0ba98dddb"
+    },
+    {
+      "identifier": "3c0b2606-4da1-40f5-9bb6-e050ac02b208",
+      "name": "Receptive-field mapping task",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/3c0b2606-4da1-40f5-9bb6-e050ac02b208"
+    },
+    {
+      "identifier": "b678633135d7bbc11737429fdb0ad522",
+      "name": "receptor density profile analysis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/1e3df3c7-f209-44c1-85cf-d0010cc4572f"
+    },
+    {
+      "identifier": "9b9e9f52753b8e526351f33d8f59049d303708",
+      "name": "autoradiography with [³H] 8-OH-DPAT",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/0a97a4eb-94da-400d-a4a7-cc0831abef1d"
+    },
+    {
+      "identifier": "eecf9db6-9e76-44bb-bbcd-f509fa2a5865301598",
+      "name": "Epidural EEG ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/eecf9db6-9e76-44bb-bbcd-f509fa2a5865"
+    },
+    {
+      "identifier": "d81ecc0e-2434-439a-b65a-58db8a635c4c",
+      "name": "segmentation",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/d81ecc0e-2434-439a-b65a-58db8a635c4c"
+    },
+    {
+      "identifier": "a00728e03472e3d00a111f851d9a94e9",
+      "name": "Cell-attached patch",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/454e4f78-f547-41ed-b202-9f1038cbec41"
+    },
+    {
+      "identifier": "338ab526-186d-4af4-bd2f-8eb99ed81180",
+      "name": "Intracellular injections with markers",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/338ab526-186d-4af4-bd2f-8eb99ed81180"
+    },
+    {
+      "identifier": "88c057cffb1596bbfbfd8618443bd0b5",
+      "name": "HCP Social task",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/be72155a-9eff-46e7-858d-8c8eaff8e517"
+    },
+    {
+      "identifier": "0938eb2fc323550279197f3cef447938",
+      "name": "Meta-Analytic Connectivity Modeling (MACM) of task-related functional connectivity",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/65b4338e-fb62-435f-ae53-b543c448e239"
+    },
+    {
+      "identifier": "caf879ad224ae54a98f79a4206d1f1e9",
+      "name": "Anchoring",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/b3e9eb77-63ed-4bcb-83b2-1d8f8dc4d953"
+    },
+    {
+      "identifier": "1209b6db-9e75-446b-aca2-008c2cbb3a88",
+      "name": "Local field potentials (LFP)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/1209b6db-9e75-446b-aca2-008c2cbb3a88"
+    },
+    {
+      "identifier": "76106123ef76ff14c9fb2f155bc20c02",
+      "name": "Current clamp recording",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/872e158f-3cc6-4f7c-a5e0-6db3c8a3024a"
+    },
+    {
+      "identifier": "2b09ee58-6f4c-4687-b84f-a62122737ef5",
+      "name": "Delineation",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/2b09ee58-6f4c-4687-b84f-a62122737ef5"
+    },
+    {
+      "identifier": "cb002d25-1f9a-444a-bfe6-7cd049968a17",
+      "name": "functional Magnetic Resonance Imaging at 7 Tesla (7TfMRI)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/cb002d25-1f9a-444a-bfe6-7cd049968a17"
+    },
+    {
+      "identifier": "1d72d31a-d575-4741-82e0-5b9e3c056f67",
+      "name": "Anatomical",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/1d72d31a-d575-4741-82e0-5b9e3c056f67"
+    },
+    {
+      "identifier": "2585003a-438d-45b1-a628-0d1e5838645d",
+      "name": "Electrocorticogram",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/2585003a-438d-45b1-a628-0d1e5838645d"
+    },
+    {
+      "identifier": "aa3b044b-c9a3-42a7-a4f7-487dbaa47df7",
+      "name": "cortical depth layer segmentation",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/aa3b044b-c9a3-42a7-a4f7-487dbaa47df7"
+    },
+    {
+      "identifier": "97ef391d28bc0ada71bef793cc9f2739",
+      "name": "CLARITY/TDE",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/e2e1cb67-f620-41aa-888a-ce067a165651"
+    },
+    {
+      "identifier": "76cbce08-2c40-4a19-802a-a2f4849bd4d5",
+      "name": "Anesthesia Ketamine/Medetomidine (75/1.3)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/76cbce08-2c40-4a19-802a-a2f4849bd4d5"
+    },
+    {
+      "identifier": "eece7bbe-6127-4447-b973-a6525ed6f62b",
+      "name": "current-source density analysis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/eece7bbe-6127-4447-b973-a6525ed6f62b"
+    },
+    {
+      "identifier": "ce023b886942ee680e1e04d323c81531",
+      "name": "RSVP Language",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/b6acd59b-8021-4ccd-bffc-29230bae5d3e"
+    },
+    {
+      "identifier": "90b3238f-caf3-424f-9c90-aedb47b4a970",
+      "name": "pcASL Arterial Spin labeling",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/90b3238f-caf3-424f-9c90-aedb47b4a970"
+    },
+    {
+      "identifier": "ba59858359401a9477dfa53e2ca87682",
+      "name": "NeuN staining",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/05ce4fcf-5667-449f-963d-c202ffa1c392"
+    },
+    {
+      "identifier": "04671b73295c231ff23b71d3ba6206a7",
+      "name": "Statistical Analysis of Segment Length in Apical Tuft, Apical Obliques and Basal Dendrites",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/59cfe3a7-65fe-46e0-91e2-8be3414f43d6"
+    },
+    {
+      "identifier": "6ec4c848-3e09-48da-97cc-f4fe6a966f30",
+      "name": "Contrast enhanced",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6ec4c848-3e09-48da-97cc-f4fe6a966f30"
+    },
+    {
+      "identifier": "031e696a-d9a9-4c1e-b9c2-78f0734ded3d",
+      "name": "Intracellular Injections",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/031e696a-d9a9-4c1e-b9c2-78f0734ded3d"
+    },
+    {
+      "identifier": "d249dd28-3133-40ec-b009-fec207fb3109",
+      "name": "3D Cell Reconstructions",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/d249dd28-3133-40ec-b009-fec207fb3109"
+    },
+    {
+      "identifier": "4c0674673171384ff27310c154fe4604",
+      "name": ".mat",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/f6d7cd43-bf1c-4064-a61a-440256c2ee1e"
+    },
+    {
+      "identifier": "10067a34602ea94427fd20cdce64f61f",
+      "name": "identification of cortical layers",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/7e8c03c9-9775-44c8-bf4c-81b633f9aaa4"
+    },
+    {
+      "identifier": "15f146edafe5cc3535dcd02695ed99c4",
+      "name": "Light Microscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/1fdd7526-18a9-418c-bc7c-c336ddbedd43"
+    },
+    {
+      "identifier": "ad056401-6c74-4713-a88f-88545a71ef3f",
+      "name": "Diffusion-Weighted Magnetic Resonance Imaging (DWI)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/ad056401-6c74-4713-a88f-88545a71ef3f"
+    },
+    {
+      "identifier": "513a35fb-bbb5-4656-a82b-998b5b3cb9e2",
+      "name": "Potassium chloride",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/513a35fb-bbb5-4656-a82b-998b5b3cb9e2"
+    },
+    {
+      "identifier": "2d1083afee04bc4c0356cdbe9c994513",
+      "name": "magnetic resonance imaging (MRI)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6ccf1831-0778-4f93-9420-0f640485ecfc"
+    },
+    {
+      "identifier": "b18c1809c58433040d8e61957ec0d74b",
+      "name": "Whole-cell patch",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/54c4d7b3-cfbe-4bae-8f12-6d3d89f766e9"
+    },
+    {
+      "identifier": "d899233a941bac5cd8cc9b867e9f2f26",
+      "name": "delayed visual matched-to-sample task (MVIS)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/b21ba2ab-2385-477f-a227-08fa33b655a2"
+    },
+    {
+      "identifier": "5e3bcab545771b757b5584a418c04867303708",
+      "name": "autoradiography with [³H] 4-DAMP",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/3c51fbe2-816b-4c4d-b3fd-50bebfc7cb31"
+    },
+    {
+      "identifier": "6e8888d7-cc80-4884-aece-f4aa86483b9e",
+      "name": "tetrode recording",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6e8888d7-cc80-4884-aece-f4aa86483b9e"
+    },
+    {
+      "identifier": "c28e52c8d78dd1486dca9a49729ce6f4",
+      "name": "parcellation based strategies",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/51c89384-aed7-4dbd-ba28-69fc447dc454"
+    },
+    {
+      "identifier": "44b6e252-68d6-402c-9af1-145345513cb0",
+      "name": "stimulation protocol",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/44b6e252-68d6-402c-9af1-145345513cb0"
+    },
+    {
+      "identifier": "6753f50b-cfe2-46e9-84eb-c70228331144",
+      "name": "Neuron morphology reconstruction",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6753f50b-cfe2-46e9-84eb-c70228331144"
+    },
+    {
+      "identifier": "36f015fa-3f2a-4f15-b7b8-5c2e59541216",
+      "name": "Anesthesia isoflurane 0.4%",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/36f015fa-3f2a-4f15-b7b8-5c2e59541216"
+    },
+    {
+      "identifier": "c23521de-356a-4ff6-a408-fca038b62be6",
+      "name": "single pulse electrical stimulation (SPES)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/c23521de-356a-4ff6-a408-fca038b62be6"
+    },
+    {
+      "identifier": "21e9a48a-b528-4f99-b179-4ac26016f83e301598",
+      "name": "Electrical stimulation",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/21e9a48a-b528-4f99-b179-4ac26016f83e"
+    },
+    {
+      "identifier": "992057ec2fc072b31bd816aa03ae64af",
+      "name": "ARCHI emotional",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/695142da-4c0b-44f4-bf9a-348f65987e74"
+    },
+    {
+      "identifier": "97db2b030639e5ab16cfef15a485e4bd",
+      "name": "high frequency activity (HFA) average",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/7f9b92bd-0327-461d-b50d-96b9e2977a4c"
+    },
+    {
+      "identifier": "6daf40cfbc9a6c1988afa07d6b0bdaae",
+      "name": "Electron microscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/f8274174-ba79-40d2-835e-28e53f7a5849"
+    },
+    {
+      "identifier": "f5473825-5b19-491a-9353-e79158c21c40301598",
+      "name": "Focused ion beam scanning electron microscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/f5473825-5b19-491a-9353-e79158c21c40"
+    },
+    {
+      "identifier": "a66427fc-842f-4f24-a084-9a6661552995",
+      "name": "Magnetic Resonance Imaging (MRI)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/a66427fc-842f-4f24-a084-9a6661552995"
+    },
+    {
+      "identifier": "612beed3fd04001bcc25c4484cb3de54301597",
+      "name": "Histochemistry",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/59fd3bfd-9b19-4c91-b78a-0dd53bb61af3"
+    },
+    {
+      "identifier": "90f86efb-6930-4ea4-82d5-614dcf66b30a",
+      "name": "Template",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/90f86efb-6930-4ea4-82d5-614dcf66b30a"
+    },
+    {
+      "identifier": "205b4763-c2ab-4d5f-b045-c8312e4e19ab",
+      "name": "Knock out technique",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/205b4763-c2ab-4d5f-b045-c8312e4e19ab"
+    },
+    {
+      "identifier": "0ee01998-ab93-47f3-92f9-46c14dcafc17",
+      "name": "population-receptive field mapping",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/0ee01998-ab93-47f3-92f9-46c14dcafc17"
+    },
+    {
+      "identifier": "1ac806c5b82866276ac3a0f01485b635",
+      "name": "HCP Relational task",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/f2ec0606-2a4c-473b-b0fd-eab9ed485035"
+    },
+    {
+      "identifier": "00d3d8e69ed83f982adb15b9d4ab62ea",
+      "name": "HCP Emotion",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/5554a308-a227-4ac6-95a4-8485ebac3695"
+    },
+    {
+      "identifier": "4be3f13da8aa4b17c4959512628c7e7c",
+      "name": "electrophysiological data",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/8d104944-cd93-4f87-8b2b-dd2518668b49"
+    },
+    {
+      "identifier": "74882a08-7179-4fde-adf6-f570c305f489",
+      "name": "high-field fMRI imaging",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/74882a08-7179-4fde-adf6-f570c305f489"
+    },
+    {
+      "identifier": "8fbb8197-bcc5-4174-9ad9-88ebc63ab844303708",
+      "name": "probability mapping",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/8fbb8197-bcc5-4174-9ad9-88ebc63ab844"
+    },
+    {
+      "identifier": "3fde092a-0f80-4134-9f68-659cafe03825303708",
+      "name": "diffusion-weighted magnetic resonance imaging",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/3fde092a-0f80-4134-9f68-659cafe03825"
+    },
+    {
+      "identifier": "f3c8e94b-4e30-4996-a194-4e48a6e5dc56",
+      "name": "anti-parvalbumin staining",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/f3c8e94b-4e30-4996-a194-4e48a6e5dc56"
+    },
+    {
+      "identifier": "9c5fe62407ceeef0ffe4e8b6fb20e76b",
+      "name": "maximum probability mapping",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/226dc26f-60f2-40a8-b1b3-b6bf35fe18c7"
+    },
+    {
+      "identifier": "62694786ce817858bd2770945dd6ef42",
+      "name": "Fluorescence microscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/1815ef9f-6cb5-4e5e-a2ae-62298946efb9"
+    },
+    {
+      "identifier": "017f9db56347b8801eebe591ebbeddc9",
+      "name": "Single cell RNA sequencing",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/909e32fa-ebea-424a-9156-5d3a81008240"
+    },
+    {
+      "identifier": "d1b58d4de8f4c6b70bc417d6afe6bb01",
+      "name": "Reporter genes",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/dd4cb5a6-3bd5-48af-b25c-00557fa617c7"
+    },
+    {
+      "identifier": "bcf2d7015b58fd8cfcb7b63a7bce199f",
+      "name": "auditory discrimination task (AUDI)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/ca8f414f-9fe0-4473-b548-c07e1fe6e569"
+    },
+    {
+      "identifier": "3ca01f6e5d7c57b31d84a312d6f9bab7",
+      "name": "Hierarchical Agglomerative Clustering",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/221ff972-65dc-43bf-9b7f-3cf50096b085"
+    },
+    {
+      "identifier": "c55bcd4cd96bc00d29388c1b3f1b8656",
+      "name": "Diffusion magnetic resonnance imaging",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/2e7b98e4-2ec2-420d-a355-c1e08e69a99c"
+    },
+    {
+      "identifier": "0c8670b9eed3035358a8137ff3d2c8f8",
+      "name": "Meta-analysis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/c64af248-4ff8-4aad-9ccc-3978c3ab59b6"
+    },
+    {
+      "identifier": "153f2c63fa8361bd49c1c2b7505320bc",
+      "name": "Focused ion beam scanning electron microscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/46946c79-0eed-48fa-9573-2cc97f94d8c6"
+    },
+    {
+      "identifier": "ad75641b-8c99-434d-a3e8-9e2af03c5d29",
+      "name": "3D reconstruction",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/ad75641b-8c99-434d-a3e8-9e2af03c5d29"
+    },
+    {
+      "identifier": "0e2294cc36972c9c25c417741af53a9d",
+      "name": "sEEG-electrode implantation",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/2b368161-8556-4a06-8fd0-d57fc8b30373"
+    },
+    {
+      "identifier": "1dc440cd-9b1a-47ea-8e37-8370555ed3cb",
+      "name": "Anesthesia Isoflurane 1.0%",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/1dc440cd-9b1a-47ea-8e37-8370555ed3cb"
+    },
+    {
+      "identifier": "0ae8be26-1ca3-4054-8762-2c4ce7dff643",
+      "name": "Phaseolus vulgaris-leucoagglutinin ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/0ae8be26-1ca3-4054-8762-2c4ce7dff643"
+    },
+    {
+      "identifier": "cd6a1e5c8f62aaea69385a4e8bdb629b",
+      "name": "Magnetic Resonance Imaging (MRI)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/44081b16-81a9-472b-bd8f-f2cb20798536"
+    },
+    {
+      "identifier": "b211de94ed0b1a6344f031fc846344fc",
+      "name": "Probabilistic Diffusion Tractography",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/ef601ffd-3078-4be7-8dc2-442f047f1635"
+    },
+    {
+      "identifier": "6b1cc5d136f9affe5224a0980bba43cd",
+      "name": "Reporter proteins",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/aeee4d0c-c2cf-4607-b23b-135c5faa3d59"
+    },
+    {
+      "identifier": "422304c73c02e57249a18465aafc5b49",
+      "name": "visual selective attention task (LEC2)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6bde050f-8c6e-40fa-8f36-a7bf4c18553c"
+    },
+    {
+      "identifier": "cdb85e08-451d-439c-bbb3-18f9117cc07e",
+      "name": "Microtome sectionning",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/cdb85e08-451d-439c-bbb3-18f9117cc07e"
+    },
+    {
+      "identifier": "23a26773ee8af1e61253923ece21ce52",
+      "name": "GABA staining",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6a528fae-4699-4b44-8756-98ef85023875"
+    },
+    {
+      "identifier": "4b99c13013f59eb4aa6fc87d531d9c24",
+      "name": "not applicable",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/037e36d5-131a-433e-b16c-1f2b52f03ea3"
+    },
+    {
+      "identifier": "c06a5048e94a44f3540e1b5c39e90346",
+      "name": "probability mapping",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/cfd664a4-f1bc-4792-8f41-915c7e4c812a"
+    },
+    {
+      "identifier": "6eed94c0-b121-43d4-9670-dc5d2ee9a80a",
+      "name": "paired",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6eed94c0-b121-43d4-9670-dc5d2ee9a80a"
+    },
+    {
+      "identifier": "f7125e07-b115-4d86-a8f1-4df4c1ce46b0",
+      "name": "Photoinactivation technique",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/f7125e07-b115-4d86-a8f1-4df4c1ce46b0"
+    },
+    {
+      "identifier": "311138d6-6b3c-4e7c-8617-5309c2d52f62",
+      "name": "multiunit neural activity recording",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/311138d6-6b3c-4e7c-8617-5309c2d52f62"
+    },
+    {
+      "identifier": "425bc687-4858-4f0b-ab9f-0793a9c7c23b",
+      "name": "3D-Polarized Light Imaging (3D-PLI)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/425bc687-4858-4f0b-ab9f-0793a9c7c23b"
+    },
+    {
+      "identifier": "14db0bdc3175821e949012ca87931baa",
+      "name": "HBP_MEM:0000120",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/e8147d30-141b-4919-803b-858e305c43b7"
+    },
+    {
+      "identifier": "f23a6f84fa4745dfc6f12832c3d5f777",
+      "name": "Multiunit activity (MUA)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/7a60bc78-b32d-45f7-8391-0e49bf4884af"
+    },
+    {
+      "identifier": "49876149a909b516b9948a047c6f46d1",
+      "name": "structural imaging",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/314ceba4-0619-462f-bf70-4e202b5e6277"
+    },
+    {
+      "identifier": "37fbf3e13ef32d719bfa60dab7536674",
+      "name": "GFAP staining",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/afbffcee-4f31-4f99-a698-d184f4339852"
+    },
+    {
+      "identifier": "9ee3ab8a-51f7-463d-b5fe-985e26062889",
+      "name": "Anesthesia isoflurane 0.5%",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/9ee3ab8a-51f7-463d-b5fe-985e26062889"
+    },
+    {
+      "identifier": "b58fa1d5-ceae-4590-9607-dec59c789deb",
+      "name": "image segmentation",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/b58fa1d5-ceae-4590-9607-dec59c789deb"
+    },
+    {
+      "identifier": "ee13e0c3-9d0d-4db0-a582-4317a73debd5",
+      "name": " Anesthetic administration technique",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/ee13e0c3-9d0d-4db0-a582-4317a73debd5"
+    },
+    {
+      "identifier": "36dae630e8b1bcc62906c6431c048c1e",
+      "name": "Single unit activity (SUA)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/cdf85ba8-d4f7-4ab7-a9a3-5f1a697f778a"
+    },
+    {
+      "identifier": "4f2e544e-c57d-4bbc-8c21-7cb2ecff4795",
+      "name": "Electrocorticogram (16 channels)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/4f2e544e-c57d-4bbc-8c21-7cb2ecff4795"
+    },
+    {
+      "identifier": "76398645-b140-4d3b-a1cd-82b87f5ebd38",
+      "name": "cognitive measures",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/76398645-b140-4d3b-a1cd-82b87f5ebd38"
+    },
+    {
+      "identifier": "fe0f68d93f5f1cc0e14780647090ae0a",
+      "name": "Single electrode recording",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/46c3c1e9-7b61-4aee-9cd0-ae2e20141339"
+    },
+    {
+      "identifier": "7cd4fc94-b417-45c1-892c-650decd38c71",
+      "name": "Antibody generation",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/7cd4fc94-b417-45c1-892c-650decd38c71"
+    },
+    {
+      "identifier": "8957b30f-6f0e-4757-b82c-0e78a67c24e8",
+      "name": "In vitro receptor autoradiography",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/8957b30f-6f0e-4757-b82c-0e78a67c24e8"
+    },
+    {
+      "identifier": "6002ca126338e6f789637b45b3916dd4",
+      "name": "Detailed Compartment Models",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/9a22327a-32b1-48e2-aa6c-fb5c5457d374"
+    },
+    {
+      "identifier": "6432c29c-ddc0-4e40-80b1-415be48fb9c4",
+      "name": "Anesthesia Isoflurane 0.0%",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6432c29c-ddc0-4e40-80b1-415be48fb9c4"
+    },
+    {
+      "identifier": "8c906d5b-ba7c-4178-a2c5-062553947207303708",
+      "name": "fiber clustering",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/8c906d5b-ba7c-4178-a2c5-062553947207"
+    },
+    {
+      "identifier": "6a8758b2-f493-4808-acb9-2fb71cc96088",
+      "name": "Anesthesia Isoflurane 0.9%",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6a8758b2-f493-4808-acb9-2fb71cc96088"
+    },
+    {
+      "identifier": "6708fe50-b7e8-4462-a1e0-93588d6bbc64",
+      "name": "Potassium channel blocker",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6708fe50-b7e8-4462-a1e0-93588d6bbc64"
+    },
+    {
+      "identifier": "36288b6c-1927-404f-9aeb-4ee1981828b9",
+      "name": "Fixation task",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/36288b6c-1927-404f-9aeb-4ee1981828b9"
+    },
+    {
+      "identifier": "0da77623-e47e-4b36-a6ba-045752f3f9ad",
+      "name": "Activity modulation technique",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/0da77623-e47e-4b36-a6ba-045752f3f9ad"
+    },
+    {
+      "identifier": "7bf296e18d4834de207d1657c9436bf5",
+      "name": "GAT-1 (DAB) staining",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/46d9c02c-2d0a-48bf-9df1-98f58b9245d7"
+    },
+    {
+      "identifier": "2ca83e2e-3e2a-4ce3-89f6-ceba04acec3e",
+      "name": "Neuroinformatic",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/2ca83e2e-3e2a-4ce3-89f6-ceba04acec3e"
+    },
+    {
+      "identifier": "81c51ad6-6490-4355-91b6-5fa554c78289",
+      "name": "Criteria based delineation",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/81c51ad6-6490-4355-91b6-5fa554c78289"
+    },
+    {
+      "identifier": "2d0db134-a0cc-4e0b-9e95-87a15080bf00",
+      "name": "Current injection",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/2d0db134-a0cc-4e0b-9e95-87a15080bf00"
+    },
+    {
+      "identifier": "f6158440-4336-4f98-8e32-5772f68080b6",
+      "name": "7-Tesla spectroscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/f6158440-4336-4f98-8e32-5772f68080b6"
+    },
+    {
+      "identifier": "ca9033096932f516724a6559da8e5979303708",
+      "name": "autoradiography with [³H]LY 341 495",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/29d9e526-e0cf-47f1-813d-2a533badf1ac"
+    },
+    {
+      "identifier": "68e472bb6254eedff8f401b9ebf29da8",
+      "name": "Electrophysiology recording",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/3c181f2d-9c70-4d31-bf3b-b30351f15630"
+    },
+    {
+      "identifier": "e6b88d8d1c8e7f4a170c82b131409986",
+      "name": "Electron tomography",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/ddc74ad4-92fe-43be-9c98-995491c8c495"
+    },
+    {
+      "identifier": "41ff6231-ec61-4b55-bd8b-68f15d87596b",
+      "name": "Diffusion Tensor Imaging (DTI)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/41ff6231-ec61-4b55-bd8b-68f15d87596b"
+    },
+    {
+      "identifier": "3cf8474a-174b-4688-98e8-83d5240aed56",
+      "name": "GABAB antagonist",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/3cf8474a-174b-4688-98e8-83d5240aed56"
+    },
+    {
+      "identifier": "ac7a7958f0c109e519879e37c4a472ed",
+      "name": "Structural Magnetic Resonance Imaging (sMRI)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/4a65d020-380d-47bf-aaf7-9246a19c169d"
+    },
+    {
+      "identifier": "5da1544440622e96d134061ac17942d5303708",
+      "name": "autoradiography with [³H] muscimol",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/41cb95d5-b392-40a4-a59b-d93b4b14e754"
+    },
+    {
+      "identifier": "8c812248-465d-430c-8a98-61392a402877303708",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/8c812248-465d-430c-8a98-61392a402877"
+    },
+    {
+      "identifier": "86452c09-cff3-4f18-beff-ea52b0045928",
+      "name": "Whole-brain",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/86452c09-cff3-4f18-beff-ea52b0045928"
+    },
+    {
+      "identifier": "d89a609c-0eda-438b-9778-9b0146aadc15",
+      "name": "Waxholm Space",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/d89a609c-0eda-438b-9778-9b0146aadc15"
+    },
+    {
+      "identifier": "0ff42556533fb3614ca6d550577a701c",
+      "name": "Scanning electron microscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/9f923b3d-5181-4cc1-ba25-c69b596f1267"
+    },
+    {
+      "identifier": "1530db9eabb88197e3285e3a2cad3411",
+      "name": "HCP Language task",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/52207e64-0327-433b-911c-2f818163ceb9"
+    },
+    {
+      "identifier": "d577c1fe23af8e3a259d046e8f38037a303708",
+      "name": "autoradiography with [³H] UK-14,304",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/f5770f64-93b2-428f-a775-3c6261f89303"
+    },
+    {
+      "identifier": "ba5e5593-fc68-45d4-94d4-654d48933e7c",
+      "name": "Diagnostic Interview Schedule for Young Children (DISC-YC)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/ba5e5593-fc68-45d4-94d4-654d48933e7c"
+    },
+    {
+      "identifier": "69d41363e5d7a84fbecd93c6ff2c0a5e",
+      "name": "Two-photon microscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/ba783afb-6bb6-455c-9579-08b1250609c7"
+    },
+    {
+      "identifier": "25e0ee18-44c1-401a-95b6-9b700749ca11",
+      "name": "Left hemisphere",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/25e0ee18-44c1-401a-95b6-9b700749ca11"
+    },
+    {
+      "identifier": "6ba26c4b-b71d-4b2e-9da4-ff208adf1df4",
+      "name": "ultra-high resolution functional magnetic resonance imaging",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6ba26c4b-b71d-4b2e-9da4-ff208adf1df4"
+    },
+    {
+      "identifier": "20688d40d931d76ee3e2777ca94cf00d",
+      "name": "HBP_MEM:0000019",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/b578a1a0-6a37-4ca8-bbb6-37efdaa97a19"
+    },
+    {
+      "identifier": "34957226-7f07-4fde-a603-b144ca95781d",
+      "name": "Contextual Interactions",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/34957226-7f07-4fde-a603-b144ca95781d"
+    },
+    {
+      "identifier": "f2954451-1aa5-4e98-b826-606992fa74fc",
+      "name": "Anesthesia Ketamine/Medetomidine (100/1.3)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/f2954451-1aa5-4e98-b826-606992fa74fc"
+    },
+    {
+      "identifier": "c6d8b252-d115-460e-a52b-8c460c6c4d7c",
+      "name": "Curve-Tracing task",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/c6d8b252-d115-460e-a52b-8c460c6c4d7c"
+    },
+    {
+      "identifier": "0674672e77c7eaab2d9d79ef755c9ddd",
+      "name": "Gene expression measurement/visualization",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/2167e958-73b0-44c1-bf07-a3b5ceae59de"
+    },
+    {
+      "identifier": "b9e3ec7f-a928-461d-858d-20f711096b1a",
+      "name": "Foetal ultrasound",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/b9e3ec7f-a928-461d-858d-20f711096b1a"
+    },
+    {
+      "identifier": "3531149417a3584cf557157e6c054dc3",
+      "name": "Patch clamp techniques",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/48b75efb-b2e5-46fd-a0e5-ccb9657391c1"
+    },
+    {
+      "identifier": "4517814e-3793-4167-915a-3e59521f0c15",
+      "name": "image segmentation based on convolutional neuronal  networks",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/4517814e-3793-4167-915a-3e59521f0c15"
+    },
+    {
+      "identifier": "83c2e953-864b-49ec-9842-3b6734bd79a4",
+      "name": "Cognitive measures",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/83c2e953-864b-49ec-9842-3b6734bd79a4"
+    },
+    {
+      "identifier": "6775d82e-7532-4cc2-b042-bfa9a70381d7",
+      "name": "Deep-Learning based cytoarchitectonic mapping",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/6775d82e-7532-4cc2-b042-bfa9a70381d7"
+    },
+    {
+      "identifier": "75c58910-2667-4b86-91c5-97c76283ed83",
+      "name": "Literature mining",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/75c58910-2667-4b86-91c5-97c76283ed83"
+    },
+    {
+      "identifier": "1039bc6f4d468f0665c64619b2ae6563",
+      "name": "Sternberg's verbal working memory task (MVEB)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/d3cf6a73-5971-4fda-9e06-06ee367c3949"
+    },
+    {
+      "identifier": "781e4d2d-a34c-453f-8377-cbd7ba0538fd",
+      "name": "Child Behavior Checklist (CBCL)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/781e4d2d-a34c-453f-8377-cbd7ba0538fd"
+    },
+    {
+      "identifier": "e87dd8c6754452218edf8d856885a329",
+      "name": "measurement of cellullar/subcellular density",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/c983f28f-b43c-4f1e-afe9-d346d5536a50"
+    },
+    {
+      "identifier": "1d36088d-0907-426f-b431-0fedc3cde725",
+      "name": "Acetylcholine",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/1d36088d-0907-426f-b431-0fedc3cde725"
+    },
+    {
+      "identifier": "c7e34734-e02b-4bd1-8dd1-7b9d781aba9a",
+      "name": "functional Magnetic Resonance Imaging (fMRI)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/c7e34734-e02b-4bd1-8dd1-7b9d781aba9a"
+    },
+    {
+      "identifier": "642fe273-d216-4e35-bc0f-84b15778e3f2",
+      "name": "LED stimulation",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/642fe273-d216-4e35-bc0f-84b15778e3f2"
+    },
+    {
+      "identifier": "ac7139a84b84e88f3abbcd8c7ee0cb4b",
+      "name": "Seed-based resting state functional connectivity (RSFC) analysis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/0ffb0aec-7c5a-4fe6-9764-018dec475279"
+    },
+    {
+      "identifier": "9b3de3f1-9ac3-4f6c-b41c-116f1f979070",
+      "name": "Paired recordings",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/9b3de3f1-9ac3-4f6c-b41c-116f1f979070"
+    },
+    {
+      "identifier": "bd529643-42d3-4c67-9e46-eb0d19cbb3e5",
+      "name": "Whiskers stimulation ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/bd529643-42d3-4c67-9e46-eb0d19cbb3e5"
+    },
+    {
+      "identifier": "5bd3382176bb07ce6e691150cf2ee4b6",
+      "name": "Microscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/d3791fac-c0ee-4f14-b2a2-091656a07fec"
+    },
+    {
+      "identifier": "87e22106a73ee4e8b19b254d412a7130",
+      "name": "anatomical parcellation",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/08a7e15f-63cd-4cd7-98b6-1885e72bd45d"
+    },
+    {
+      "identifier": "65ebb65d-d271-47c5-8e31-bbbab384ebb9",
+      "name": "foetal ultrasound",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/65ebb65d-d271-47c5-8e31-bbbab384ebb9"
+    },
+    {
+      "identifier": "eea455b8881fb12300b4768d991db762",
+      "name": "analysis method",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/c0496ebe-96ee-47b3-bbea-67c8350eabaa"
+    },
+    {
+      "identifier": "a9d35882-94c9-4aa2-befe-947b0eb25a1f",
+      "name": "Spontaneous stimulation",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/a9d35882-94c9-4aa2-befe-947b0eb25a1f"
+    },
+    {
+      "identifier": "3edd9b850fe7a02c80d729bf6ad99333",
+      "name": "General linear model: Likelihood estimation, variance estimation, statistical interference",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/f01ea66c-74fa-4d4a-96df-66ba6469cacf"
+    },
+    {
+      "identifier": "6d0e5ea7dba64b877e8d843a8e1c6b51303708",
+      "name": "autoradiography with [³H] kainate",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/02d77ace-04f0-402d-a075-f492806214f6"
+    },
+    {
+      "identifier": "c241ce49-36e4-4b1f-b995-bf11813aabd1",
+      "name": "child behavior checklist (CBCL)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/c241ce49-36e4-4b1f-b995-bf11813aabd1"
+    },
+    {
+      "identifier": "809f03f9610bd3f447a2535efe832851",
+      "name": "stereotactic electroencephalography (sEEG)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/e2052dda-33fb-43c6-bcfa-8ab6133131bc"
+    },
+    {
+      "identifier": "407684e6-a5aa-4b07-8b7e-f3f3da5be6a9",
+      "name": "Electrocorticogram (32 channels)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/407684e6-a5aa-4b07-8b7e-f3f3da5be6a9"
+    },
+    {
+      "identifier": "197f87b8-e92c-473c-93e2-7405aca85ff1",
+      "name": "autoradiography - quantitative analysis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/197f87b8-e92c-473c-93e2-7405aca85ff1"
+    },
+    {
+      "identifier": "fb099bb20748a229aab820a60c9226f7",
+      "name": "TH (DAB) staining",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/db3bacaa-536a-4cc3-a6f7-c343a43f26c8"
+    },
+    {
+      "identifier": "f7f38168d7cc26bb9e277ff39944bc6c",
+      "name": "Confocal Microscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/2fab5175-7872-4e71-91d8-02e53e713310"
+    },
+    {
+      "identifier": "881d85fcee3af479be92ffd9ca4bcd27",
+      "name": "ARCHI social",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/experiment/method/v1.0.0/a33fdb0c-e8c8-4cab-abd6-ac2c2af251d9"
+    }
+  ],
+  "total": 275,
+  "size": 275,
+  "start": 0
+}

@@ -1,0 +1,58 @@
+{
+  "importantMessage": "This query is executed with a mode thought for query testing only (with throttled performance). Please register your query if you're happy with it. It's easy and you gain speed ;)!",
+  "results": [
+    {
+      "identifier": "3d839f5f-6f83-43e1-9041-89b9f6d49051",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/preparation/v1.0.0/3d839f5f-6f83-43e1-9041-89b9f6d49051"
+    },
+    {
+      "identifier": [
+        "b7f840db916ce2bfe60b934a41e138e6",
+        "d8006aa189df68a5deaaeadfdf650ec7"
+      ],
+      "name": "in vivo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/preparation/v1.0.0/9ad45f8f-1fd1-49aa-8610-b5df78af5cfd"
+    },
+    {
+      "identifier": [
+        "4c8be9c9175229eb0ab19baf8a01aca6",
+        "c0d8193a1b9d58622aef2b0d59685079"
+      ],
+      "name": "In vitro",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/preparation/v1.0.0/13ddb05b-d9a3-4667-b601-faccf572fe06"
+    },
+    {
+      "identifier": [
+        "386e3ec6cecc26ad1de7ee83f830ba1b",
+        "88183b946cc5f0e8c96b2e66e1c74a7e"
+      ],
+      "name": "<Unknown>",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/preparation/v1.0.0/ba379d55-bc76-4828-a460-8af8d6ba7709"
+    },
+    {
+      "identifier": [
+        "4a6bb47a1baa9a00b5db2261717a017d",
+        "b2eee0817a149c289ba02b323ea6d92b"
+      ],
+      "name": "In silico",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/preparation/v1.0.0/59ffddd6-9c1d-4999-8bfd-87e24bd0abc6"
+    },
+    {
+      "identifier": "6dd95158-a1ab-42de-bc8e-4dc567baceef303708",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/preparation/v1.0.0/6dd95158-a1ab-42de-bc8e-4dc567baceef"
+    },
+    {
+      "identifier": [
+        "68b10edb41e14cecb15ef36cf4f1c7b7",
+        "9c11005a1ffa748ab0bec6e3dd2dac34"
+      ],
+      "name": "Ex vivo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/preparation/v1.0.0/8bd7a18d-3d62-4e3d-9c21-605411de05af"
+    }
+  ],
+  "total": 7,
+  "size": 7,
+  "start": 0
+}

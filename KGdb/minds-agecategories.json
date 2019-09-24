@@ -1,0 +1,63 @@
+{
+  "importantMessage": "This query is executed with a mode thought for query testing only (with throttled performance). Please register your query if you're happy with it. It's easy and you gain speed ;)!",
+  "results": [
+    {
+      "identifier": [
+        "5a600f5b88f416c470991c6831add13a",
+        "7fc56270e7a70fa81a5935b72eacbe29"
+      ],
+      "name": "Adult",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/agecategory/v1.0.0/97eaac65-ec72-4435-9e20-5b2308076060"
+    },
+    {
+      "identifier": "7f34497d-6785-43cc-8d72-b4b4125345e4",
+      "name": "Young Adult",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/agecategory/v1.0.0/7f34497d-6785-43cc-8d72-b4b4125345e4"
+    },
+    {
+      "identifier": [
+        "6dbeb140855bfe9aecea1cc7da3dbe15",
+        "8d9c307cb7f3c4a32822a51922d1ceaa"
+      ],
+      "name": "Neonate",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/agecategory/v1.0.0/899d0b44-cc0e-49f2-b290-9610c1a5c510"
+    },
+    {
+      "identifier": "01a7886f-91d1-44bf-9ff9-1806e9a4d1bd",
+      "name": "Adult",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/agecategory/v1.0.0/01a7886f-91d1-44bf-9ff9-1806e9a4d1bd"
+    },
+    {
+      "identifier": [
+        "934b0feb9616e06f7985eb24e9f77a7b",
+        "ff44570aca8241914870afbc310cdb85"
+      ],
+      "name": "Juvenile",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/agecategory/v1.0.0/fb8e7444-5d7d-4cbb-aa5e-fd2b0f77351f"
+    },
+    {
+      "identifier": "cccdff48-d609-4e15-bff6-151a8e3a1a11303708",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/agecategory/v1.0.0/cccdff48-d609-4e15-bff6-151a8e3a1a11"
+    },
+    {
+      "identifier": [
+        "50d7fddf2689be84e2197f9f077366f7",
+        "dd7536794b63bf90eccfd37f9b147d7f"
+      ],
+      "name": "Infant",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/agecategory/v1.0.0/01d79bd4-c079-4ca6-81f1-0a8914654244"
+    },
+    {
+      "identifier": [
+        "386e3ec6cecc26ad1de7ee83f830ba1b",
+        "88183b946cc5f0e8c96b2e66e1c74a7e"
+      ],
+      "name": "<Unknown>",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/agecategory/v1.0.0/3bff8a6e-c0dd-430d-b602-1c8b1d195f4c"
+    }
+  ],
+  "total": 8,
+  "size": 8,
+  "start": 0
+}

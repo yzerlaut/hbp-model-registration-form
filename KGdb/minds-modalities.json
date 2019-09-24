@@ -1,0 +1,118 @@
+{
+  "importantMessage": "This query is executed with a mode thought for query testing only (with throttled performance). Please register your query if you're happy with it. It's easy and you gain speed ;)!",
+  "results": [
+    {
+      "identifier": "1026b493-cb1d-424c-9c91-b48ace74c090",
+      "name": "expression",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/1026b493-cb1d-424c-9c91-b48ace74c090"
+    },
+    {
+      "identifier": "692d8bc4-0ccb-4da1-a1b0-999ce8c73959",
+      "name": "genomics",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/692d8bc4-0ccb-4da1-a1b0-999ce8c73959"
+    },
+    {
+      "identifier": "92c6e856-a656-4111-bcc0-d8f77eb084c0",
+      "name": "cell culture",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/92c6e856-a656-4111-bcc0-d8f77eb084c0"
+    },
+    {
+      "identifier": "a9279ac4-f527-43c1-b277-9358a0c5c4c5",
+      "name": "histology",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/a9279ac4-f527-43c1-b277-9358a0c5c4c5"
+    },
+    {
+      "identifier": "0fdf81ed-8f37-4784-9cad-d9b72e8365a7",
+      "name": "morphology",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/0fdf81ed-8f37-4784-9cad-d9b72e8365a7"
+    },
+    {
+      "identifier": "fed09d65-604e-4b48-a588-04a9b280e054",
+      "name": "cell morphology",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/fed09d65-604e-4b48-a588-04a9b280e054"
+    },
+    {
+      "identifier": "a9939d08-0b14-467b-9e45-a24a910aa746",
+      "name": "transcriptomics",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/a9939d08-0b14-467b-9e45-a24a910aa746"
+    },
+    {
+      "identifier": "9a29916c-8e65-4d4f-85f5-6020f74d1e1a",
+      "name": "electrophysiology",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/9a29916c-8e65-4d4f-85f5-6020f74d1e1a"
+    },
+    {
+      "identifier": "f567e33c-b1ce-474e-849e-f6d44b7490ec",
+      "name": "cell population characterization",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/f567e33c-b1ce-474e-849e-f6d44b7490ec"
+    },
+    {
+      "identifier": "47f31794-5727-4f76-95b7-f440f4dffc4e",
+      "name": "radiology",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/47f31794-5727-4f76-95b7-f440f4dffc4e"
+    },
+    {
+      "identifier": "ebf6a6f7-38d3-4824-bc09-196bb27a9ebf",
+      "name": "microscopy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/ebf6a6f7-38d3-4824-bc09-196bb27a9ebf"
+    },
+    {
+      "identifier": "c0576c54-9ae9-411f-b3a8-7d074b6d9b0f",
+      "name": "physiology",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/c0576c54-9ae9-411f-b3a8-7d074b6d9b0f"
+    },
+    {
+      "identifier": "7ddec00c-f37d-4ada-8627-582aba1cffb6",
+      "name": "multimodal",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/7ddec00c-f37d-4ada-8627-582aba1cffb6"
+    },
+    {
+      "identifier": "bd35a89e-2224-4031-905b-9e944feacf7c",
+      "name": "anatomy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/bd35a89e-2224-4031-905b-9e944feacf7c"
+    },
+    {
+      "identifier": "a523e859-ed58-42d7-ac55-6ac5fb83882c",
+      "name": "optical",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/a523e859-ed58-42d7-ac55-6ac5fb83882c"
+    },
+    {
+      "identifier": "4b0353ab-7874-4841-a71d-c5634b2ab956",
+      "name": "cell counting",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/4b0353ab-7874-4841-a71d-c5634b2ab956"
+    },
+    {
+      "identifier": "0d837601-0780-4845-95c5-ae4dfbb754f4",
+      "name": "connectivity",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/0d837601-0780-4845-95c5-ae4dfbb754f4"
+    },
+    {
+      "identifier": "a64f97ad-86de-4aa9-8b8e-04b1ac77374e",
+      "name": "spatial transcriptomics",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/a64f97ad-86de-4aa9-8b8e-04b1ac77374e"
+    },
+    {
+      "identifier": "66590c7f-481b-4944-b3be-5f3d036966a2",
+      "name": "expression characterization",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/66590c7f-481b-4944-b3be-5f3d036966a2"
+    },
+    {
+      "identifier": "8f2228ae-911a-4fea-ab12-f8d27b94ab71",
+      "name": "epigenomics",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/8f2228ae-911a-4fea-ab12-f8d27b94ab71"
+    },
+    {
+      "identifier": "4f3dd68a-671a-4d29-bf61-a7da948ba405",
+      "name": "behavioral assay",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/4f3dd68a-671a-4d29-bf61-a7da948ba405"
+    },
+    {
+      "identifier": "037b129f-4ef8-46c7-9cd1-f7e81f0cfff1",
+      "name": "models",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/modality/v1.0.0/037b129f-4ef8-46c7-9cd1-f7e81f0cfff1"
+    }
+  ],
+  "total": 22,
+  "size": 22,
+  "start": 0
+}

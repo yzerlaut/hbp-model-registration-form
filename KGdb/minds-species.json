@@ -1,0 +1,72 @@
+{
+  "importantMessage": "This query is executed with a mode thought for query testing only (with throttled performance). Please register your query if you're happy with it. It's easy and you gain speed ;)!",
+  "results": [
+    {
+      "name": "mus",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/af3fbddd-c178-4a6b-9027-a08d5ae52b3f"
+    },
+    {
+      "name": "Rattus norvegicus",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/f3490d7f-8f7f-4b40-b238-963dcac84412"
+    },
+    {
+      "name": "Mus musculus",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/cfc1656c-67d1-4d2c-a17e-efd7ce0df88c"
+    },
+    {
+      "name": "Macaca mulatta",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/745712aa-fad1-47c4-8ab6-088063f78f64"
+    },
+    {
+      "name": "Mammalia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/0a8d5c9b-d6b7-43b3-870c-38104b4cbaac"
+    },
+    {
+      "name": "Callithrix jacchus",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/059bca41-2361-4365-b387-ec3a71fcec69"
+    },
+    {
+      "name": "Didelphimorphia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/bf6b0cf2-d2ed-4013-89de-546d9584c51a"
+    },
+    {
+      "name": "Rodentia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/8cd62f75-6626-4ea5-bb97-7c2e6fddcd43"
+    },
+    {
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/825c28d5-1ffb-4d2b-82e2-7634321c3410"
+    },
+    {
+      "name": "Mustela putorius",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/95569663-f230-4306-a982-f17c56529d2f"
+    },
+    {
+      "name": "<Unknown>",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/8daa3c03-a620-4910-a45d-ffa06d81032a"
+    },
+    {
+      "name": "Primates",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/3f75b0ad-dbcd-464e-b614-499a1b9ae86b"
+    },
+    {
+      "name": "Homo sapiens",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/0ea4e6ba-2681-4f7d-9fa9-49b915caaac9"
+    },
+    {
+      "name": "Monodelphis domestica",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/80f0fa52-01b3-4dfe-9c67-542f64bbf512"
+    },
+    {
+      "name": "Macaca fascicularis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/c541401b-69f4-4809-b6eb-82594fc90551"
+    },
+    {
+      "name": "Mustela putorius furo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/species/v1.0.0/92dcdf52-e6ae-4ea7-9b6a-d430fa750a92"
+    }
+  ],
+  "total": 16,
+  "size": 16,
+  "start": 0
+}

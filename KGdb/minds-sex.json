@@ -1,0 +1,50 @@
+{
+  "importantMessage": "This query is executed with a mode thought for query testing only (with throttled performance). Please register your query if you're happy with it. It's easy and you gain speed ;)!",
+  "results": [
+    {
+      "identifier": [
+        "63889cfb9d3cbe05d1bd2be5cc9953fd",
+        "8c79918a7ec155833d29033122e8c3e5"
+      ],
+      "name": "Male",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/sex/v1.0.0/85ba5561-e9bf-41a8-b0fe-bd17ae0f7b2c"
+    },
+    {
+      "identifier": [
+        "386e3ec6cecc26ad1de7ee83f830ba1b",
+        "88183b946cc5f0e8c96b2e66e1c74a7e"
+      ],
+      "name": "<Unknown>",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/sex/v1.0.0/48a91db5-3198-4671-b227-0ca6d1516165"
+    },
+    {
+      "identifier": "0cbc9787-2a32-41fd-b1e7-3abfa34d5423303708",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/sex/v1.0.0/0cbc9787-2a32-41fd-b1e7-3abfa34d5423"
+    },
+    {
+      "identifier": [
+        "b719ce180ec7bd9641fece2f920f4817",
+        "ebdd749b0fd4003a3a2e055e6b2ada71"
+      ],
+      "name": "Female",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/sex/v1.0.0/f7c82ad1-b4ba-495a-ba81-145d8dbf82ea"
+    },
+    {
+      "identifier": [
+        "046126404783cc054e27d3e01bd04b22",
+        "6cf2cee28c631ce674d419c25caaf592"
+      ],
+      "name": "Hermaphrodite",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/sex/v1.0.0/a95459b9-a5b7-4c56-acb6-d8a125b137e7"
+    },
+    {
+      "identifier": "ebbf9c91-26f0-4d81-8b32-113660d4f2e4303708",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/sex/v1.0.0/ebbf9c91-26f0-4d81-8b32-113660d4f2e4"
+    }
+  ],
+  "total": 6,
+  "size": 6,
+  "start": 0
+}

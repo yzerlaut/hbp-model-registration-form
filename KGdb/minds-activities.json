@@ -1,0 +1,1778 @@
+{
+  "importantMessage": "This query is executed with a mode thought for query testing only (with throttled performance). Please register your query if you're happy with it. It's easy and you gain speed ;)!",
+  "results": [
+    {
+      "identifier": "5d31e9bd-59ae-4ab3-aa3b-1022f6407ff5",
+      "name": "7TMRI-T1_hbp-d000006",
+      "description": "Raw data of the anatomical MRI time series (MP2RAGE, T1-weighted) in Nifti format.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/5d31e9bd-59ae-4ab3-aa3b-1022f6407ff5"
+    },
+    {
+      "identifier": "ff3f47e92a430b78444da1ffdeb4f25a",
+      "name": "none.A.e.#1",
+      "description": "BigBrain is a ultrahigh-resolution three-dimensional (3D) model of a human brain at nearly cellular resolution of 20 micrometers, based on the reconstruction of 7404 histological sections. “BigBrain” is a free, publicly available tool that provides considerable neuroanatomical insight into the human brain, thereby allowing the extraction of microscopic data for modeling and simulation. BigBrain enables testing of hypotheses on optimal path lengths between interconnected cortical regions or on spatial organization of genetic patterning, redefining the traditional neuroanatomy maps such as those of Brodmann and von Economo. The 2015 release is based on the January 2015 alignment with global b-spline optical-balancing as the major achievement. The alignment is much smoother than in the 2013 release, albeit not perfect given the strong distortions in the raw images. The model looks really great now. The tissue classified volumes have been supplied. We are currently working the extraction of the cortical surfaces\nand registration to MNI ICBM152 space and MNI ADNI space (coming soon).  Segmentation of deep brain structures is under way for this model. Contributions will be added to the Release as they become available.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/cf102f92-28a6-46ff-b294-220eb209e747"
+    },
+    {
+      "identifier": "a63b23a5-4275-4612-b0fc-95120de40705",
+      "name": "hbp-01853_FXS_Activities",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/a63b23a5-4275-4612-b0fc-95120de40705"
+    },
+    {
+      "identifier": "dbf3f069a08d6ab24641be792f731896",
+      "name": "hbp-00171_461_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/f0e425fa-0891-4db2-997d-cffe5812a1d6"
+    },
+    {
+      "identifier": "d5fbf4021496d22ceeb7605d9612d308",
+      "name": "339.A.a.#2",
+      "description": "This method takes into account morphological information from the cortical folding pattern.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/5b0a62e8-a89e-4374-8b1d-231e9b1c1ae9"
+    },
+    {
+      "identifier": "09f3bd9e-819a-486c-9822-87f1611f5be3",
+      "name": "3D Cell Rec._hbp-d000958",
+      "description": "Dendrites and axon in the skeleton definition were described through 3D points, delimiting the different segments that form the dendritic arbor. These points have an associated diameter that provides the information of the varying thickness of the dendrite at that particular point, and varies along the length of the dendrite. The soma was defined through a set of connected points tracing the contour of the soma in 2D. Spines were separately reconstructed along the length of some dendrites obtaining 3D points that delimited the position of spines. ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/09f3bd9e-819a-486c-9822-87f1611f5be3"
+    },
+    {
+      "identifier": "146460bf-aa7a-4cd2-ae22-0103c81c29a8",
+      "name": "hbp-00169-R605_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/146460bf-aa7a-4cd2-ae22-0103c81c29a8"
+    },
+    {
+      "identifier": "9c3fde3e-38ab-43f9-84ae-e93faba2dde4",
+      "name": "ComparativeMappingOfVisuo-MotorCortex_Contextual Interactions",
+      "description": "Electrophysiological and eye-position data during presentation of contextual gratings. In the contextual modulation experiments the gratings had the same properties as those described above for the RF tuning data except that they were stationary. The phase of the central grating was randomly chosen on each trial from a uniform distribution ranging from -π to π. We used two different, orthogonal orientations for the central grating, 60° and 150°. We presented equal number of trials with the two orientations so that the average stimulation of the RF was identical for all conditions. The stimulus duration was 500ms with an inter-trial interval of 500ms.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/9c3fde3e-38ab-43f9-84ae-e93faba2dde4"
+    },
+    {
+      "identifier": "8304fef6a5ab700fb96271b849b8b0a3",
+      "name": "40.A.e.#1",
+      "description": "Diffusion-weighted magnetic resonance imaging is the use of specific MRI sequences that uses the diffusion of water molecules to generate contrast in MR images.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/35f6f8b5-e13e-43ef-b3d1-e069851d7f5e"
+    },
+    {
+      "identifier": "d4d4003085419ae43dcffca909b92f06",
+      "name": "hbp-00744_3D-Img-Mouse-Ctx_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/0aea91a6-18ec-4714-b1f3-170bda3f4335"
+    },
+    {
+      "identifier": "748fbb3e-ae49-436b-b609-e052ff014cc6",
+      "name": "hbp-00176_dd_WHS_Activity_v1.01",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/748fbb3e-ae49-436b-b609-e052ff014cc6"
+    },
+    {
+      "identifier": "45c3f51298128b9d452db72f77f31f10",
+      "name": "46.A.a.#2",
+      "description": "The brain surface was parcellated using the same principles as the AAL atlas (Automated Anatomical Labelling, Tzourio-Mazoyer et al., 2002). The delineation of the regions relies on primary and secondary sulci, which were reconstructed and identified semi-automatically using the Morphologist pipeline of BrainVisa (Fischer et al. 2012, Mangin et al. 2004, Cointepas et al. 2001).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/b85c2a49-6a60-4bd4-a309-7fd017750810"
+    },
+    {
+      "identifier": "75a17484-a47d-488b-8432-12f74889f27c",
+      "name": "LayerSpecific-fMRI_mental imagery",
+      "description": "Participants were asked to imagine a red or green disc for 8 seconds, with the area of imagery indicated by a faint grey circle around the fixation cross. The letter ‘R’ or ‘G’ indicated which colour to imagine (red or green). This cue was presented for 1 sec, 2 secs prior to the presentation of the faint grey circle, which signaled the onset of the imagery task. The cue was presented in the periphery outside of the grey circle presented subsequently, and its location on the screen was randomized, but kept at a stable distance to the fixation cross.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/75a17484-a47d-488b-8432-12f74889f27c"
+    },
+    {
+      "identifier": "e045d355-0300-44e9-8c56-97d6e6c460a0",
+      "name": "hbp-00176_dd_WHS_Activity_v2",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/e045d355-0300-44e9-8c56-97d6e6c460a0"
+    },
+    {
+      "identifier": "1000d0068c8d130d67255030de52b12b",
+      "name": "hbp-00552_CDP1_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/4a35d79f-52ec-40c3-96f5-29c5628b8104"
+    },
+    {
+      "identifier": "fc56823d30715407cd74666ab987122f",
+      "name": "hbp-00711_STP_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/87b02863-3e1a-4ee5-b4b7-510ad03e3842"
+    },
+    {
+      "identifier": "38bd435d-3bc2-453d-85e6-9af91263bc62",
+      "name": "LayerSpecific-fMRI_ultra-high-field imaging",
+      "description": "ultra-high-field fMRI imaging at 7T with a functional resolution of 0.8mm isotropic",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/38bd435d-3bc2-453d-85e6-9af91263bc62"
+    },
+    {
+      "identifier": "257bc9a7-e9ed-488c-a6dc-5ee26c528306",
+      "name": "LayerSpecific-fMRI_amodal control condition of illusory perception",
+      "description": "Participants viewed an ‘amodal’ version of this illusion (red/green) for 8 seconds per trial, in which a white contour was placed in the area between the pacman-like rings, thereby attenuating the illusion.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/257bc9a7-e9ed-488c-a6dc-5ee26c528306"
+    },
+    {
+      "identifier": "821f8d601c8544f1af8b2ba5c0ed20ea",
+      "name": "hbp-00810_CC-step_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/a305dd4f-90e0-4b2b-af6f-2d89b5175439"
+    },
+    {
+      "identifier": "924c2d7dec24a6805f64b50cbf8dfc68",
+      "name": "45.A.e.#3",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/5a80de71-ca73-445e-a349-cff2923ef575"
+    },
+    {
+      "identifier": "caccf528-d1e6-458f-a45c-b21399487136",
+      "name": "ComparativeMappingOfVisuo-MotorCortex_Receptive-field tuning tasks",
+      "description": "Electrophysiological and eye-position data during measurements of RF tuning properties. RF tuning properties were measured using drifting sine-wave gratings placed at a location that activated neurons at both E6 and E7 (10.3° eccentricity, -14° angle from horizontal meridian). As standard stimuli we used gratings with a Michelson contrast of 80% that were 10° in diameter with a spatial frequency of 1 cycle/degree and they drifted with a temporal frequency of 3Hz. We presented orientations of 45° or 135°, except in the orientation/direction tuning session, which included 24 directions ranging from 0 to 345°, in steps of 15°. For the other tuning sessions, we varied one parameter while holding the others constant. Each session contained 10 repeats of every stimulus parameter. We completed 2 sessions for the orientation-tuning and contrast-tuning experiments and one session for the spatial frequency and size tuning experiments.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/caccf528-d1e6-458f-a45c-b21399487136"
+    },
+    {
+      "identifier": "01f372be124c85b70550a22c67996d29",
+      "name": "36.A.e.#1",
+      "description": "Functional magnetic resonance imaging measures brain activity by detecting changes associated with blood flow. The primary form of fMRI uses the blood-oxygen-level dependent (BOLD) contrast. This is a type of specialized brain and body scan used to map neural activity in the brain or spinal cord of humans or other animals by imaging the change in blood flow related to energy use by brain cells.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/02f20462-e773-4811-afa5-ff61b2446dfa"
+    },
+    {
+      "identifier": "ab6e8464-de9c-4c2d-989f-8cb389b67c60",
+      "name": "ext-d000003_OrbitofrontalCortex_PHA-L__activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/ab6e8464-de9c-4c2d-989f-8cb389b67c60"
+    },
+    {
+      "identifier": "5346e2309aec179f5463d05325c46fcb",
+      "name": "302.A.a.#1",
+      "description": "serial application of image and signal processing tools to extract physical and anatomical tissue characteristics",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/4b16ada1-d7fc-4f6d-a87b-9355f905c369"
+    },
+    {
+      "identifier": "0341fd43f03a0d669d1fa65b835abd02",
+      "name": "hbp-00810_EPSC_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/a6d0dec3-34f5-4ca8-900f-8975c1b72d2b"
+    },
+    {
+      "identifier": "514b93ea-3ecc-48fa-8e25-89b0be9d21be",
+      "name": "7TMRI T2_hbp-d001040",
+      "description": "Magnetic Resonance Imaging technique that produces a single (3D) snapshot of body's organ. Like T1 images, T2-weighted images allow to differentiate anatomical structures, however based on a different contrast such that in these images, high fat tissue like white matter is dark and parts filled with water like CSF are bright. These images are particularly used to segment hippocampal subfields.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/514b93ea-3ecc-48fa-8e25-89b0be9d21be"
+    },
+    {
+      "identifier": "53e1d84e-ecb2-43a7-9916-7cd6b99eb452",
+      "name": "White_Gen_R",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/53e1d84e-ecb2-43a7-9916-7cd6b99eb452"
+    },
+    {
+      "identifier": "cbb77ae3-0ea3-4620-96f3-aa5ab0c012e9",
+      "name": "MonkeyLaminar_current-source density analysis",
+      "description": "Raw data was low-pass flitered below 200Hz (2nd order Butterworth filter) abnd down-sampled to 763Hz. The CSD was calculated as the second spatial derivative of this signal.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/cbb77ae3-0ea3-4620-96f3-aa5ab0c012e9"
+    },
+    {
+      "identifier": "81b43735-bd2c-4577-a774-dfce1f9d95be",
+      "name": "LayerSpecific-fMRI_mock control condition of illusory perception",
+      "description": "In the mock version of the illusory perception condition, the pacmans were rotated outwards, such that no illusion of a coloured shape should arise. Like all other conditions, each trial lasted 8 seconds and were presented in the colours red and green.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/81b43735-bd2c-4577-a774-dfce1f9d95be"
+    },
+    {
+      "identifier": "99a6e7a0454e14fdc132b50619173ad6",
+      "name": "bigbrain.A.a.#1",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/54d18ffa-a8e0-4cc7-a6fc-5dccff4218dd"
+    },
+    {
+      "identifier": "eeb2531632465040db0f885428a316b6",
+      "name": "339.A.a.#3",
+      "description": "provides the probabilty for voxels to be part of a defined brain fiber (probability mapping).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d372fdf7-f007-4707-912e-ba53968df17c"
+    },
+    {
+      "identifier": "5b88f33863143ce4a269e7580b8f29f1",
+      "name": "hbp-00017_CtxVascRat_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/736ebee6-a286-4b6d-9830-9b7c81d8d1fa"
+    },
+    {
+      "identifier": "acc110c02aad22d4ca4c485aa3b73d8c",
+      "name": "hbp-02915_LTP-synaptic-changes_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/8d8ceb73-0c3e-4aba-8b49-243a75c430d3"
+    },
+    {
+      "identifier": "3ed96fd5-fc40-413c-a9ce-45bcf63c0792",
+      "name": "bigbrain-layers-seg",
+      "description": "image segmentation based on convolutional neuronal networks",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/3ed96fd5-fc40-413c-a9ce-45bcf63c0792"
+    },
+    {
+      "identifier": "4d50a96de8feb66e7ad75f98e59fa814",
+      "name": "none.A.e.#2",
+      "description": "BigBrain is a ultrahigh-resolution three-dimensional (3D) model of a human brain at nearly cellular resolution of 20 micrometers, based on the reconstruction of 7404 histological sections. “BigBrain” is a free, publicly available tool that provides considerable neuroanatomical insight into the human brain, thereby allowing the extraction of microscopic data for modeling and simulation. BigBrain enables testing of hypotheses on optimal path lengths between interconnected cortical regions or on spatial organization of genetic patterning, redefining the traditional neuroanatomy maps such as those of Brodmann and von Economo. The 2015 release is based on the January 2015 alignment with global b-spline optical-balancing as the major achievement. The alignment is much smoother than in the 2013 release, albeit not perfect given the strong distortions in the raw images. The model looks really great now. The tissue classified volumes have been supplied. We are currently working the extraction of the cortical surfaces\nand registration to MNI ICBM152 space and MNI ADNI space (coming soon).  Segmentation of deep brain structures is under way for this model. Contributions will be added to the Release as they become available.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/537bf00d-ade1-406e-9fe6-9bc1322306ba"
+    },
+    {
+      "identifier": "05146c17-62e5-4e22-87c6-af1ab89a3465",
+      "name": "DatabaseBasalGanglia_Activities",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/05146c17-62e5-4e22-87c6-af1ab89a3465"
+    },
+    {
+      "identifier": "ba6c904f-05d9-4744-b9fa-2cbd34d440f1",
+      "name": "Rec_den_human_measurement",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/ba6c904f-05d9-4744-b9fa-2cbd34d440f1"
+    },
+    {
+      "identifier": "77fdea59-6c3a-481c-a50e-6bd10ecf9532301597",
+      "name": "hbp-00964_SS-FIBSEM_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/77fdea59-6c3a-481c-a50e-6bd10ecf9532"
+    },
+    {
+      "identifier": "ec3d8c50978c12719a75073b64440a5c",
+      "name": "hbp-00810_cell-att_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d4dd678e-5d64-4013-a507-6e3377f66b9d"
+    },
+    {
+      "identifier": "184637eb3a7f2a01020e14b9c41e4c6e",
+      "name": "54.A.a.#2",
+      "description": "Provides the probabilty for voxels to be part of a defined brain area (probability mapping).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/97a248f1-4806-4c78-b016-667ef99f96f9"
+    },
+    {
+      "identifier": "e250d7d1c06cac498853f0364306acc7",
+      "name": "365.A.e.#3",
+      "description": "Diffusion-weighted magnetic resonance imaging is the use of specific MRI sequences that uses the diffusion of water molecules to generate contrast in MR images.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/a2779f77-5753-4bdd-aec1-f90fc14c68f6"
+    },
+    {
+      "identifier": "de465bc66614a30dd633352567b9f477",
+      "name": "46.A.a.#1",
+      "description": "The inner cortical surface was segmented using a semi-automatic segmentation pipeline dedicated to T2w MRI images of the infant brain, followed by manual correction, when local inaccuracies were detected.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/89cc5d1e-069a-4daa-a042-7629c02f988f"
+    },
+    {
+      "identifier": "22ed7e715810fff9277d0e58b3e834e2",
+      "name": "55.A.a.#1",
+      "description": "The BigBrain dataset is a key element of the HBP Human Brain Atlas, representing a structural representation of the cytoarchitectonic of the human brain with the highest isotropic resolution currently available. So far, the dataset has been used in two cytoarchitectonic mapping projects. From these two projects the Te1.0, Te1.1, Te1.2, Te2.1, Te2.2, Te3, TI1, TI2, and TPJ cortical subregions of the auditory cortex were transformed into BigBrain space. To do this, the border information was measured and extracted in successive stained histological sections of the original distorted dataset, at a layer distance of up to 0.3mm as contour line data. We computed new linear and nonlinear transformations from the original distorted sections to the final repaired and corrected sections of the 3D reconstructed BigBrain dataset, because it would have been much more complicated—and thus error-prone—to combine the large number of individual transformations which have been computed for the original 3D reconstruction of the BigBrain. The newly computed transformations were applied to the contour line data, quality controlled, and shared with the EPFL team for the purpose of integrating the delineations of the auditory cortex into the BigBrain viewer of the Collaboratory.\nIn addition, efforts were carried out to achieve a match of the ontologies used for the cytoarchitectonic JuBrain atlas and the Collaboratory/Unified Portal data.\nThe cytoarchitectonic delineations of the auditory cortex are based on observer-independent histological mapping performed in the stained histological sections of the first BigBrain dataset at an in-plane resolution of 1μm. The delineations were transferred to the reconstructed histological sections at a resolution of 20μm. Details of the histological processing and 3D reconstruction of the BigBrain dataset have been extensively described in Amunts et al., 2012, and the approach for observer-independent delineation of brain regions is summarised in several peer-reviewed publications [Zilles et al., 2002; Schleicher et al., 2005].",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/a0e9c9fa-4746-4799-9e1c-1a58926f6a83"
+    },
+    {
+      "identifier": "4e5bc18e450ea120806a87dea9772cd9",
+      "name": "773.A.a.#1.right",
+      "description": "The volume of interest (VOI) was defined by merging activation sites in dorsal permotor cortex (PMd) from published meta-analyses on action observation, motor learning, movement perception, sustained attention, and working memory using an or combination. The ensuing VOI was symmetrized to yield left and right PMd VOIs.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/1eb2ecad-046d-4e6b-b8aa-55a4492b7830"
+    },
+    {
+      "identifier": "4ad685ab0ab8620174a86ca12979544f",
+      "name": "339.A.e.#1",
+      "description": "Magnetic Resonance Imaging technique that produces a single (3D) snapshot of body's organ.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/c873d774-14f8-4c49-bd0c-3eb2549afb86"
+    },
+    {
+      "identifier": "9d5e0bc2-1e17-4548-9a32-6fc2fba4c998",
+      "name": "MRI for Milano Area C",
+      "description": "Pre-surgical magnetic resonance imaging (MRI) for stereotactically planning the implant procedure of the sEEG electrodes.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/9d5e0bc2-1e17-4548-9a32-6fc2fba4c998"
+    },
+    {
+      "identifier": "7b9ae08afb29f4bb7d5e66026e25aff6",
+      "name": "hbp-00964_SS-FIBSEM_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/0df12a25-2694-4cce-90cc-e36d7e5a951b"
+    },
+    {
+      "identifier": "a715eebab5f87aaf72c658a03cfdc0ab",
+      "name": "773.A.a.#4.left",
+      "description": "For a given brain region, connectivity distribution estimated from diffusion data are generated",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/1b320464-364c-4e6e-900f-25e3c6682ac2"
+    },
+    {
+      "identifier": "c8deb2de-3f9e-410d-9fd4-fbf473d6a388301598",
+      "name": "hbp-00941_ERP_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/c8deb2de-3f9e-410d-9fd4-fbf473d6a388"
+    },
+    {
+      "identifier": "78dd2d49916b5513f770b46210fe7798",
+      "name": "hbp-00170_PCP2_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/624c65d5-7756-49f5-9bd9-5752734076b8"
+    },
+    {
+      "identifier": "3821bcb6-3959-4355-ba75-bdf04de6e6a6",
+      "name": "7T(f)MRI-T1&T2_hbp-d000004",
+      "description": "Raw data of the functional MRI time series (EPI T2*weighted) for training runs 3-6 and the structural MRI data (T1w and PD contrast, nifti format, de-faced) in Nifti format.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/3821bcb6-3959-4355-ba75-bdf04de6e6a6"
+    },
+    {
+      "identifier": "0b600e7e06f9c9dbfe26e085102351d4",
+      "name": "hbp-00732_CLAS-TCN_Acivity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/842b41a7-cfca-4895-a969-f9169fad5098"
+    },
+    {
+      "identifier": "df4c27d9d68dc954e724fa77757e8b58",
+      "name": "326.A.e.#4",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/c93b7458-7edb-4404-9ac3-7b54239fe9c0"
+    },
+    {
+      "identifier": "0fc1d0cf2618db8f4df1e36143af118a",
+      "name": "773.A.a.#5.left",
+      "description": "To derive multimodal cluster, a conjunction was performed across the clusters defined by MACM-CBP, RSFC-CBP and PDT-CBP.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/e2c5f477-b83b-478d-9a6d-b4420c9db2c8"
+    },
+    {
+      "identifier": "cddbcedc0b7bb191d0729676fa60f7c5",
+      "name": "773.A.e.#2.right",
+      "description": "Functional imaging technique, which measures brain activity by detecting changes associated with cell metabolism.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/29c0269e-8c44-40a3-a7ac-f5dfcb9bfc75"
+    },
+    {
+      "identifier": "be3b5868-6866-4ce8-be47-77b6d1bc951a",
+      "name": "Confocal Imag_hbp-d000958",
+      "description": "Sections were imaged with a Leica TCS 4D confocal scanning laser attached to a Leitz DMIRB fluorescence microscope. Fluorescent labeling profiles were imaged, using an excitation wavelength of 491 nm to visualize Alexa fluor 488.  Consecutive stacks of images at high magnification (×63 glycerol; voxel size, 0.240 × 0.240 × 0.29 μm³) were acquired to capture dendrites along the apical and basal dendritic arbors.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/be3b5868-6866-4ce8-be47-77b6d1bc951a"
+    },
+    {
+      "identifier": "4ff16432-a6b3-4a0c-b3a8-0ceba6fbe650",
+      "name": "LayerSpecific-fMRI_cortical depth layer segmentation",
+      "description": "The V1 regions of interest were segmented into 6 cortical depth layers",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/4ff16432-a6b3-4a0c-b3a8-0ceba6fbe650"
+    },
+    {
+      "identifier": "07a46507-c9ad-4963-8f8e-95c1a085f7a1",
+      "name": "ext-d000007_MuscAcRecMouse_Activities",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/07a46507-c9ad-4963-8f8e-95c1a085f7a1"
+    },
+    {
+      "identifier": "7a2dd0ed-cf9f-4698-98c7-2388246cf1f5",
+      "name": "LayerSpecific-fMRI_visual perception",
+      "description": "Participants viewed a uniformly red or green disk presented at the centre for 8 secs, flashing at a frequency of 4 Hz",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/7a2dd0ed-cf9f-4698-98c7-2388246cf1f5"
+    },
+    {
+      "identifier": "288495b4-2b1b-4664-b1d0-4812cd938e13",
+      "name": "LayerSpecific-fMRI_decoding",
+      "description": "linear SVM classification was used to decode perceptual/illusory/imaginary content (red vs green) from the 6 different cortical depth layers",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/288495b4-2b1b-4664-b1d0-4812cd938e13"
+    },
+    {
+      "identifier": "1a07d629-d8f5-4386-981a-82dc2024e828",
+      "name": "hbp-00926_HC-slice-ephys_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/1a07d629-d8f5-4386-981a-82dc2024e828"
+    },
+    {
+      "identifier": "f109d799aee9b36d9964679845a260de",
+      "name": "773.A.e.#1.left",
+      "description": "Functional magnetic resonance imaging technique, which measures brain activity by detecting changes associated with blood flow.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/e04835f4-2ab6-423d-9bcc-795184d71bd5"
+    },
+    {
+      "identifier": "d29127e8247156aa98a3e587d38efefe",
+      "name": "770.A.e.#4",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/370f7cbe-066d-4420-b7de-fdd4bd72c4cb"
+    },
+    {
+      "identifier": "5e91094ce47c328bd360c1be1dd4e1f9",
+      "name": "hbp-00932_WBimg_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/7cf6bbcf-4984-4bde-8a7b-09719eb1c152"
+    },
+    {
+      "identifier": "85036aba689afdcd2dc63c6e8ea95bf1",
+      "name": "42.A.e.#1",
+      "description": "Immunohistochemical staining of chandelier cell axon terminals",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/2fc8ac5d-da05-4e10-8588-5e88e8f2eaf2"
+    },
+    {
+      "identifier": "eb1a666ef419a45fad331ea328c1fd48",
+      "name": "hbp-00956_mouseCA1_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/7eaa7350-0f98-4d6b-877e-c2fe328f942f"
+    },
+    {
+      "identifier": "0645d7582c046f67cf4b90ce536f98bf",
+      "name": "40.A.e.#2",
+      "description": "Magnetic Resonance Imaging technique that produces a single (3D) snapshot of body's organ.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/2d957db0-dfa5-4d28-a1b1-bbbe040151b1"
+    },
+    {
+      "identifier": "5243e447541f12e6297e5387e8e45d49",
+      "name": "hbp-00167_641_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/81198761-7173-4207-8cc6-85c598bb1efb"
+    },
+    {
+      "identifier": "5ec25e5ceccbecca6ce213f583689faa",
+      "name": "772.A.e.#1",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/3645a4f6-c2b4-4a58-843a-e9bee2b976d3"
+    },
+    {
+      "identifier": "a746534c-c9ca-4282-b64e-4cb6371fb8db",
+      "name": "PVCre-Rosa26eYFP_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/a746534c-c9ca-4282-b64e-4cb6371fb8db"
+    },
+    {
+      "identifier": "5a59049a0449b14cefab4d3bd4e080c1",
+      "name": "hbp-00030_PSD95-conf_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/49417e6f-5ebd-4501-92b8-1ef1d275e800"
+    },
+    {
+      "identifier": "40a8db79-44f8-4549-8a1f-51f74557fed3",
+      "name": "hbp-00963_Mouse-HC_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/40a8db79-44f8-4549-8a1f-51f74557fed3"
+    },
+    {
+      "identifier": "a69198d263f5923b15be3cab7d60c0a1",
+      "name": "hbp-00648_AFmr1_Activity",
+      "description": "Local field potentials were recorded in the cerebral cortex of a mouse model of Fragile X syndrome during slow wave activity under ketamine anesthesia. Different parameters of the recorded signal were compared to those of wild type littermates to assess functional biomarkers characterizing Fragile X syndrome. The approach was similar to that in previous publications of our group (Castano-Prat et al., 2017; Ruiz-Mejias et al., 2016).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/5d4a125e-8f91-4382-980c-fce3e20f3d08"
+    },
+    {
+      "identifier": "a0cacc4c-a425-4f04-8907-c245d7efa340",
+      "name": "hbp-01853_WBS_Activities",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/a0cacc4c-a425-4f04-8907-c245d7efa340"
+    },
+    {
+      "identifier": "7568b7edc9232436b427797a42148873",
+      "name": "772.A.e.#4",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/a2619b5a-81b2-4c41-a308-77ef8ced8b66"
+    },
+    {
+      "identifier": "2b6137c7f43c9a9c9794989ecd394906",
+      "name": "45.A.e.#1",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/9c7d4bbd-b14b-48fc-9594-1284c3a0a3e6"
+    },
+    {
+      "identifier": "06e9ee4c-6909-4f7c-b51e-be5465a22380",
+      "name": "3D-PLI_human_3D-PLI",
+      "description": "3D-PLI utilizes the birefringence of nerve fibers which is measured in a custom-made polarizing microscope. The birefringence originates from the regular arrangement of lipids in the myelin sheath resulting in optical anisotropy. The anisotropy causes a phase shift of incident polarized light passing the brain tissue. 3D-PLI gives contrast to distinct nerve fibers and their tracts, and makes estimations of their spatial courses possible. Moreover, its sensitivity to myelin makes 3D-PLI well suited to address pathological alterations of the brain’s fiber architecture.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/06e9ee4c-6909-4f7c-b51e-be5465a22380"
+    },
+    {
+      "identifier": "83951b042514b891235c0eb5fd563029",
+      "name": "365.A.a.#3",
+      "description": "The ARCHI scoial task tackled cognitive functions implicated in social cognition, i.e. mental abilities linked to the theory-of-mind or social interplay.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/125eee6f-473a-4e80-be23-3440f69e325d"
+    },
+    {
+      "identifier": "d797b839-5422-447a-ab3e-61e60b18416e",
+      "name": "7TfMRI_hbp-d001040",
+      "description": "Functional magnetic resonance imagingmeasures brain activity by detecting changes associated with blood flow. The primary form of fMRI uses the blood-oxygen-level dependent (BOLD) contrast. This is a type of specialized brain and body scan used to map neural activity in the brain or spinal cord of humans or other animals by imaging the change in blood flow related to energy use by brain cells.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d797b839-5422-447a-ab3e-61e60b18416e"
+    },
+    {
+      "identifier": "80387348-ea52-44e3-bf03-5ea6ceea781c",
+      "name": "",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/80387348-ea52-44e3-bf03-5ea6ceea781c"
+    },
+    {
+      "identifier": "cec8f0af73268f8f9f3fd8c823b03165",
+      "name": "HID_task-MCSE",
+      "description": "The visual search task (MCSE) is the adaptation of a classical visual search test by Treisman and Gelade (1980). Each stimulus consisted of an array of 36 letters (6 X 6 square arrays with 35 tilted Ls and one T, all letters with independently and randomly tilted). Participants were instructed to find the letter « T » as fast as possible and press one of two response buttons to report its position in the upper (right index finger) or lower (right middle finger) part of the array. Two main experimental conditions were contrasted: an easy search (pop out) and a difficult (sustained) search condition (see Ossandon et al., 2011). In the easy condition, the target was grey and all distractors were black, while in the difficult condition, all letters were grey. The difficult and easy condition stimuli were intermixed randomly, with 48 trials for each condition and an inter stimulus interval of 4s between consecutive array onsets. Arrays were shown for 3 seconds and participants were encouraged to respond as fast as possible, while keeping their gaze on the center of the array. All task sessions took place in patients' hospital rooms. Stimuli were presented to the participants on a 17 inch computer screen at a 60 cm viewing distance. The arrays subtended 6x6 degrees of visual angle. Stimuli were delivered using the stimulus delivery software Presentation (Neurobehavioral systems Inc).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/be44947c-ddb0-40ac-a42a-d532cec76dd6"
+    },
+    {
+      "identifier": "74cfea76-16b3-4bae-946b-15d26f3472be",
+      "name": "ext-d000004_CortAff-V2L_Activities",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/74cfea76-16b3-4bae-946b-15d26f3472be"
+    },
+    {
+      "identifier": "8d13a6285c69d577b382b21a264148e7",
+      "name": "45.A.a.#1",
+      "description": "The receptor density fingerprint analysis provides the mean density and standard deviation of receptors for a single brain area.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/f465fdfc-148d-48b8-8410-395ce81c69f2"
+    },
+    {
+      "identifier": "a3741f082239cf001e97495736943f81",
+      "name": "365.A.a.#12",
+      "description": "The RSVP Language task was designed to localize brain areas implicated in language comprehension.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/82bb0cc7-4add-4f98-8812-b99241eeaa7b"
+    },
+    {
+      "identifier": "b8e30ed649aefd0f14091d08b79ac78a",
+      "name": "365.A.e.#1",
+      "description": "Functional magnetic resonance imagingmeasures brain activity by detecting changes associated with blood flow. The primary form of fMRI uses the blood-oxygen-level dependent (BOLD) contrast. This is a type of specialized brain and body scan used to map neural activity in the brain or spinal cord of humans or other animals by imaging the change in blood flow related to energy use by brain cells.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/85d8b746-33b2-425e-97da-c459a80c0ccd"
+    },
+    {
+      "identifier": "402725f5-802f-44e7-9938-e3e0b22c6085303708",
+      "name": "",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/402725f5-802f-44e7-9938-e3e0b22c6085"
+    },
+    {
+      "identifier": "90e46fbd8220ef9853bb055db4a07cd2",
+      "name": "326.A.e.#2",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/3e44f979-2a75-4bf7-a8c8-d05f8271a6f2"
+    },
+    {
+      "identifier": "9466fa7d6a340a364de17c9c58b09d1e",
+      "name": "365.A.a.#11",
+      "description": "The main purpose of the HCP Emotion task was to capture neural activity erlated to the perception of fear and anger.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/6ad11411-a292-4a42-b5af-636773a8eb36"
+    },
+    {
+      "identifier": "085f291a-ae74-4ddd-93ce-93785cea30aa",
+      "name": "Test1",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/085f291a-ae74-4ddd-93ce-93785cea30aa"
+    },
+    {
+      "identifier": "6f9f579e45dc0986fe666bdf194afa1f",
+      "name": "45.A.e.#14",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/96ff2146-a699-448a-87ba-a800629ecf39"
+    },
+    {
+      "identifier": "12f1a7f0389b6f5833b206f840c15576",
+      "name": "hbp-00012_APD12_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/c624497c-104c-4fba-9e40-75ffcad34f1f"
+    },
+    {
+      "identifier": "6036051ce89e15f477544316b061bd41",
+      "name": "365.A.a.#6",
+      "description": "The HCP Motor task was designed with the intent of extracting maps on gross motor topography, in particluar responces associated with movements of the foot, hand and tongue.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/a250b576-8b3c-4a84-9c78-321ac92d82f3"
+    },
+    {
+      "identifier": "a5435bdcc6639df96867ecf5cf9e03dc",
+      "name": "HID_sEEG",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/95163026-04e2-482e-97a6-3311870967c9"
+    },
+    {
+      "identifier": "40bf642ebd97ae602d666ca9e1815ff2",
+      "name": "54.A.#2",
+      "description": "The JuBrain cytoarchitectonic atlas consists of probabilistic maps for human brain structures defined by histological analysis of ten post-mortem brains. The individual maps are furthermore combined into a Maximum probability Map that assigns each voxel in the brain to the most likely histological area at that particular position. This cytoarchitectonic atlas is a key element of the HBP Human Brain Atlas, representing the most detailed miro-structural parcellation of the cortex currently available. It is of utmost relevance for functional and cognitive neuroscientists to localize their findings and activations patterns in a common structural framework, and thus helps bridging the gap between function and structure by allowing an objective integration of in-vivo data with histological findings using quantitative tools (Eickhoff et al., 2005, 2007). To date the atlas contains 60 structures, which are ready for a public data release, since each of them is described and published in peer-reviewed journals. For roughly the same number of additional structures, histological mapping has already been completed, but the data is not yet completely analysed and published. Finally, around 90 further structures are currently being mapped. The cytoarchitectonic maps are based on observer-independent histological mapping performed in 10 human post-mortem brains. These brains were obtained via the body donor program of the Department of Anatomy at the University of Düsseldorf, Germany as approved by the local ethics committee. Details on the histological processing have been extensively described in peer-reviewed publications (e.g., Amunts et al., 1999, 2004; Zilles et al., 2002), the approach for observer-independent delineation of brain regions is summarized in (Zilles et al., 2002; Schleicher et al., 2005) and detailed specifically for each particular brain structure in the associated journal publication. Following 3D reconstruction of the histological volumes and spatial normalization into a common template space (cf. above) as described in detail in (Amunts et al., 2004), the individual maps of structures in the different brains are superimposed to create probabilistic maps. These map describe, how likely that particular structure is found at each voxel of the reference space. Finally, as a summary of these individual maps into a distinct whole-brain parcellation, a Maximum probability Map is computed that assigns each voxel in the brain to the most likely histological area at that particular position (Eickhoff et al., 2005, 2006).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/108f0e87-1cdd-4e9d-8669-dcf617b4f956"
+    },
+    {
+      "identifier": "e2a4a999e625be00930d338f86f4653f",
+      "name": "55.A.e.#1",
+      "description": "The BigBrain dataset is a key element of the HBP Human Brain Atlas, representing a structural representation of the cytoarchitectonic of the human brain with the highest isotropic resolution currently available. So far, the dataset has been used in two cytoarchitectonic mapping projects. From these two projects the Te1.0, Te1.1, Te1.2, Te2.1, Te2.2, Te3, TI1, TI2, and TPJ cortical subregions of the auditory cortex were transformed into BigBrain space. To do this, the border information was measured and extracted in successive stained histological sections of the original distorted dataset, at a layer distance of up to 0.3mm as contour line data. We computed new linear and nonlinear transformations from the original distorted sections to the final repaired and corrected sections of the 3D reconstructed BigBrain dataset, because it would have been much more complicated—and thus error-prone—to combine the large number of individual transformations which have been computed for the original 3D reconstruction of the BigBrain. The newly computed transformations were applied to the contour line data, quality controlled, and shared with the EPFL team for the purpose of integrating the delineations of the auditory cortex into the BigBrain viewer of the Collaboratory.\nIn addition, efforts were carried out to achieve a match of the ontologies used for the cytoarchitectonic JuBrain atlas and the Collaboratory/Unified Portal data. \nThe cytoarchitectonic delineations of the auditory cortex are based on observer-independent histological mapping performed in the stained histological sections of the first BigBrain dataset at an in-plane resolution of 1μm. The delineations were transferred to the reconstructed histological sections at a resolution of 20μm. Details of the histological processing and 3D reconstruction of the BigBrain dataset have been extensively described in Amunts et al., 2012, and the approach for observer-independent delineation of brain regions is summarised in several peer-reviewed publications [Zilles et al., 2002; Schleicher et al., 2005].",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/ca3227fb-2e27-43d3-92e3-07fdd16f843f"
+    },
+    {
+      "identifier": "d672a9cc53b6fbbbfa64937d0ad97318",
+      "name": "BigBrain.A.e.#1",
+      "description": "Magnetic Resonance Imaging technique that produces a single (3D) snapshot of body's organ.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/e0884591-e474-420d-b3f6-90ac122d0b80"
+    },
+    {
+      "identifier": "e26ad2cc2d4329ca4aab5183ffb4f7d4",
+      "name": "BigBrain.A.a.#1",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/92dcc3a9-a808-495b-ba93-2962dd97e252"
+    },
+    {
+      "identifier": "53fc6059-329b-427c-8b79-f4b745b1ea1b",
+      "name": "MEE Task_hbp-d001040",
+      "description": "Written words belonging to four categories (locations (e.g. kitchen), objects (e.g. hammer), animals (e.g. mouse) and famous people (e.g. Obama)) are used. Out of each category a word was drawn and associated with another, this created 36 events in total. 18 events consisted of four categories (open-loop events), 18 events consisted of three categories (closed-loop events). Words are presented in white font on black background to the center of a screen (font size = 30) and via a mirror mounted on the head coil, participants could watch the projected screen. Task instructions prior to scanning: “The task is an associative learning paradigm. Imagine the displayed associative word pair together in one scene as vividly as possible”. The associative event structure (open or closed loop) remained implicit to the participant. Encoding part: Learning of 36 events in pair-wise associative manner, three blocks with 36 trials, in total 108 encoding trials. At each block one associative pair of each event is presented. Overlap of event elements from one block to the next: AB – BC – CD (open-loop events) or AB – BC – CA (closed-loop events), here ABCD refer to words from different categories. No responses required by participants. Stimulus presentation: 6000 ms, interstimulus interval 1500ms fixation cross before each stimulus: 500 ms. Retrieval part: Tests each pairwise association within an event, i.e. 6 retrieval trials per event, 215 trials in total, 6 blocks: each block tests one associative pair from each event (bidirectionally). Cue is always one event element; 4-alternative forced choice recognition procedure, all lures belonged to same category as target, taken from other events. Max presentation of cue and response options: 6000ms, 1-4 confidence rating thereafter: 6000 ms, interstimulus interval: 1500 ms, fixation cross before each trial: 500 ms",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/53fc6059-329b-427c-8b79-f4b745b1ea1b"
+    },
+    {
+      "identifier": "3af936f8-d5df-4007-ba93-69b0195e9244",
+      "name": "MRI-T1&T2_hbp-d000004",
+      "description": "T1 and T2*weighted Echoplanar Imaging time series.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/3af936f8-d5df-4007-ba93-69b0195e9244"
+    },
+    {
+      "identifier": "d6a2a0da-b82e-4f95-aba4-014a0364c03d",
+      "name": "participant-specific Volumes-Of-Interest",
+      "description": "Participant-specific Volumes-Of-Interest indicating the 3D spatial coordinates of voxels in Regions of Interest for the left (LH) and right (RH) hemisphere with or without (_exclEVC.voi) early visual areas.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d6a2a0da-b82e-4f95-aba4-014a0364c03d"
+    },
+    {
+      "identifier": "3fbbd88d-b83f-429d-a14a-eb1ebada6495",
+      "name": "hbp-00178_WHS-v1p0_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/3fbbd88d-b83f-429d-a14a-eb1ebada6495"
+    },
+    {
+      "identifier": "b92c353d738b058e5393e0e56211085a",
+      "name": "hbp-00172_461_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/7a83a7f5-60a1-4643-b953-d3a8e06b4a0f"
+    },
+    {
+      "identifier": "10f5dc3039ce5fbfa05957492a918178",
+      "name": "46.A.e.#2",
+      "description": "Infant brain template is a corrected three-dimensional reconstruction of a single MRI brain scan of a single human infant (female, age: 7.1 weeks) with a high resolution (1.1 mm³). The inner cortical surface was segmented using a semi-automatic segmentation pipeline dedicated to T2w MRI images of the infant brain, followed by manual correction, when local inaccuracies were detected. On the basis of the segmented sulci, 47 anatomical regions of interest (ROIs) were delineated, in each hemisphere.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/1e311f18-eea3-476a-b6b2-3d288e531033"
+    },
+    {
+      "identifier": "c47e7e7881d8a7d47a97e66da5ca6145",
+      "name": "hbp-00170_Comparative_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/fa9e7bf0-dd59-4a8b-bdde-c9abeaa66aaf"
+    },
+    {
+      "identifier": "2375551f0f99d1b343d51982e6aa4439",
+      "name": "hbp-00005_MF-CA3-STDP-neonate-WT-posPairing_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/042add86-6388-4571-9907-0cd3d8e6bbbe"
+    },
+    {
+      "identifier": "73d6fc087484c24b0ab7663526cc2bc7",
+      "name": "36.A.a.#1",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/3f75e8b2-9f3f-4714-a381-bd81fb019cec"
+    },
+    {
+      "identifier": "ff0612d4a6a6640adc314f3ec3c611e5",
+      "name": "45.A.a.#3",
+      "description": "The receptor autoradiography plot provides a color-coded laminar density distribution for a single receptor in a 2D-image of a cortical cross section.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/b3e61afc-6013-42ea-92e3-d83260fe6455"
+    },
+    {
+      "identifier": "5f1ac249ad0dfea4480e81c91b437c84",
+      "name": "770.A.e.#2",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/8f58a598-e2a4-4d22-9912-7cad0125afcc"
+    },
+    {
+      "identifier": "250d1a9b2a3e376e1fe09348aa705f76",
+      "name": "45.A.e.#5",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d8c0ad71-2a4e-4805-858b-71ee489c9d12"
+    },
+    {
+      "identifier": "f78dee22993b8cc903d712b7c136f0f3",
+      "name": "hbp-00961_mhippo-vGlut1-vGlat_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/63dbdc2f-8dab-4348-ba8a-030225976a52"
+    },
+    {
+      "identifier": "8aa769cd-1c46-4a1f-bb11-bcf1162f8a0d",
+      "name": "Test",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/8aa769cd-1c46-4a1f-bb11-bcf1162f8a0d"
+    },
+    {
+      "identifier": "d115aa8a-06c2-40da-8091-5183645adea2303708",
+      "name": "",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d115aa8a-06c2-40da-8091-5183645adea2"
+    },
+    {
+      "identifier": "e2a4a7e1ac73b2ee2b998c8ecef71837",
+      "name": "773.A.e.#1.right",
+      "description": "Functional magnetic resonance imaging technique, which measures brain activity by detecting changes associated with blood flow.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/a5902a77-0065-483c-ac8e-9454558d7001"
+    },
+    {
+      "identifier": "7b0c9932f5f168005e7293bf82d518d8",
+      "name": "HID_HFA",
+      "description": "The analysis procedure is the one commonly used by the Lyon group to process iEEG data (e.g. Ossandon et al., Journal of Neuroscience, 2012). Continuous iEEG signals were first re-referenced to their nearest contact site (bipolar reference, e.g. “f4” becomes “f4-f3” for contact site f4, immediate neighbor of f3 3.5 mm away on the same electrode shaft) then bandpass-filtered in ten consecutive 10-Hz-wide frequency bands (e.g., 10 bands, beginning with 50–60 Hz up to 140–150 Hz). Next, we computed the envelope of each of the ten bandpass filtered signals using a standard Hilbert transform. The resulting envelopes were then downsampled to a time resolution of 15.625 ms between consecutive samples (64 Hz). Then, for each band, that envelope was divided by its mean value across the entire recording session and multiplied by 100 (which means that the values are now expressed in % of the mean envelope value across the entire recording). Finally, the envelope signals computed for each consecutive frequency bands (e.g., 10 bands of 10 Hz intervals between 50 and 150 Hz) were averaged together, to provide one single time-series (named “High-Frequency Activity of HFA[50-150 Hz]) across the entire session. By construction, the mean value of that time-series across the recording session is equal to 100.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/4db8f3c3-1398-451a-bac8-055c692e59fc"
+    },
+    {
+      "identifier": "d34bf637a054c128eac34dcf36b20999",
+      "name": "365.A.a.#8",
+      "description": "The HCP Relational task employed a relational match-to-sample paradigm, featuring a second-order comparison of relations between two pairs of objects.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/a0a944c4-e36f-4c6e-817c-e9940321a88f"
+    },
+    {
+      "identifier": "68766b197a3b65852113f97878ca981b",
+      "name": "hbp-00005_MF-CA3-STDP-adult-WT-posPairing_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/0a5bff5d-f20e-4a20-9024-8361ed5c7b0e"
+    },
+    {
+      "identifier": "6d18cc1053896334759e4660e4cf01fd",
+      "name": "hbp-00015_sIPSCs_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/75959b63-ac56-4ea4-918c-ba90264e163a"
+    },
+    {
+      "identifier": "bbcd571b-4453-4c24-86ae-fb6651910867",
+      "name": "ida_key_#1",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/bbcd571b-4453-4c24-86ae-fb6651910867"
+    },
+    {
+      "identifier": "e61504095b26c6fcb091d6eb86aa59c5",
+      "name": "773.A.e.#3.left",
+      "description": "Structural imaging technique, which estimated white matter fiber properties from their diffusion properties.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/77206a58-3699-4536-a4b2-bd235efddabb"
+    },
+    {
+      "identifier": "48c2b9afdd8876ed813e183b52a96720",
+      "name": "365.A.e.#9",
+      "description": "The setting of an atlas of human brain function plays a key role in the HBP, as it will provide top-down constraints on the functional and structural organization of future brain simulations. The available technology makes it possible to build such an atlas from measurements at the mm scale using non-invasive imaging (functional Magnetic Resonance Imaging, associated with other MRI measurements). The Individual Brain Charting task is addressing this challenge, based on the combination of two strategies: \n1. Gather and integrate all existing cognitive data into a model of brain functional organization. For this, we will gather all freely available data (Human Connectome Project, OpenfMRI, archi and NeuroVault; Gorgolewski et al, 2015) into a consistent framework that associates these data with relevant annotation.  The crux is the statistical analysis of these data (meta-analysis, that relies on machine learning), which involves computational aspects (tractability of the learning procedures: Varoquaux et al, 2013), sophisticated machine learning tools (supervised learning; Schwartz et al, 2013, Thirion et al, 2014b, Schwartz et al, submitted) and statistical problems (model selection; Thirion et al, 2014). The analysis of these data is currently bringing new insights on the network-level organization of brain function (Bzdok et al, submitted) and functional segregation of the brain (Schwartz et al, submitted).\n2. Acquire new, better quality and higher resolution data to gain an order of magnitude in our description of brain functional circuits. This relies on considering individual acquisition in a small group (12) of subjects that will be scanned in a vast amount of situations during the duration of the project (10 acquisitions during the ramp-up phase). We are currently finalizing the ethical and administrative aspects of this study, and running the first inclusion scans. In a pilot study (Thirion et al, 2014a), we have already shown that an important fraction of cross-subject variability could be captured by the response to functional localizer experiments, showing that a sharper characterization of brain function would be obtained by systematic intra-subject mapping.\nThe resources represented by these two approaches will be further developed and analysed jointly in the course of the project.\nOur first deliverable is the open-source Nilearn toolbox (http://nilearn.github.io/ release 0.1 in 01/2015) that provides the necessary functions to upload these data easily, organize them to enter machine learning analyses, perform efficiently various kinds of estimation, write and visualize the results. Note that Nilearn relies on the reference Scikit-learn and joblib libraries developed by us and widely used by the Neuroinformatics platform of HBP.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/087545b9-310b-4462-8aa6-87c8f6e0e2c2"
+    },
+    {
+      "identifier": "b4386c9370e9a8e757eb556cad897029",
+      "name": "365.A.a.#9",
+      "description": "The HCP social task intended to provide evidence for brain activity related to social cognition.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/bc520615-09cf-433c-94e3-c5126bc09e46"
+    },
+    {
+      "identifier": "01d22dff-67bc-401c-814c-bfebc4c0014b",
+      "name": "hbp-00173_262_2",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/01d22dff-67bc-401c-814c-bfebc4c0014b"
+    },
+    {
+      "identifier": "df7750bd2729e8ebee2a4c2acb310bdf",
+      "name": "hbp-00713_mIPSCs-scFvNLG2-645_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/64bf79e1-01d7-48c9-b9d6-0a468f89e0ee"
+    },
+    {
+      "identifier": "6742225407a1448088f2542448ca86ec",
+      "name": "40.A.a.#1",
+      "description": "The ARCHI DWI dataset was processed using the Connectomist toolbox including the curation of the artifacts entailing the DWI datasets (susceptibility induced disotrsions, spikes, noise, eddy currents, subject motion), the inference of HARDI local models (Q-ball and CSD models), the inference of connections using tractography algorithms (regularized probabilistic and deterministic streamline algorithms), and the clustering of those connections into long and short white matter bundles.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/4c6f2651-e897-43e8-8a94-276b2f015963"
+    },
+    {
+      "identifier": "d1e4569e18cfacbcd7ebf387ffcfe36e",
+      "name": "773.A.e.#2.left",
+      "description": "Functional imaging technique, which measures brain activity by detecting changes associated with cell metabolism.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/60fbbe62-615a-4cea-a79f-0ddfbbe12a58"
+    },
+    {
+      "identifier": "216e9a1ea6cac906fee002e18e9dfadb",
+      "name": "302.A.e.#1",
+      "description": "microscopic birefringence measurements of nerve fibers in serial unstained brain sections",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/5bd78838-e192-41a8-abd3-30a55e1545d4"
+    },
+    {
+      "identifier": "57fa020509073855a38693142bbb3bdc",
+      "name": "HID_task-LEC1",
+      "description": "The word recognition task (LEC1) was adapted from Mainy et al (2008). Patients were recorded under three different experimental conditions: a Control condition, a Phonological condition and a Semantic condition. In the Control condition, participants were shown series of five or six-letter consonant strings, which could not be read according to the conventional graphotactic rules of the French language (i.e., ''xwxqn''). Their task was to indicate whether the string was written in upper of lower case (50% probability for each category). In the Phonological condition, participants had to silently read five- and six-letter pseudo-words, pronounceable according to the phonotactic conventions of the French language (i.e., ''picron'') but with no obvious resemblance to known words. Their task was to determine the number of syllables included in the pseudo-word (two or three, 50% probability for each type). In the Semantic condition, participants had to judge whether five or six-letter words represented living things or not (animacy decision, 50% probability for each type). The experiment itself consisted of 12 runs. In each run, participants were presented with three blocks of five stimuli, one for each condition (Control, Phonological or Semantic). The order of the three conditions was counterbalanced between runs. The patients could take a short break and relax between two runs. Between blocks (5 stimuli of the same condition), a white cross-hair fixation point reminded participants of the condition for the block to come (coded with its precise location on a vertical axis). Strings were presented for 2000 ms, with a constant interstimulus interval (3500 ms). All stimuli (60 for each condition) were presented foveally on a 17'' computer screen, as white lower-case letters (courier font, size 36) on a light gray back-ground. Participants were instructed to respond by pressing a key with their left index finger (« Uppercase », or « Two Syllables » or « Living Entity » for the Control, Phonological and Semantic conditions respectively) or their right middle finger (« Lowerrcase », or « Three Syllables » or « Not a Living Entity »). Participants were asked not to move their tongue or lips during the tasks. All task sessions took place in patients' hospital rooms. Stimuli were presented to the participants on a 17 inch computer screen at a 60 cm viewing distance. Stimuli were delivered using the stimulus delivery software Presentation (Neurobehavioral systems Inc).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/54373466-e679-4482-a347-c28e898d69b9"
+    },
+    {
+      "identifier": "1bcd2554216e712f875de4076eae3681",
+      "name": "45.A.e.#6",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/ecd00b9e-7539-4424-830c-a76c34fc6061"
+    },
+    {
+      "identifier": "a12b15e1-7608-46b5-9f10-d6cd56d5816f",
+      "name": "3D-PLI_human_MRI",
+      "description": "Magnetic Resonance Imaging technique that produces a single (3D) snapshot of body's organ.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/a12b15e1-7608-46b5-9f10-d6cd56d5816f"
+    },
+    {
+      "identifier": "8016028795724369b5c4952e026dda56",
+      "name": "365.A.e.#2",
+      "description": "Magnetic Resonance Imaging technique that produces a single (3D) snapshot of body's organ.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/704e7fa3-bef0-4980-a398-50d304c3c8ce"
+    },
+    {
+      "identifier": "2cd1d0ba-45c1-403b-8116-c8589749ed41",
+      "name": "ComparativeMappingOfVisuo-MotorCortex_Receptive-field mapping task",
+      "description": "Electrophysiological and eye-position data during mapping of the receptive-field. We measured RFs by flashing a small white check (1° x 1°) at every point of an 11°x11° grid. The patient had to maintain fixation within a 2 degree radius window during the entire duration of each trial.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/2cd1d0ba-45c1-403b-8116-c8589749ed41"
+    },
+    {
+      "identifier": "28ca97c526e40a79fb5607fdab835931",
+      "name": "hbp-00713_mIPSCs-scFv-gephcyto_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d0212d42-e6ce-4b32-86c9-d1105b091a67"
+    },
+    {
+      "identifier": "b0fbabd2-c5d2-4308-91e3-8cc79064d7b4",
+      "name": "7TfMRI-T2_hbp-d000006",
+      "description": "Raw data of the functional MRI time series (EPI T2*weighted) in Nifti format.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/b0fbabd2-c5d2-4308-91e3-8cc79064d7b4"
+    },
+    {
+      "identifier": "ac63bc4e9399d5440dc3d7fe336d2351",
+      "name": "hbp-00170_PitX3_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/067e684e-79a2-416d-a17f-2690b253fb4b"
+    },
+    {
+      "identifier": "6b18e052b31e677dbd6ab8fe202407c0",
+      "name": "43.A.a.#1",
+      "description": "Clustering of neurons based on euclidian distance between their TDL. Based on Thorndike 1953",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/8d16de11-12a1-475b-ba3b-c0e611dccbe6"
+    },
+    {
+      "identifier": "4ea298d2fa1d9af93094f41044c55810",
+      "name": "HID_task-AUDI",
+      "description": "During the auditory discrimination task (AUDI), participants listened to 36 sounds of 12 different categories knowing that three of them would be replayed at the end of the task, together with three novel sounds: their task was to listen attentively to all sounds in order to be able to report at the end which of the six final sounds had been heard before (auditory functional localization). All sounds lasted 12 seconds, and categories of sounds were a) simple sentences read in French (computer voice, French Sentence) b) the same sentences, played backwards in time (Flipped Sentences) c) simple sentences read in Suomi (Finnish, unfamiliar to participants, Suomi Sentences) d) predictable speech patterns (e.g. counting up « 1 … 2 … 3 …. » or the alphabet « a …. b …. c …. », Predictible Speech), e) human voices with no speech (Voices), e) human sounds : people crying (Crying), f) human sounds : people laughing (Laughing) g) human sounds : people yawning (Yawning), h) human sounds : people coughing (Coughing), i) instrumental music (no lyrics, Music), j) environmental sounds (e.g. cars, machines, …, Environmental), k) animal sounds (e.g. cows, horses, dogs, …. Animal). They were also three 12-s episodes of pure silence (Silence). Some of the sounds (Voices, Crying, Yawning, Laughing, Environmental and Animal) were concatenations of shorter stimuli of a functional localizer of the Temporal Voice Area ( Belin et al., 2000 ; Pernet et al., 2007 ). The 36 sounds (3 sounds of 12 categories) and 3 silent baseline periods were played consecutively, once each and in a pseudo-random order (to avoid that two sounds of the same category follow each other immediately). Participants listened to all sounds continuously with their eyes closed. The sequence was pseudorandom, to ensure that two sounds of the same category did not follow each other. All task sessions took place in patients' hospital rooms. Sounds were delivered binaurally via earphones using the stimulus delivery software Presentation (Neurobehavioral Systems). All acoustic signals had the same intensity, quantified by their root mean square, and were played at a comfortable hearing level.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d43a5733-4421-4702-800b-4d859325e85c"
+    },
+    {
+      "identifier": "9920bd0ef06b036adb2763d5b0e8256c",
+      "name": "hbp-00166_conne_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/cc6e9003-e795-4393-9695-f4d289c1c1d0"
+    },
+    {
+      "identifier": "e4c4b9e3-5c38-45b1-8eee-55e5a7a754dd",
+      "name": "hd-EEG for Milano Area C",
+      "description": "High-density ElectroEncephaloGraphy (hd-EEG) for non-invasively monitoring electrical activity of the brain from 256 electrodes placed on the scalp.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/e4c4b9e3-5c38-45b1-8eee-55e5a7a754dd"
+    },
+    {
+      "identifier": "04d78113-6487-411f-90dd-9320c054e2a8",
+      "name": "LayerSpecific-fMRI_population-receptive field mapping",
+      "description": "population-receptive field mapping was used to determine regions of interest within V1 (see Dumoulin & Wandell, 2008)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/04d78113-6487-411f-90dd-9320c054e2a8"
+    },
+    {
+      "identifier": "6f3e8190-69d7-4861-b5b2-7a31b6af45be",
+      "name": "design matrix_hbp-d000004",
+      "description": "Protocol files (see enclosed README_the-format-of-prt-files.pdf for details)  are simple text files containing the informations defining a stimulation protocol. The entries should normally not be changed directly in the file due to the risk of introducing errors. You can use the \"Stimulation Protocol dialog\" to specify the protocol.\n",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/6f3e8190-69d7-4861-b5b2-7a31b6af45be"
+    },
+    {
+      "identifier": "e017a8d94795b586039e1ec8c128e1c7",
+      "name": "hbp-00940_ephy-ChIN-STR_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/47229c98-d3ec-4b7a-ad60-285a509c3d2b"
+    },
+    {
+      "identifier": "73ae911bc22bb92e4075d7e22b239b82",
+      "name": "hbp-01681_TouchAndSee_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/fde69f41-30bf-46be-81e3-0d902ae3ea67"
+    },
+    {
+      "identifier": "917d0613-3729-4141-a9bd-2e4e4f8e3ba3",
+      "name": "hbp-01854_Activities",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/917d0613-3729-4141-a9bd-2e4e4f8e3ba3"
+    },
+    {
+      "identifier": "a7e71e20916aac91fcf2b8674224db2d",
+      "name": "54.A.a.#3",
+      "description": "Provides parcellation of brain areas based on the maximum probability of the voxels to belong to a corresponding area (maximum probability mapping).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/425c86c8-7cc5-4ee7-b8f3-71e4acfb631e"
+    },
+    {
+      "identifier": "b751a07a6a8eb5c66bf10d5e5c9fa6a2",
+      "name": "hbp-00005_MF-CA3-STDP-neonate-KI-posPairing_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/415fc119-11fe-4d52-82ee-3e3fe12b00c2"
+    },
+    {
+      "identifier": "a3ec0e50f57c8f0733c875f77d15132c",
+      "name": "HID_task-MOTO",
+      "description": "In the instructed moto-coordination task (MOTO), patient were instructed by a visual cue to move alternatively their eyes, head, arms and legs. Each block of the task started with a written instruction informing the participant of the requested action for that block (e.g. « move your left or right index finger »). After a waiting period of 4000 ms, a succession of ten screens (a central coloured dot, either red or green, for 1000 ms followed by a blank screen for another 1000 ms) instructed the participant to perform the designated movement with the left or right side of his body (red = left, green = right). Red and green dots alternated (five times each). There were seven blocks/« actions » instructing participants to : « move their arm » (ARM); « move their index finger » (INDEX); « make a saccade » (SAC : red/green dot = saccade to the left/right); « move their head » (HEAD : red/green dot = to the left/right); « lift their leg » (LEG); « tell the word 'left' or 'right' » (TELL : red/green = « left »/« right », but the specific word is obviously irrelevant); « do not move » (whether the dot is red or green, control condition).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/ed759fb6-991b-4b5a-bbda-c8d95cfe3209"
+    },
+    {
+      "identifier": "85e7ed11133fbe76cd6760c86b2510e3",
+      "name": "45.A.e.#12",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/c37b65d2-e5e9-472b-a219-a5962dcc6bd9"
+    },
+    {
+      "identifier": "38043bd2f6d244cea86568180599b532",
+      "name": "hbp-00168_62_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d8f16486-fe47-45e5-b304-d7f249a53993"
+    },
+    {
+      "identifier": "c02836c6f615e714bb699452a383111b",
+      "name": "hbp-00745_3D-Recx-Mouse-Ctx_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/5b663ad8-07f3-4787-87ee-76f993e6336c"
+    },
+    {
+      "identifier": "faf9d965bc0c416643cc7172d5c33b9d",
+      "name": "HID_task-LEC2",
+      "description": "The visual selective attention task (LEC2) was adapted from Nobre et al. (1998). In each block of the experiment, participants were presented with two intermixed stories, shown word by word at a rapid rate (one word every 700 ms, shown for 200 ms). One of the stories was written in grey (on a black screen) and the other in white. Consecutive grey words formed a meaningful and simple short story in French. Consecutive white words formed another meaningful and simple short story in French, although some of the words were interchanged between two parts of the story. Participants were instructed to read the grey story to summarize it at the end of the task, while ignoring white words. The task comprised 400 words, with 200 grey words (task-relevant, attended stimuli) and 200 white words (task-irrelevant, to-be-ignored stimuli). Color distribution within the 400 words was pseudo-randomized, so that participants could not predict whether the subsequent word was to be attended or not (but there were never more than three consecutive words of the same color). As announced, participants were told at the end of the task to summarize the story, and were also asked questions about the attended text, which could not have been answered from general knowledge. They were also asked to report anything weird they could have noticed within the white story, if they happened to read part of it unintentionally (interchanged words). All task sessions took place in patients' hospital rooms. Stimuli were presented to the participants on a 17 inch computer screen at a 60 cm viewing distance. Stimuli were delivered using the stimulus delivery software Presentation (Neurobehavioral systems Inc).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/739a74a1-303e-4190-b1e9-5aeaa7cd93ec"
+    },
+    {
+      "identifier": "2b0df24258f19ff964a64143846b6c0d",
+      "name": "HID_task-REST",
+      "description": "During resting state (REST), participants were recorded at rest, with no other instruction than to keep their eyes closed.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/190342c6-fc18-4c67-88fa-40e63ac8d21c"
+    },
+    {
+      "identifier": "13f2fa8a-0ce5-4fae-9613-7ebf72c4328c",
+      "name": "hbp-01851_in-vitro_Activities",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/13f2fa8a-0ce5-4fae-9613-7ebf72c4328c"
+    },
+    {
+      "identifier": "d941bcb05d97679b741e1a1c9308cb0e",
+      "name": "hbp-00019_arc-1_Activity",
+      "description": "Localization of activated cells (expressing immediate early gene Arc) in half mouse brain, normal caging.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/20f005c4-2464-4f76-a3c7-b4d3690050f1"
+    },
+    {
+      "identifier": "07c47aa32bbf7fc2e5780075268226eb",
+      "name": "HID_task-MVEB",
+      "description": "Sternberg's verbal working memory task (MVEB) is conducted with letter stimuli. Each of the main 36 trials started with the presentation of a 1500 ms central fixation cross followed by a horizontal, central and linear array of six symbols including two, four, or six consonants and # signs (the « sample » stimulus, i.e. « S#H### » or « F#GH#K » or « GTHNCL » ). After 1500 ms, the sample stimulus was replaced by a fixation cross which stayed on screen for 3000 ms (the « retention » period). At the end of the retention period, a letter appeared for 1500 ms (the « test » stimulus) and participants had to press a key with their right index (« present ») or middle finger (« absent ») to indicate whether that letter was present of absent in the sample stimulus. There were 12 trials for each memory load (two, four or six letters). In addition, 12 trials (control condition) showed a sample stimulus with a two, four or six identical letters and # signs (i.e. « F#F### » or « H#HH#H » or « GGGGGG »), indicating that participants only had to remember that single letter (e.g. load equals « one »). There were 48 trials overall (36 + 12 controls) randomly presented during the task. All task sessions took place in patients' hospital rooms. Stimuli were presented to the participants on a 17 inch computer screen at a 60 cm viewing distance. The strings subtended 4 degrees of visual angle along the horizontal axis. Stimuli were delivered using the stimulus delivery software Presentation (Neurobehavioral systems Inc).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/f593d2b4-258f-4e8f-8c97-2f7ce16f3dea"
+    },
+    {
+      "identifier": "eadce59b-44e1-4b8c-8740-36ee964365bd",
+      "name": "hbp-00176_dd_WHS_Activity_v3",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/eadce59b-44e1-4b8c-8740-36ee964365bd"
+    },
+    {
+      "identifier": "c8a7e66f1a6af692939c85dfdde110a6",
+      "name": "773.A.a.#2.right",
+      "description": "Meta-analytic connectivity modeling (MACM) is a technique for assessing task-based functional connectivity. MACM investigates convergence in co-activation among peaks of activation across thousands of experiments. Revealed brain regions can be interpreted as coactivated with the seed region at an above-chance frequency and hence functionally connected.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/6d0355d6-9204-4e92-b37e-3779aa8462dc"
+    },
+    {
+      "identifier": "cb644171fd17a8ef9798cc6b3a54bb73",
+      "name": "hbp-00023_GAD67_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d811ceae-9bad-4219-9295-b750114f3938"
+    },
+    {
+      "identifier": "3e9526a3-6dce-4801-b08d-ce1cb676b3ef",
+      "name": "hbp-00044_44_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/3e9526a3-6dce-4801-b08d-ce1cb676b3ef"
+    },
+    {
+      "identifier": "fdd7a30cad1f5188e5ed446c941384b3",
+      "name": "hbp-00018_SRXTM-Rat-Ctx_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/c642a04b-cb26-4a78-9efb-f0fabb03eb22"
+    },
+    {
+      "identifier": "6afcdc2bb7fade4170fc1353c69e86b2",
+      "name": "365.A.e.#4",
+      "description": "The setting of an atlas of human brain function plays a key role in the HBP, as it will provide top-down constraints on the functional and structural organization of future brain simulations. The available technology makes it possible to build such an atlas from measurements at the mm scale using non-invasive imaging (functional Magnetic Resonance Imaging, associated with other MRI measurements). The Individual Brain Charting task is addressing this challenge, based on the combination of two strategies: \n1. Gather and integrate all existing cognitive data into a model of brain functional organization. For this, we will gather all freely available data (Human Connectome Project, OpenfMRI, archi and NeuroVault; Gorgolewski et al, 2015) into a consistent framework that associates these data with relevant annotation.  The crux is the statistical analysis of these data (meta-analysis, that relies on machine learning), which involves computational aspects (tractability of the learning procedures: Varoquaux et al, 2013), sophisticated machine learning tools (supervised learning; Schwartz et al, 2013, Thirion et al, 2014b, Schwartz et al, submitted) and statistical problems (model selection; Thirion et al, 2014). The analysis of these data is currently bringing new insights on the network-level organization of brain function (Bzdok et al, submitted) and functional segregation of the brain (Schwartz et al, submitted).\n2. Acquire new, better quality and higher resolution data to gain an order of magnitude in our description of brain functional circuits. This relies on considering individual acquisition in a small group (12) of subjects that will be scanned in a vast amount of situations during the duration of the project (10 acquisitions during the ramp-up phase). We are currently finalizing the ethical and administrative aspects of this study, and running the first inclusion scans. In a pilot study (Thirion et al, 2014a), we have already shown that an important fraction of cross-subject variability could be captured by the response to functional localizer experiments, showing that a sharper characterization of brain function would be obtained by systematic intra-subject mapping.\nThe resources represented by these two approaches will be further developed and analysed jointly in the course of the project.\nOur first deliverable is the open-source Nilearn toolbox (http://nilearn.github.io/ release 0.1 in 01/2015) that provides the necessary functions to upload these data easily, organize them to enter machine learning analyses, perform efficiently various kinds of estimation, write and visualize the results. Note that Nilearn relies on the reference Scikit-learn and joblib libraries developed by us and widely used by the Neuroinformatics platform of HBP.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/5ccabc59-8ebb-462b-9d7b-a405ea5705c0"
+    },
+    {
+      "identifier": "9886dc4a-3954-43df-9470-ebf59e213dc3",
+      "name": "anesthesia_activities_IA",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/9886dc4a-3954-43df-9470-ebf59e213dc3"
+    },
+    {
+      "identifier": "19639d1c3056ad6f5f8a88aa74e35357",
+      "name": "42.A.a.#2",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/358bb926-ba2e-4c41-aed8-8d6171af2041"
+    },
+    {
+      "identifier": "f18737f92a71b50d9865555fe9b87b3f",
+      "name": "773.A.a.#2.left",
+      "description": "Meta-analytic connectivity modeling (MACM) is a technique for assessing task-based functional connectivity. MACM investigates convergence in co-activation among peaks of activation across thousands of experiments. Revealed brain regions can be interpreted as coactivated with the seed region at an above-chance frequency and hence functionally connected.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/7d27005b-8d10-485e-8343-6b8f422237cc"
+    },
+    {
+      "identifier": "c05d25c34ba53ee73ddc1b192a204071",
+      "name": "42.A.a.#1",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/f2b4484d-ed91-479f-a0c3-3f7f41d7404c"
+    },
+    {
+      "identifier": "607f629b75f731c43f43f6be49d1bbd7",
+      "name": "339.A.e.#2",
+      "description": "Diffusion-weighted magnetic resonance imaging is the use of specific MRI sequences that uses the diffusion of water molecules to generate contrast in MR images.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/af8be0de-a190-49f1-a304-3e84124ae56a"
+    },
+    {
+      "identifier": "0b31c9783c8b9edf8cc34e15e2a33bb2",
+      "name": "hbp-00955_C57_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/98c0ebb2-a505-4331-8aea-c0978819b6d5"
+    },
+    {
+      "identifier": "81d371249baff7d67bebc8f374abdbce",
+      "name": "43.A.e.#1",
+      "description": "Staining of nerve cells",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/6a420515-8ece-4055-bec6-d775b4c0f8f0"
+    },
+    {
+      "identifier": "b388f591-c656-473a-af68-dbe24474134e",
+      "name": "ext-d000003_OrbitofrontalCortex__activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/b388f591-c656-473a-af68-dbe24474134e"
+    },
+    {
+      "identifier": "9773cbd9d9dfe39dcfbc83bcdc8175a5",
+      "name": "hbp-00962_VGLUT1-VGAT_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/67fad908-afb7-4c38-8b01-49da62200b70"
+    },
+    {
+      "identifier": "ac35f357-9294-46dc-8253-5a43a31270b4",
+      "name": "Intracellular Injections_hbp-d000959",
+      "description": "The brains were fixed in paraformaldehyde and sections from the regions of interest were used to inject individual cells with Lucifer yellow (LY) with a continuous current. Following the intracellular injections, sections were immunostained for LY and processed for confocal microscopy and 3D reconstructions (See Elston et al. 2001, Benavides-Piccione et al., 2013 for further details of cell injection methodology).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/ac35f357-9294-46dc-8253-5a43a31270b4"
+    },
+    {
+      "identifier": "885d4c69c9165e782b003d06cc0e3980",
+      "name": "45.A.e.#2",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/5a23746a-d007-4a59-bf24-ae51d1df0e08"
+    },
+    {
+      "identifier": "95d1b4c217ab2599efd8ac5d2c768794",
+      "name": "365.A.a.#1",
+      "description": "The ARCHI standard task included variety of elementary cognitive functions, ranging from perceptual processing to high-cognition.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/5310a5dc-c8a0-4132-9cb8-1323799d5f63"
+    },
+    {
+      "identifier": "a0b66f12b52f3e7ce7b40aee63cf0074",
+      "name": "hbp-00931_RestImg_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/fc070f93-daa2-479c-9643-70cb65dd0b94"
+    },
+    {
+      "identifier": "bf99c054476b2dcf3bb780a4d6a72ffd",
+      "name": "hbp-00938_morph-ChIN-STR_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/305d8587-f9db-4fc7-92e9-98156db8debc"
+    },
+    {
+      "identifier": "ca452bcf6292dc1e08df55335bea17f2",
+      "name": "bigbrain.A.e.#1",
+      "description": "Magnetic Resonance Imaging technique that produces a single (3D) snapshot of body's organ.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/3db2fee4-0cd0-445b-a0f0-e7d8b68e1431"
+    },
+    {
+      "identifier": "ab3fdc4d-b26a-459a-88e1-cc6dca251e7e",
+      "name": "light microscopy",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/ab3fdc4d-b26a-459a-88e1-cc6dca251e7e"
+    },
+    {
+      "identifier": "20b93bb9364d4a7ea37f1a7aec6c77d8",
+      "name": "772.A.a.#1",
+      "description": "not applicable",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d4d40fe3-ae70-461d-8351-70bda721c6c8"
+    },
+    {
+      "identifier": "04643e779515e4fc2440dcb7fa37f89c",
+      "name": "54.A.e.#2",
+      "description": "Classical histochemical staining of nerve tissue.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d8a99e0a-7372-40a0-b56d-4cc7ec5ce31b"
+    },
+    {
+      "identifier": "22bfcbf735d57280dfdb70cfcb4e97dd",
+      "name": "hbp-00713_mIPSCs-scFvGephnlsc_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/4075c0a5-51f9-4026-953f-dd6f94cf6a72"
+    },
+    {
+      "identifier": "dc25406cca062feebdcfeec496d14770",
+      "name": "none.A.a.#1",
+      "description": "BigBrain is a ultrahigh-resolution three-dimensional (3D) model of a human brain at nearly cellular resolution of 20 micrometers, based on the reconstruction of 7404 histological sections. “BigBrain” is a free, publicly available tool that provides considerable neuroanatomical insight into the human brain, thereby allowing the extraction of microscopic data for modeling and simulation. BigBrain enables testing of hypotheses on optimal path lengths between interconnected cortical regions or on spatial organization of genetic patterning, redefining the traditional neuroanatomy maps such as those of Brodmann and von Economo. The 2015 release is based on the January 2015 alignment with global b-spline optical-balancing as the major achievement. The alignment is much smoother than in the 2013 release, albeit not perfect given the strong distortions in the raw images. The model looks really great now. The tissue classified volumes have been supplied. We are currently working the extraction of the cortical surfaces\nand registration to MNI ICBM152 space and MNI ADNI space (coming soon).  Segmentation of deep brain structures is under way for this model. Contributions will be added to the Release as they become available.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/11661428-1218-466a-8769-c446641f2116"
+    },
+    {
+      "identifier": "373b2c3c-d3cf-40f3-ad53-8ca53d3a7219",
+      "name": "activitydataset_IA",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/373b2c3c-d3cf-40f3-ad53-8ca53d3a7219"
+    },
+    {
+      "identifier": "04733b1d-7e32-415b-a93c-77a3d012e77b",
+      "name": "ComparativeMappingOfVisuo-MotorCortex_Curve-Tracing task",
+      "description": "Electrophysiological and eye-position data during a curve-tracing task. In the curve-tracing experiments the patient began each trial by directing gaze to the fixation point. After 300ms the curves and targets appeared. The curves had a width of 5 pixels (0.1°). The targets were red, 3° in diameter and were presented at -10°, -30° and -50° from the horizontal meridian at 13° eccentricity. We presented a total of nine stimuli in a pseudo random sequence.  The patient had to maintain fixation for a further 500ms, and then the fixation point became green cueing the patient to make a saccade to the larger circle at the end of the target curve. ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/04733b1d-7e32-415b-a93c-77a3d012e77b"
+    },
+    {
+      "identifier": "99909817f4641249291db362154bafd6",
+      "name": "45.A.e.#7",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/decece35-3eda-41ac-9947-ee5af7993330"
+    },
+    {
+      "identifier": "a509e373-b76f-488a-ba91-75471271f98d",
+      "name": "hbp-01851_in-vivo_Activities",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/a509e373-b76f-488a-ba91-75471271f98d"
+    },
+    {
+      "identifier": "8dcfbd19ce7e88a5cdba68a05fb81c95",
+      "name": "45.A.e.#11",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/b0d64a89-5950-4a0e-b5f1-3bc0ef18ea9c"
+    },
+    {
+      "identifier": "853a1479-2fcd-4d47-a290-e1b6ad5247e8",
+      "name": "Confocal Imag_hbp-d000959",
+      "description": "Sections were imaged with a Leica TCS 4D confocal scanning laser attached to a Leitz DMIRB fluorescence microscope. Fluorescent labeling profiles were imaged, using an excitation wavelength of 491 nm to visualize Alexa fluor 488.  Consecutive stacks of images at high magnification (×63 glycerol; voxel size, 0.240 × 0.240 × 0.29 μm³) were acquired to capture dendrites along the apical and basal dendritic arbors.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/853a1479-2fcd-4d47-a290-e1b6ad5247e8"
+    },
+    {
+      "identifier": "63fb33d1abd8f2e74c4085567286fd53",
+      "name": "hbp-01062_PCI-like_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/4a30496c-2073-441c-9e59-b6eea4b23686"
+    },
+    {
+      "identifier": "976b186b-2f8f-43ad-9697-7895dc7dd06d",
+      "name": "MonkeyLaminar_Figure-ground segregation task",
+      "description": "Electrophysiological data from V1 of two monkeys performing a figure-ground segregation task. The monkeys fixated on a central dot for 300ms, this was followed by a full-screen textures composed of thousands of oriented lines. On figure and ground trials a 4 degree wide square figure was presented at one of three locations. The figure was constructed by copying a square region of a texture with orthogonal orientation onto the background texture. The animals were required to maintain fixation for a further 400ms. Aftre this time the fixation dot was extinguished and teh animal was allowed to make an eye-movement towards the figure.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/976b186b-2f8f-43ad-9697-7895dc7dd06d"
+    },
+    {
+      "identifier": "011a2ecdc62791f9edf11557f425bc27",
+      "name": "365.A.e.#7",
+      "description": "The setting of an atlas of human brain function plays a key role in the HBP, as it will provide top-down constraints on the functional and structural organization of future brain simulations. The available technology makes it possible to build such an atlas from measurements at the mm scale using non-invasive imaging (functional Magnetic Resonance Imaging, associated with other MRI measurements). The Individual Brain Charting task is addressing this challenge, based on the combination of two strategies: \n1. Gather and integrate all existing cognitive data into a model of brain functional organization. For this, we will gather all freely available data (Human Connectome Project, OpenfMRI, archi and NeuroVault; Gorgolewski et al, 2015) into a consistent framework that associates these data with relevant annotation.  The crux is the statistical analysis of these data (meta-analysis, that relies on machine learning), which involves computational aspects (tractability of the learning procedures: Varoquaux et al, 2013), sophisticated machine learning tools (supervised learning; Schwartz et al, 2013, Thirion et al, 2014b, Schwartz et al, submitted) and statistical problems (model selection; Thirion et al, 2014). The analysis of these data is currently bringing new insights on the network-level organization of brain function (Bzdok et al, submitted) and functional segregation of the brain (Schwartz et al, submitted).\n2. Acquire new, better quality and higher resolution data to gain an order of magnitude in our description of brain functional circuits. This relies on considering individual acquisition in a small group (12) of subjects that will be scanned in a vast amount of situations during the duration of the project (10 acquisitions during the ramp-up phase). We are currently finalizing the ethical and administrative aspects of this study, and running the first inclusion scans. In a pilot study (Thirion et al, 2014a), we have already shown that an important fraction of cross-subject variability could be captured by the response to functional localizer experiments, showing that a sharper characterization of brain function would be obtained by systematic intra-subject mapping.\nThe resources represented by these two approaches will be further developed and analysed jointly in the course of the project.\nOur first deliverable is the open-source Nilearn toolbox (http://nilearn.github.io/ release 0.1 in 01/2015) that provides the necessary functions to upload these data easily, organize them to enter machine learning analyses, perform efficiently various kinds of estimation, write and visualize the results. Note that Nilearn relies on the reference Scikit-learn and joblib libraries developed by us and widely used by the Neuroinformatics platform of HBP.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/80e1d38a-7fbe-4012-96d1-d4b421245680"
+    },
+    {
+      "identifier": "3b5eabe1d5ef64b360dacd3acec2103a",
+      "name": "365.A.e.#6",
+      "description": "The setting of an atlas of human brain function plays a key role in the HBP, as it will provide top-down constraints on the functional and structural organization of future brain simulations. The available technology makes it possible to build such an atlas from measurements at the mm scale using non-invasive imaging (functional Magnetic Resonance Imaging, associated with other MRI measurements). The Individual Brain Charting task is addressing this challenge, based on the combination of two strategies: \n1. Gather and integrate all existing cognitive data into a model of brain functional organization. For this, we will gather all freely available data (Human Connectome Project, OpenfMRI, archi and NeuroVault; Gorgolewski et al, 2015) into a consistent framework that associates these data with relevant annotation.  The crux is the statistical analysis of these data (meta-analysis, that relies on machine learning), which involves computational aspects (tractability of the learning procedures: Varoquaux et al, 2013), sophisticated machine learning tools (supervised learning; Schwartz et al, 2013, Thirion et al, 2014b, Schwartz et al, submitted) and statistical problems (model selection; Thirion et al, 2014). The analysis of these data is currently bringing new insights on the network-level organization of brain function (Bzdok et al, submitted) and functional segregation of the brain (Schwartz et al, submitted).\n2. Acquire new, better quality and higher resolution data to gain an order of magnitude in our description of brain functional circuits. This relies on considering individual acquisition in a small group (12) of subjects that will be scanned in a vast amount of situations during the duration of the project (10 acquisitions during the ramp-up phase). We are currently finalizing the ethical and administrative aspects of this study, and running the first inclusion scans. In a pilot study (Thirion et al, 2014a), we have already shown that an important fraction of cross-subject variability could be captured by the response to functional localizer experiments, showing that a sharper characterization of brain function would be obtained by systematic intra-subject mapping.\nThe resources represented by these two approaches will be further developed and analysed jointly in the course of the project.\nOur first deliverable is the open-source Nilearn toolbox (http://nilearn.github.io/ release 0.1 in 01/2015) that provides the necessary functions to upload these data easily, organize them to enter machine learning analyses, perform efficiently various kinds of estimation, write and visualize the results. Note that Nilearn relies on the reference Scikit-learn and joblib libraries developed by us and widely used by the Neuroinformatics platform of HBP.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/735f2108-b66f-4381-a0ff-7a4ecd23775c"
+    },
+    {
+      "identifier": "f9a20982c2223b759a7c6aa10a0977b3",
+      "name": "hbp-00013_APD13_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/e5d805ca-ba1e-4c26-b8ce-aad4bc28633c"
+    },
+    {
+      "identifier": "d0c17465-5343-4cf7-8181-d371b149e73c",
+      "name": "ext-d000006_CortEff-PRH_Activities",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d0c17465-5343-4cf7-8181-d371b149e73c"
+    },
+    {
+      "identifier": "65a946d7-dbc5-4880-b21d-1877c3e58270301597",
+      "name": "",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/65a946d7-dbc5-4880-b21d-1877c3e58270"
+    },
+    {
+      "identifier": "e8284d7dff935f9ffd40f6e25c9eccd6",
+      "name": "46.A.e.#1",
+      "description": "magnetic Resonance Imaging technique that produces a single (3D) image of body's organ.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/165abf7b-44c4-4ee3-830e-f048d2cede23"
+    },
+    {
+      "identifier": "011ce4890599d335780958407cfd5ab4",
+      "name": "hbp-00005_MF-CA3-STDP-adult-KI-posPairing_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/7bd6bb72-3e85-41bf-a688-f3148a8f6690"
+    },
+    {
+      "identifier": "64900088-6931-42b2-b9ad-81fa35afcce8303708",
+      "name": "",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/64900088-6931-42b2-b9ad-81fa35afcce8"
+    },
+    {
+      "identifier": "d7a1259ecbf92b0870abb8c16e869250",
+      "name": "hbp-00173_262_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/eb7d175c-7750-401f-9fa9-f4b4f740ed51"
+    },
+    {
+      "identifier": "861124a1b14dc3c0a6b6f3705597a12d",
+      "name": "bigbrain.A.e.#2",
+      "description": "Classical histochemical staining of nerve tissue.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/759f9253-839e-435f-bb26-488353797fa3"
+    },
+    {
+      "identifier": "bbf21d11d5dabfd4a347e4e65b08f84d",
+      "name": "45.A.e.#8",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/c5fce892-a884-4a7b-9d61-f13315031a7d"
+    },
+    {
+      "identifier": "df71cffc32689d10d7d3e2a161d95cd8",
+      "name": "hbp-00014_APD14_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/aac8676d-30fb-480e-a8eb-3ff0815c4979"
+    },
+    {
+      "identifier": "4fd30c4aa091f948c2db7329079a9141",
+      "name": "BigBrain.A.e.#2",
+      "description": "Classical histochemical staining of nerve tissue.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/bcbe5d2d-dca8-49ce-96e1-62fa5607a3ec"
+    },
+    {
+      "identifier": "b07bb446-2086-4539-9217-d1dd8c82a0ad301597",
+      "name": null,
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/b07bb446-2086-4539-9217-d1dd8c82a0ad"
+    },
+    {
+      "identifier": "34fd3ee9-d8bf-4750-88d4-34f659351458",
+      "name": "ext-d000003_OrbitofrontalCortex_BDA__activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/34fd3ee9-d8bf-4750-88d4-34f659351458"
+    },
+    {
+      "identifier": "30a7e8502cbd221fc88f7217e72f720c",
+      "name": "hbp-00810_IV_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/7ae7fc3d-2074-45a1-a57a-b9cf24a085ba"
+    },
+    {
+      "identifier": "32eae4a4ed18b3e3690cfa2f6b4a4c4b",
+      "name": "45.A.e.#10",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/93ae0a14-9b84-4a0c-b898-6e6b950bf107"
+    },
+    {
+      "identifier": "2e6cd10a-c46b-4671-bedb-08936aba06da",
+      "name": "auditory stimulus",
+      "description": "Sound Stimuli",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/2e6cd10a-c46b-4671-bedb-08936aba06da"
+    },
+    {
+      "identifier": "ef8e8904c7015b5fd84182153eb1cdd2",
+      "name": "hbp-00169_482_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/1393c97a-3082-400f-bba5-85f13547bfcf"
+    },
+    {
+      "identifier": "7bcdc745b9d5c3aa4f4ae42925345966",
+      "name": "hbp-00810_GapFree_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/df2e8027-372a-4dfe-8832-65b948eb987e"
+    },
+    {
+      "identifier": "d55a9230b3d650adf2aefe1e91ee1ee4",
+      "name": "365.A.e.#8",
+      "description": "The setting of an atlas of human brain function plays a key role in the HBP, as it will provide top-down constraints on the functional and structural organization of future brain simulations. The available technology makes it possible to build such an atlas from measurements at the mm scale using non-invasive imaging (functional Magnetic Resonance Imaging, associated with other MRI measurements). The Individual Brain Charting task is addressing this challenge, based on the combination of two strategies: \n1. Gather and integrate all existing cognitive data into a model of brain functional organization. For this, we will gather all freely available data (Human Connectome Project, OpenfMRI, archi and NeuroVault; Gorgolewski et al, 2015) into a consistent framework that associates these data with relevant annotation.  The crux is the statistical analysis of these data (meta-analysis, that relies on machine learning), which involves computational aspects (tractability of the learning procedures: Varoquaux et al, 2013), sophisticated machine learning tools (supervised learning; Schwartz et al, 2013, Thirion et al, 2014b, Schwartz et al, submitted) and statistical problems (model selection; Thirion et al, 2014). The analysis of these data is currently bringing new insights on the network-level organization of brain function (Bzdok et al, submitted) and functional segregation of the brain (Schwartz et al, submitted).\n2. Acquire new, better quality and higher resolution data to gain an order of magnitude in our description of brain functional circuits. This relies on considering individual acquisition in a small group (12) of subjects that will be scanned in a vast amount of situations during the duration of the project (10 acquisitions during the ramp-up phase). We are currently finalizing the ethical and administrative aspects of this study, and running the first inclusion scans. In a pilot study (Thirion et al, 2014a), we have already shown that an important fraction of cross-subject variability could be captured by the response to functional localizer experiments, showing that a sharper characterization of brain function would be obtained by systematic intra-subject mapping.\nThe resources represented by these two approaches will be further developed and analysed jointly in the course of the project.\nOur first deliverable is the open-source Nilearn toolbox (http://nilearn.github.io/ release 0.1 in 01/2015) that provides the necessary functions to upload these data easily, organize them to enter machine learning analyses, perform efficiently various kinds of estimation, write and visualize the results. Note that Nilearn relies on the reference Scikit-learn and joblib libraries developed by us and widely used by the Neuroinformatics platform of HBP.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/0bc842e6-4996-42ee-9ce5-08c541dcac02"
+    },
+    {
+      "identifier": "ac63745f24c1ea685ca018da2d7bd84a",
+      "name": "54.A.e.#1",
+      "description": "Magnetic Resonance Imaging technique that produces a single (3D) snapshot of body's organ.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/58085a92-f26f-455c-ab9d-b61fee111b1d"
+    },
+    {
+      "identifier": "a5c9a96e84cc70e4d7c02fe4521feeea",
+      "name": "HID_spatial-transformation",
+      "description": "In this analysis procedure coordinates from a subject's individual brain space are transformed to corresponding coordinates of a chosen reference brain space.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/cf4d449f-9cf5-43c8-b8e6-0bc8531a7a01"
+    },
+    {
+      "identifier": "5686c85fecd1837c1cbb08490a399df1",
+      "name": "hbp-02421_TimmThionin_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/337152c3-480b-48a2-81c1-d9846c86bef0"
+    },
+    {
+      "identifier": "51b4a0fa-447b-4101-9b60-d5563370f791",
+      "name": "ida_key#1_MRI",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/51b4a0fa-447b-4101-9b60-d5563370f791"
+    },
+    {
+      "identifier": "d95b45a2-55eb-4eb5-a931-06db34490d5e301598",
+      "name": "hbp-00806_HC-awake-ephys_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d95b45a2-55eb-4eb5-a931-06db34490d5e"
+    },
+    {
+      "identifier": "aeb81ad66199a9bae7bd708ba359ff7a",
+      "name": "339.A.a.#1",
+      "description": "Fiber clustering over the tractography data  brings to consideration the shape of the fibers once these leave the cortex.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/46758292-f8bb-4d5c-8432-31ecac0ba39a"
+    },
+    {
+      "identifier": "0c238f057ec70ce1efcd8dc5e87ed9f8",
+      "name": "hbp-00713_sIPSCs-scfv_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/007237c0-2e3b-40ac-bbd1-7fe3766bc1d9"
+    },
+    {
+      "identifier": "29dc7bc4-b608-45be-a9e4-1e94f4ec547a",
+      "name": "calb-mouse",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/29dc7bc4-b608-45be-a9e4-1e94f4ec547a"
+    },
+    {
+      "identifier": "e26eb05223931e01eb3106f0864175c4",
+      "name": "772.A.e.#2",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/9037e729-6cbc-4012-b531-331b12e5dc94"
+    },
+    {
+      "identifier": "e0658d5c-0708-4e48-bc5d-1412e680d4a2",
+      "name": "3D Cell Rec._hbp-d000959",
+      "description": "Dendrites and axon in the skeleton definition were described through 3D points, delimiting the different segments that form the dendritic arbor. These points have an associated diameter that provides the information of the varying thickness of the dendrite at that particular point, and varies along the length of the dendrite. The soma was defined through a set of connected points tracing the contour of the soma in 2D. Spines were separately reconstructed along the length of some dendrites obtaining 3D points that delimited the position of spines. ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/e0658d5c-0708-4e48-bc5d-1412e680d4a2"
+    },
+    {
+      "identifier": "a466ffdd8d2cf2d8b4b3a4f1a7e01723",
+      "name": "365.A.a.#4",
+      "description": "The ARCHI emotional task intended to investigate cognitive-emotional proecesses on perception of faces and expressions.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/2f794c73-72bf-4c00-bf07-c08924bb47ad"
+    },
+    {
+      "identifier": "250218b21d8f9051a697227885aa3b30",
+      "name": "45.A.e.#15",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/c65d65a4-217e-4069-bd45-738a1b877724"
+    },
+    {
+      "identifier": "8b0cdd5b322d547e98a11b79d581207a",
+      "name": "773.A.a.#3.left",
+      "description": "For a given brain region (seed) all brain regions are identified that show cross-time correlation in their signal fluctuations with the seed brain region.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/a1f2b745-b1a2-4f60-95c1-e92847f7f89f"
+    },
+    {
+      "identifier": "cd255677b0e53b0a42f4a81988acd2af",
+      "name": "hbp-00138_122_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/31a3c4a7-07d0-4ac4-b197-7ad98a9ff443"
+    },
+    {
+      "identifier": "ba4c4c14e7ba173b4cb684a8c053acce",
+      "name": "hbp-00030_PSD95-FIBSEM_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/ea4d98e6-c141-4b7c-8f0c-6572b2e661d0"
+    },
+    {
+      "identifier": "739736b9-0b65-4433-8b39-ab4374009046",
+      "name": "LayerSpecific-fMRI_illusory perception",
+      "description": "Participants viewed a visual illusion known as neon colour spreading for 8 seconds, in which 4 peripheral pacman-shaped stimuli elicit the illusion of a coloured (red or green) square, with illusory coloured boundaries continuing beyond the edges of the coloured pacman shapes in the periphery. ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/739736b9-0b65-4433-8b39-ab4374009046"
+    },
+    {
+      "identifier": "ca2084e38fe3df8efb44e1fb85e259ec",
+      "name": "hbp-00005_MF-CA3-STDP-neonate-KO-posPairing_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/427d9917-a28c-4c3a-8010-e9361090f269"
+    },
+    {
+      "identifier": "5ca53dd2f3e966da9710aa587f8e6a59",
+      "name": "hbp-00022_Purk-1_Activity",
+      "description": "The dataset contains the complete reconstruction of the cerebellum from an L7-GFP mouse (PND 10), where all Purkinje cells are fluorescently labeled. The dataset includes raw imaging data obtained with confocal light sheet microscopy of cleared sample and cell localization (position of somata expressed as xyz coordinates).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/075e32e1-bba9-438a-af56-6c2c00830a9a"
+    },
+    {
+      "identifier": "a9af6e12b739a0017be36c4b4aeb6971",
+      "name": "43.A.a.#2",
+      "description": "Fitting to a multilevel model (Hox 2010)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/435634d7-db8a-4938-8f3d-9e654ea9da26"
+    },
+    {
+      "identifier": "256feff29502f91608276236e60c2164",
+      "name": "45.A.e.#16",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/557fb09b-d7d2-485e-b59f-64f4cbd28ce8"
+    },
+    {
+      "identifier": "5f4ff3194fb97144d945ec1d45936edd",
+      "name": "365.A.e.#5",
+      "description": "The setting of an atlas of human brain function plays a key role in the HBP, as it will provide top-down constraints on the functional and structural organization of future brain simulations. The available technology makes it possible to build such an atlas from measurements at the mm scale using non-invasive imaging (functional Magnetic Resonance Imaging, associated with other MRI measurements). The Individual Brain Charting task is addressing this challenge, based on the combination of two strategies: \n1. Gather and integrate all existing cognitive data into a model of brain functional organization. For this, we will gather all freely available data (Human Connectome Project, OpenfMRI, archi and NeuroVault; Gorgolewski et al, 2015) into a consistent framework that associates these data with relevant annotation.  The crux is the statistical analysis of these data (meta-analysis, that relies on machine learning), which involves computational aspects (tractability of the learning procedures: Varoquaux et al, 2013), sophisticated machine learning tools (supervised learning; Schwartz et al, 2013, Thirion et al, 2014b, Schwartz et al, submitted) and statistical problems (model selection; Thirion et al, 2014). The analysis of these data is currently bringing new insights on the network-level organization of brain function (Bzdok et al, submitted) and functional segregation of the brain (Schwartz et al, submitted).\n2. Acquire new, better quality and higher resolution data to gain an order of magnitude in our description of brain functional circuits. This relies on considering individual acquisition in a small group (12) of subjects that will be scanned in a vast amount of situations during the duration of the project (10 acquisitions during the ramp-up phase). We are currently finalizing the ethical and administrative aspects of this study, and running the first inclusion scans. In a pilot study (Thirion et al, 2014a), we have already shown that an important fraction of cross-subject variability could be captured by the response to functional localizer experiments, showing that a sharper characterization of brain function would be obtained by systematic intra-subject mapping.\nThe resources represented by these two approaches will be further developed and analysed jointly in the course of the project.\nOur first deliverable is the open-source Nilearn toolbox (http://nilearn.github.io/ release 0.1 in 01/2015) that provides the necessary functions to upload these data easily, organize them to enter machine learning analyses, perform efficiently various kinds of estimation, write and visualize the results. Note that Nilearn relies on the reference Scikit-learn and joblib libraries developed by us and widely used by the Neuroinformatics platform of HBP.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/3507781b-126f-4a27-b3cd-e1b1dd226657"
+    },
+    {
+      "identifier": "78b2d20b5781e55070df0b4ecb556cc2",
+      "name": "hbp-00810_VC-ramp_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/4e680f6f-7e1d-470f-a197-9f2d5273ddb8"
+    },
+    {
+      "identifier": "43177d98-9f87-4c69-b3b5-c3ad8f7a34e6",
+      "name": null,
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/43177d98-9f87-4c69-b3b5-c3ad8f7a34e6"
+    },
+    {
+      "identifier": "8ae224181dc2dc3e891354a1d34eece9",
+      "name": "36.A.e.#2",
+      "description": "Magnetic Resonance Imaging technique that produces a single (3D) snapshot of body's organ.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/fb26c159-1978-48bd-b4f0-a6ff96c8c76d"
+    },
+    {
+      "identifier": "2d5a91b6e0e0b4039232f4b9ab9259c8",
+      "name": "fz-juelich.de.2.0003",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/f97fd8c7-2ca1-4b2c-8ac5-3e63f8e3bbda"
+    },
+    {
+      "identifier": "db3d5772-f4b5-4a82-a963-417e93716d43",
+      "name": "design matrix_hbp-d000006",
+      "description": "Protocol files (see enclosed README_the-format-of-prt-files.pdf for details)  are simple text files containing the informations defining a stimulation protocol. The entries should normally not be changed directly in the file due to the risk of introducing errors. You can use the \"Stimulation Protocol dialog\" to specify the protocol.\n",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/db3d5772-f4b5-4a82-a963-417e93716d43"
+    },
+    {
+      "identifier": "cab15eaf-874c-4478-b0d8-ce7cf3b1bd79",
+      "name": "sEEG for Milano Area C",
+      "description": "Stereotactic electroencephalography (sEEG) for studying the human epileptic brain as a prelude to epilepsy surgery. Brain activity can be recorded from deep brain electrodes (linear electrode arrays) that are stereotactically implanted.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/cab15eaf-874c-4478-b0d8-ce7cf3b1bd79"
+    },
+    {
+      "identifier": "fba329e1e8276e45fbe4af7a9d196489",
+      "name": "365.A.a.#2",
+      "description": "The ARCHI spatial task examines functions involved in spatial recognition.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d327b111-3f9d-4355-890d-469c108cbdb8"
+    },
+    {
+      "identifier": "0dca35b81062ee9363160ac7ba39ee6f",
+      "name": "773.A.a.#1.left",
+      "description": "The volume of interest (VOI) was defined by merging activation sites in dorsal permotor cortex (PMd) from published meta-analyses on action observation, motor learning, movement perception, sustained attention, and working memory using an or combination. The ensuing VOI was symmetrized to yield left and right PMd VOIs.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/9e1330fe-3bb0-4bae-83c0-c4a1804f10bc"
+    },
+    {
+      "identifier": "cdf88f444dce655468a41e94d6aaacec",
+      "name": "hbp-00937_EEG-rest_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/ff858f59-b28d-4c0a-bea5-d091fd4565aa"
+    },
+    {
+      "identifier": "ac271b57-372d-4ba5-b44e-94e689a1b02b",
+      "name": "Intracellular Injections_hbp-d000958",
+      "description": "The brains were fixed in paraformaldehyde and sections from the regions of interest were used to inject individual cells with Lucifer yellow (LY) with a continuous current. Following the intracellular injections, sections were immunostained for LY and processed for confocal microscopy and 3D reconstructions (See Elston et al. 2001, Benavides-Piccione et al., 2013 for further details of cell injection methodology).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/ac271b57-372d-4ba5-b44e-94e689a1b02b"
+    },
+    {
+      "identifier": "866b3e1f-778c-4375-b630-3672506dd861",
+      "name": "Sprague_Dawley_PV_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/866b3e1f-778c-4375-b630-3672506dd861"
+    },
+    {
+      "identifier": "04812716-b150-4aee-a8cb-462ac201689d",
+      "name": "LayerSpecific-fMRI_7T-laminar fMRI",
+      "description": "high-field laminar fMRI at 7 Tesla recording from primary visual cortex",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/04812716-b150-4aee-a8cb-462ac201689d"
+    },
+    {
+      "identifier": "995618590b6a00b3cd1c13779ece48c0",
+      "name": "hbp-00020_hippoDS_Activity",
+      "description": "Reconstruction of the hippocampus of a thy1-GFP-M transgenic mouse, where a subset of pyramidal neurons and of interneurons are labeled. Data obtained with serial two-photon tomography.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/1c8dc74e-b9c5-4d72-ad86-2f1bedf32e26"
+    },
+    {
+      "identifier": "8c256a7d64c1543171acd2ee23ea0b2b",
+      "name": "770.A.e.#1",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/8f759812-22ca-4b61-ac09-62f99483b2eb"
+    },
+    {
+      "identifier": "950a76026fdf279d38cd2c8d8651305c",
+      "name": "hbp-00021_Pv1_Activity",
+      "description": "Distribution of parvalbumin interneurons in the mouse brain obtained with confocal light sheet microscopy on transgenic mouse.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/1227a3a6-ac37-4736-bdeb-741df714aa4b"
+    },
+    {
+      "identifier": "91552a11b7bc75ca4b155410f82a70f1",
+      "name": "hbp-00810_EPSP_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/cb324f57-3ab8-4222-9dc6-67affc4c9ab9"
+    },
+    {
+      "identifier": "8a0a452e-c48a-43a3-b5dc-750485934d4e",
+      "name": "hbp-881_elrechip_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/8a0a452e-c48a-43a3-b5dc-750485934d4e"
+    },
+    {
+      "identifier": "b9d898488a7a8da2d5def033fce4a46b",
+      "name": "43.A.a.#3",
+      "description": "Using trees toolbox (Cuntz et al. 2010) and NEURON 7.2 (Carnevale and Hines 2006)",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/c40f5407-0664-43bf-8de2-ae9a81126f39"
+    },
+    {
+      "identifier": "64d7ba1b794214d04a20b0772f8a979d",
+      "name": "hbp-00170_NOP_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/66b68426-940b-49df-a574-df348de853f1"
+    },
+    {
+      "identifier": "808b9f4bee47584f0a00be04eacd0297",
+      "name": "365.A.a.#10",
+      "description": "The Working Memory task was adapted from the classical n-back task to serve as functional localizer for evaluation of structures involved in working memory (WM).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/39831d95-9bbd-47de-b67d-dbd39c2d72bf"
+    },
+    {
+      "identifier": "673ef130-3742-4fa0-a7d5-ba753fb19919",
+      "name": "7TMRI T1_hbp-d001040",
+      "description": "Magnetic Resonance Imaging technique that produces a single (3D) snapshot of body's organ. (here the brain) T1-weighted images allow to differentiate anatomical scrutures such that tissues with high fat content like white matter are bright, the more water a tissue contains (i.e. CSF), the darker it appears.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/673ef130-3742-4fa0-a7d5-ba753fb19919"
+    },
+    {
+      "identifier": "b6fa5b1bd1a05df72cd894bcc6b88688",
+      "name": "55.A.e.#2",
+      "description": "The BigBrain dataset is a key element of the HBP Human Brain Atlas, representing a structural representation of the cytoarchitectonic of the human brain with the highest isotropic resolution currently available. So far, the dataset has been used in two cytoarchitectonic mapping projects. From these two projects the Te1.0, Te1.1, Te1.2, Te2.1, Te2.2, Te3, TI1, TI2, and TPJ cortical subregions of the auditory cortex were transformed into BigBrain space. To do this, the border information was measured and extracted in successive stained histological sections of the original distorted dataset, at a layer distance of up to 0.3mm as contour line data. We computed new linear and nonlinear transformations from the original distorted sections to the final repaired and corrected sections of the 3D reconstructed BigBrain dataset, because it would have been much more complicated—and thus error-prone—to combine the large number of individual transformations which have been computed for the original 3D reconstruction of the BigBrain. The newly computed transformations were applied to the contour line data, quality controlled, and shared with the EPFL team for the purpose of integrating the delineations of the auditory cortex into the BigBrain viewer of the Collaboratory.\nIn addition, efforts were carried out to achieve a match of the ontologies used for the cytoarchitectonic JuBrain atlas and the Collaboratory/Unified Portal data. \nThe cytoarchitectonic delineations of the auditory cortex are based on observer-independent histological mapping performed in the stained histological sections of the first BigBrain dataset at an in-plane resolution of 1μm. The delineations were transferred to the reconstructed histological sections at a resolution of 20μm. Details of the histological processing and 3D reconstruction of the BigBrain dataset have been extensively described in Amunts et al., 2012, and the approach for observer-independent delineation of brain regions is summarised in several peer-reviewed publications [Zilles et al., 2002; Schleicher et al., 2005].",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/cc77910a-46d3-47d7-be6a-8a779a0a7eaa"
+    },
+    {
+      "identifier": "cf12addfda930d9d75161972c5e30cc3",
+      "name": "HID_task-MVIS",
+      "description": "The delayed visual matched-to-sample task (MVIS) is conducted with visuo-spatial stimuli (dot arrays). Each of the main 36 trials started with the presentation of a 1500 ms central fixation cross followed by a 4-by-4 grid containing two, four or six dots (the « sample » stimulus). After 1500 ms, the sample stimulus was replaced by an empty grid which stayed on screen for 3000ms (the « retention » period). At the end of the retention period, a dot appeared in one position of the grid for 1500 ms (the « test » stimulus) and participants had to press a key with their right index (« present ») or middle finger (« absent ») to indicate whether that dot was present or absent in the sample stimulus. There were 12 trials for each memory load (two, four or six dots). In addition, 12 trials (control condition) showed a sample stimulus with a single hollow dot in the array, indicating that participants only had to remember that single location (e.g. load equals « one »). They were 48 trials overall (36 + 12 controls) randomly presented during the task. All task sessions took place in patients' hospital rooms. Stimuli were presented to the participants on a 17 inch computer screen at a 60 cm viewing distance. The grid subtended 4x4 degrees of visual angle. Stimuli were delivered using the stimulus delivery software Presentation (Neurobehavioral systems Inc).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/db5d7588-e08b-4274-9ede-4d712d3c64b3"
+    },
+    {
+      "identifier": "d7d68ad04c83865511b55916c8df6167",
+      "name": "hbp-00011_Tg2576_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/5d2c0e2c-6075-47a2-baf3-4f4a4fa415a9"
+    },
+    {
+      "identifier": "1cbd259b76aae9436772065db11ed013",
+      "name": "42.A.e.#4",
+      "description": "Immunohistochemical staining of TH neurons",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/6020896b-e8b6-4cdb-b52c-1a99b95aee78"
+    },
+    {
+      "identifier": "687a998b5a83ec5842c7e7764615076c",
+      "name": "HID_implant",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/74e52d46-b061-43d8-aff9-1c96a3701bc6"
+    },
+    {
+      "identifier": "47066e273af1c435a0b2057545112e13",
+      "name": "54.A.#1",
+      "description": "The JuBrain cytoarchitectonic atlas consists of probabilistic maps for human brain structures defined by histological analysis of ten post-mortem brains. The individual maps are furthermore combined into a Maximum probability Map that assigns each voxel in the brain to the most likely histological area at that particular position. This cytoarchitectonic atlas is a key element of the HBP Human Brain Atlas, representing the most detailed miro-structural parcellation of the cortex currently available. It is of utmost relevance for functional and cognitive neuroscientists to localize their findings and activations patterns in a common structural framework, and thus helps bridging the gap between function and structure by allowing an objective integration of in-vivo data with histological findings using quantitative tools (Eickhoff et al., 2005, 2007). To date the atlas contains 60 structures, which are ready for a public data release, since each of them is described and published in peer-reviewed journals. For roughly the same number of additional structures, histological mapping has already been completed, but the data is not yet completely analysed and published. Finally, around 90 further structures are currently being mapped. The cytoarchitectonic maps are based on observer-independent histological mapping performed in 10 human post-mortem brains. These brains were obtained via the body donor program of the Department of Anatomy at the University of Düsseldorf, Germany as approved by the local ethics committee. Details on the histological processing have been extensively described in peer-reviewed publications (e.g., Amunts et al., 1999, 2004; Zilles et al., 2002), the approach for observer-independent delineation of brain regions is summarized in (Zilles et al., 2002; Schleicher et al., 2005) and detailed specifically for each particular brain structure in the associated journal publication. Following 3D reconstruction of the histological volumes and spatial normalization into a common template space (cf. above) as described in detail in (Amunts et al., 2004), the individual maps of structures in the different brains are superimposed to create probabilistic maps. These map describe, how likely that particular structure is found at each voxel of the reference space. Finally, as a summary of these individual maps into a distinct whole-brain parcellation, a Maximum probability Map is computed that assigns each voxel in the brain to the most likely histological area at that particular position (Eickhoff et al., 2005, 2006).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/475e3ef5-97af-4df2-b91a-4ffb20d1fcc0"
+    },
+    {
+      "identifier": "6d386a22-40c6-4868-a81f-2df79fc20f80",
+      "name": "hbp-01852_Activities",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/6d386a22-40c6-4868-a81f-2df79fc20f80"
+    },
+    {
+      "identifier": "9e44e0a9-016d-4124-a226-8f4f8823446f",
+      "name": "Deep-Learning based cytoarchitectonic mapping",
+      "description": "Automatic cytoarchitectonic mapping with Deep Neural Network trained on few manual mappings.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/9e44e0a9-016d-4124-a226-8f4f8823446f"
+    },
+    {
+      "identifier": "b420c4d71fc2199c2c0f4fe443fa5206",
+      "name": "45.A.e.#13",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/f087d505-fe8a-4cdd-b4eb-a727a7da99ed"
+    },
+    {
+      "identifier": "3775ddfe5067247ed6e05f79752c35ea",
+      "name": "339.A.a.#4",
+      "description": "provides parcellation of brain areas based on the maximum probability of the voxels to belong to a corresponding fiber (maximum probability mapping).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/4e720294-2395-4f52-b164-e40cb0b33996"
+    },
+    {
+      "identifier": "3c348195-4bc0-487a-a645-0aecaa31ee3c",
+      "name": "test",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/3c348195-4bc0-487a-a645-0aecaa31ee3c"
+    },
+    {
+      "identifier": "ecc671522426d28a9dcb463270647c39",
+      "name": "365.A.a.#5",
+      "description": "The HCP Gambling task was adapted from the Incentive processing task-fMRI paradigm of the HCP and ist aim was to localize brain structures of the reward system, namely the basal ganglia complex.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/fe6f22cb-0a8a-4905-b7f7-97c7f4e11dec"
+    },
+    {
+      "identifier": "7acf8e94014542c9a6e7e0b15ccdcf93",
+      "name": "42.A.e.#3",
+      "description": "Immunohistochemical staining of nearly all neuron types in the neocortex",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/6cef9f22-765e-49e6-9bfa-6085af30a580"
+    },
+    {
+      "identifier": "3b7b1b3aa34a83d6113977e37a3e48d9",
+      "name": "326.A.e.#3",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/830b63af-9a4f-4926-9b74-b184b76c6647"
+    },
+    {
+      "identifier": "4c61d1641bf7e83f3df24edb0d0bf6aa",
+      "name": "hbp-00957_RatCA1_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/32b63641-31c4-4577-9be3-4067cd2bb366"
+    },
+    {
+      "identifier": "167c1a4b2694a506e7207af0f64d7b96",
+      "name": "365.A.a.#7",
+      "description": "The HCP Language task was used as a localizer of brain regions involved in semantic processing.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/977aebab-be8a-4b5f-b707-141e5b0e8d57"
+    },
+    {
+      "identifier": "fdb6ad854a3b1f6636c3b74f8feef466",
+      "name": "770.A.a.#1",
+      "description": "not applicable",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/e74aaa36-d764-4200-871d-b564917b2752"
+    },
+    {
+      "identifier": "fbdc133e-9ed4-4c41-93e7-d55c12536d9e",
+      "name": "hbp-00826_Antib_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/fbdc133e-9ed4-4c41-93e7-d55c12536d9e"
+    },
+    {
+      "identifier": "5fb77f27928a67680bee12da4de9daf4",
+      "name": "hbp-00005_MF-CA3-STDP-neonate-WT-negPairing_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/b71cd7a1-33f4-4dcb-893f-cbea6dcb0841"
+    },
+    {
+      "identifier": "1beaf93a-ed14-4965-af77-c56a1981eb25",
+      "name": "7TfMRI-T2_hbp-d000004",
+      "description": "Raw data of the functional MRI time series (EPI T2*weighted) for test runs 1-2 and training runs 1-2 in Nifti format.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/1beaf93a-ed14-4965-af77-c56a1981eb25"
+    },
+    {
+      "identifier": "4eaecb4a8743250c3b3a37d8269e2315",
+      "name": "45.A.e.#4",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/8005e207-d58b-4c2e-b19e-afca88cae8cc"
+    },
+    {
+      "identifier": "85f3ecf2dfdfc5445225fc2ad071f44f",
+      "name": "45.A.e.#9",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/d0ed6dde-8278-460f-93ef-19c422e7660d"
+    },
+    {
+      "identifier": "28d01e88-440a-4f4e-b55b-611dfbdc51e1",
+      "name": "ext-d000005_CortAff-PRH_Activities",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/28d01e88-440a-4f4e-b55b-611dfbdc51e1"
+    },
+    {
+      "identifier": "d5ef8efc828d15da9ca6dddf4999c82e",
+      "name": "hbp-00805_celltypes_mouse_hippocampus_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/e97604eb-1a0e-40ec-8231-4c8101b309d3"
+    },
+    {
+      "identifier": "a111b2e4-9eb4-428c-8e00-5ab118831340",
+      "name": "ConnectivityProject_Activities",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/a111b2e4-9eb4-428c-8e00-5ab118831340"
+    },
+    {
+      "identifier": "f7a8fc87a44fbf8184f0d4f8328194e7",
+      "name": "772.A.e.#3",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/e7e28326-1305-4e88-b0e8-f70757e8037f"
+    },
+    {
+      "identifier": "769b4295-4328-460b-9865-4caf33456529",
+      "name": "Input-Impedance_activities",
+      "description": "Experiments were performed at the Unité de Neurosciences, Information et Complexité (CNRS, France). Experimental procedures with animals were performed following the instructions of the European Council Directive 2010/63/EU and its French transposition (Décret 2013/118). Swiss wild‐type mice of either sex, 8–13 days old, were anaesthetized with inhaled isoflurane and decapitated, their brain was rapidly removed and immersed in cold ‘cutting’ solution (∼4 °C) containing the following (in mm): 110 choline chloride, 2.5 KCl, 1.25 NaH2PO4, 26 NaHCO3, 8 MgCl2, 1 CaCl2, 10 glucose, pH equilibrated to 7.3 with O2–CO2 (95%–5%). Coronal slices (300 μm thick) were prepared with a vibratome (Leica VT1200 S, Leica Microsystems) and stored at room temperature in oxygenated aCSF containing the following (in mm): 126 NaCl, 2.5 KCl, 1.5 NaH2PO4, 26 NaHCO3, 2 MgCl2, 2 CaCl2 and 10 glucose, pH 7.4. The slices were then transferred to the recording chamber (perfused with the same solution) where the temperature was maintained at 34°C. Slices containing primary visual cortex were taken as the first four slices containing brain cortex starting from the most caudal one. \n\nWe performed intracellular recordings of visually identified pyramidal cells located in the layer V of mouse cortex using the perforated‐patch technique.\nPatch electrodes (tip resistance: 1.5–2.5 MΩ) were pulled on a Sutter P‐1000 apparatus (Sutter Instruments) and filled in a two step procedure. The pipettes were pre‐filled with a solution containing the following (in mm): 130 potassium gluconate, KCl 7, NaCl 1, MgCl2 4, Hepes 10, pH adjusted to 7.3 with KOH (osmolarity 260 mOsm). The pipette was then back‐filled with the same solution to which was added Amphotericin‐B (Sigma Aldrich) previously dissolved in DMSO, the final concentration of Amphotericin‐B was 60 μm. The reason for this two‐step procedure is to allow a current flow out of the pipette (to preserve the tip from dirt) without pouring the perforant onto the target cell during the pipette approach. The perforation could therefore happen only after diffusion of Amphotericin‐B through the ‘clean’ solution, this usually took 5–10 min after the pipette filling, thus allowing the cell‐attached configuration to form in absence of the perforant molecule at the pipette's tip.\n\nTo determine the input impedance at the soma, we injected sinusoidal currents in the current-clamp mode of the amplifier (Multiclamp 700B, Molecular Devices), we recorded the membrane potential response to a current input of the form (t) = I sin (2πft), we varied the frequencies f and amplitudes I over 40 episodes per cell. The frequency range scanned was [0.1, 500] Hz. For each cell, we determined manually the current amplitude I0 that gave a ∼5mV amplitude in a current step protocol, from this value, the value of I was scaled exponentially between I0 at 0.1 Hz and 50 I0 at 500Hz. The reason for varying the current amplitude (and not only the oscillation frequency) in those input impedance protocols is to anticipate for the low pass filtering of the membrane and insure that the membrane potential response at high frequencies is far above the electronic noise level ∼ 0.1 mV.\n\nThe phase and amplitude of the membrane impedance was determined as follows. After removing the first 3 periods of the oscillations (to avoid transient effects), we fitted the membrane potential response to the form: V(t) = EL + R I sin(2πft − ϕ), where EL, R and ϕ were fitted with a least-square minimization procedure (using a Nelder-Mead minimization, implemented in the “minimize” function from the “optimize” module of SciPy, the tolerance for termination “tol” was set to 1e-6).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/769b4295-4328-460b-9865-4caf33456529"
+    },
+    {
+      "identifier": "abb994f63c183c2793d37ae42af76f4c",
+      "name": "HID_MRI",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/01509745-98dd-4626-877a-bd4700c05022"
+    },
+    {
+      "identifier": "eca09d1e-b6e7-4a90-bf25-78283cd8f5a7",
+      "name": "MonkeyLaminar_multiunit neural activity recording",
+      "description": "Raw data sampled at 24.4KHz was band-passed filtered between 500-5000Hz (2nd order Butterworth filter). The filtered data was hafl-wave rectified (negative became positive) and then low-pass filtered below 200Hz. The resulting signal was down-sampled to 763Hz and provides an instantaneous measure of the envelope of the high-frequency power.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/eca09d1e-b6e7-4a90-bf25-78283cd8f5a7"
+    },
+    {
+      "identifier": "12762e62394e4e76549096b22e0383d7",
+      "name": "HID_task-VISU",
+      "description": "In this visual oddball task (VISU), participants were shown pictures of different categories and were instructed to press a button each time they saw a picture of a fruit. Visual stimuli were gray-scale pictures presented foveally within an oval aperture (all pictures had the same average luminance). They were drawn from nine categories: houses, faces, animals, landscapes, objects, pronounceable French pseudo-words, unpronounceable consonant-strings, scrambled images and fruits (target items). No stimulus was presented more than once. Stimuli were presented for 200 ms every 1000-1200 ms in series of 5 pictures interleaved with 3-s pause periods during which participants could freely blink. Participants reported the detection of targets by manually pressing a joystick button with their right index finger and received a visual feedback immediately after (hit, miss or false alarm). A 2-s delay after each button press allowed participants to re-focus after each button press. Visual categories were distributed randomly across the experiment, with 50 pictures of each category, each shown only once. All task sessions took place in patients' hospital rooms. Stimuli were presented to the participants on a 17 inch computer screen at a 60 cm viewing distance and pictures subtended 3 degrees of visual angle. Stimuli were delivered using the stimulus delivery software Presentation (Neurobehavioral systems Inc).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/b4f28830-985d-493b-b7a4-49011e976c45"
+    },
+    {
+      "identifier": "8129797cf298402829e986f34677ba11",
+      "name": "hbp-00963_Mouse-HC_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/0976c02f-5990-4a8f-9e1a-7580fcfb4137"
+    },
+    {
+      "identifier": "7a9c5ca8d0a98bcd756fe9f9f73ca803",
+      "name": "45.A.a.#2",
+      "description": "The receptor density profile analysis provides the course of density of a single receptor from the pial surface to the border between layer VI and the white matter.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/e843888d-47b2-4f46-9c11-63b47ce59d46"
+    },
+    {
+      "identifier": "8f1456f93f3ceb0d5de18ef9729c35fb",
+      "name": "770.A.e.#3",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/43e45c70-ec33-479d-849c-55fcc2d5795e"
+    },
+    {
+      "identifier": "07b5dbb264bf923168722c32b6d043ae",
+      "name": "42.A.e.#2",
+      "description": "Immunohistochemical staining of complex Basket formations",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/beaac51d-150a-4f0e-961a-2ba217327593"
+    },
+    {
+      "identifier": "c54246543953b8fd78b4091680b5b667",
+      "name": "hbp-00165_101_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/df0de352-df9f-4a22-b0e6-87abf04dbf16"
+    },
+    {
+      "identifier": "57e67ea361620eb0f586a1b1afaa2969",
+      "name": "54.A.a.#1",
+      "description": "Defines different brain areas based on their cellular composition (cytoarchitectonic mapping).",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/366282bb-f3ed-4e63-9d60-ba353999717d"
+    },
+    {
+      "identifier": "ffb329ca4cc4e3ecc490e4289b97228f",
+      "name": "hbp-00713_sIPSCs-delta2-188_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/065dd3bf-dd40-473f-9572-e8e450742ba4"
+    },
+    {
+      "identifier": "9b2b3b8c-2da9-4d87-b2d5-e30625c8b7fa",
+      "name": "Rec_den_human_autoradiography",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/9b2b3b8c-2da9-4d87-b2d5-e30625c8b7fa"
+    },
+    {
+      "identifier": "3e99e7b6e5deafac1db86d91dc57392f",
+      "name": "326.A.e.#1",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/41d41deb-d39b-4a68-9d8a-c3925f2fec13"
+    },
+    {
+      "identifier": "12941f2c-4563-4efa-aac7-7b6ba492cf54",
+      "name": "hbp-0005_GABAB1_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/12941f2c-4563-4efa-aac7-7b6ba492cf54"
+    },
+    {
+      "identifier": "9b11752bba9d4a148f4b887b8d9e038d",
+      "name": "hbp-00003_HippocampusCerebellumSCT_Activity",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/c1ddd6b3-5b1c-40c6-8667-aef7e166426e"
+    },
+    {
+      "identifier": "4ba60890-4fe4-4d6b-b878-4f33dca5cc83",
+      "name": "SPES for Milano Area C",
+      "description": "Single pulse electrical stimulation (SPES) as technique for probing connections in living human brains using sEEG electrodes. ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/4ba60890-4fe4-4d6b-b878-4f33dca5cc83"
+    },
+    {
+      "identifier": "5444f34a-c0d5-4ec8-8c80-121d1cd63232301597",
+      "name": "hbp-02421_TimmThionin_Activity",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/5444f34a-c0d5-4ec8-8c80-121d1cd63232"
+    },
+    {
+      "identifier": "7f2ea4b0-41c9-44a3-8a07-68c7338912c9",
+      "name": "bigbrain-layers-seg",
+      "description": "image segmentation based on convolutional neuronal networks",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/minds/core/activity/v1.0.0/7f2ea4b0-41c9-44a3-8a07-68c7338912c9"
+    }
+  ],
+  "total": 295,
+  "size": 295,
+  "start": 0
+}
