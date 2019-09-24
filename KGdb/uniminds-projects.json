@@ -1,0 +1,98 @@
+{
+  "importantMessage": "This query is executed with a mode thought for query testing only (with throttled performance). Please register your query if you're happy with it. It's easy and you gain speed ;)!",
+  "results": [
+    {
+      "identifier": "0df0e89c-5c22-4c62-af0a-f224ad7cb8ae303708",
+      "name": "Map of human fiber bundles and their microstructure",
+      "description": "This component refines and enriches the fiber bundle atlas delivered by T2.2.4 in SGA1. Deep white matter pathways are split into smaller bundles. New reproducible U-fiber bundles are added. The measurements describing the microstructure of the new bundles are computed from the Bicket dedicated diffusion MRI database acquired during SGA1: Diffusion-based measurements like FA or MD target Medical Informatics applications. Axon diameters and axon densities targets the modeling of brain connectivity during simulations.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/project/v1.0.0/0df0e89c-5c22-4c62-af0a-f224ad7cb8ae"
+    },
+    {
+      "identifier": "d57d47ba-5778-43b4-bb12-21dd5253dd1f",
+      "name": "Human Intracranial Database (HID)",
+      "description": "The Human Intracranial Database (HID) is a collection of intracranial electroencephalography (iEEG) data of two subject pools with over 50 subjects in total, all neurosurgical patients with intractable epilepsy.  For this, all subjects were stereotactically implanted with 11 to 15 semirigid, multilead EEG depth-electrodes (manufacturer: DIXI Medical; electrode diameter: 0.8 mm; number of contact leads: 10 to 15; leads width: 2 mm; Inter-leads-distance: 1.5 mm). While being recorded via these stereotactic-EEG (sEEG) electrodes, each subject performed functional localizers: short and classic paradigms designed to activate large-scale neural networks involved in language processing, verbal and visuo-spatial working memory, visual attention, motor behavior, high-level visual and auditory perception.\n\nThe sEEG elecotrode implantations were performed according to routine procedures and all target structures for the presurgical evaluation were selected strictly according to clinical considerations with no reference to the current study. All recorded electrophysiological data exhibiting pathological activity were discarded from the present study. All participants provided written informed consent and the experimental procedures were approved by the Institutional Review Board and by the National French Science Ethical Committee (CPPRB). All participants had normal or corrected to normal vision.\n\n\n\n\n\n",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/project/v1.0.0/d57d47ba-5778-43b4-bb12-21dd5253dd1f"
+    },
+    {
+      "identifier": "ff6ed606-498d-4abb-a547-ae73550439f0",
+      "name": "Cortico-cortical connectivity in C57Bl/J6 mice",
+      "description": "Project description...",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/project/v1.0.0/ff6ed606-498d-4abb-a547-ae73550439f0"
+    },
+    {
+      "identifier": "0757c3c6-8ac0-4a68-9f7e-c820d6349829",
+      "name": "Mechanisms for learning, memory and perception",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/project/v1.0.0/0757c3c6-8ac0-4a68-9f7e-c820d6349829"
+    },
+    {
+      "identifier": "8c9903bd-78ee-4f07-827b-a9c53337cb22303708",
+      "name": "",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/project/v1.0.0/8c9903bd-78ee-4f07-827b-a9c53337cb22"
+    },
+    {
+      "identifier": "3afb4ba1-8fdf-4a2d-8b61-14bc958eaccc",
+      "name": "Spiking Activity in Human Visual Cortex",
+      "description": "The first quantitative description of spiking actvity from area V3 of human visual cortex. We recorded electrophyisological data from two micro-wires implanted chrnoically in area V3. The data has been filtered into spiking actvity and local field potential. Data from several different visual tasks are presented. The data show very clear receptive-fields, in both spiking and gamma frequencies. The tuning curves (orientation, contrast, spatial frequency, size) resemble those from macaque monkeys. Also the effects of context and attention were studied using a figure-ground sergegation task and a curve-tracing task respectively.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/project/v1.0.0/3afb4ba1-8fdf-4a2d-8b61-14bc958eaccc"
+    },
+    {
+      "identifier": "959a0f5b-a2e7-4bcc-ba4c-05c75836fdac",
+      "name": "",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/project/v1.0.0/959a0f5b-a2e7-4bcc-ba4c-05c75836fdac"
+    },
+    {
+      "identifier": "238317dd-a3f5-4108-a88c-b055579b6a3d",
+      "name": "",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/project/v1.0.0/238317dd-a3f5-4108-a88c-b055579b6a3d"
+    },
+    {
+      "identifier": "a7d085ba-be7b-4111-8108-a3bdd101a238303708",
+      "name": "",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/project/v1.0.0/a7d085ba-be7b-4111-8108-a3bdd101a238"
+    },
+    {
+      "identifier": "bb6cbfd1-cfd4-4db4-8cfb-aff374d4413a",
+      "name": "Characterization of the Slow Oscillation during anaesthesia ",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/project/v1.0.0/bb6cbfd1-cfd4-4db4-8cfb-aff374d4413a"
+    },
+    {
+      "identifier": "da87a788-29c5-46a6-91e7-6df846d7f92e264305",
+      "name": "Transgene expression in tetracycline-transactivator driver line",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/project/v1.0.0/da87a788-29c5-46a6-91e7-6df846d7f92e"
+    },
+    {
+      "identifier": "b0e0b525-40f2-4065-8fe6-93c0e870c6d4",
+      "name": "Atlas of parvalbumin and somatostatin in the rodent brain",
+      "description": "This project provides access to series of microscopic images showing brain-wide distribution of parvalbumin and somatostatin in the rat and mouse brain. These proteins are key markers of specific interneuron populations with distinct roles in microcircuits throughout the brain. This project will provide images of immunohistochemically stained sections, with all images spatially registered to open-access brain atlases (Waxholm Space atlas of the Sprague Dawley rat brain, Allen Mouse Brain Common Coordinate Framework). Additionally, the project will make use of semi-automatic analytic pipelines to describe the quantitative distribution of parvalbumin and somatostatin across the rat and mouse brain. The project is ongoing, and the data will be released after an embargo period.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/project/v1.0.0/b0e0b525-40f2-4065-8fe6-93c0e870c6d4"
+    },
+    {
+      "identifier": "b3b975b0-078c-4258-9445-a1704fb8d512",
+      "name": "",
+      "description": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/project/v1.0.0/b3b975b0-078c-4258-9445-a1704fb8d512"
+    },
+    {
+      "identifier": "14879b76-ad56-4066-bc3e-3e9f790ff41d",
+      "name": "HBP atlases: Waxholm Space atlas of the Sprague Dawley rat brain",
+      "description": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/project/v1.0.0/14879b76-ad56-4066-bc3e-3e9f790ff41d"
+    },
+    {
+      "identifier": "bacbe303-f70e-4839-9b9e-7029ef7906b2",
+      "name": "Laminar profile of figure-ground modulation",
+      "description": "Electrophysiological data from V1 of two monkeys performing a figure-ground segregation task. We studied the influence of feedback projections on perceptual organisation using a texture-segregation task in which a monkey was trained to detect a small square figure on a textured background.  We recorded simultaneously from every layer of V1 using a multi-contact electrode, this allowed us to study the responses in the input layer (layer 4) versus layers which are targeted by feedback (e.g. layer 1 and layer 5). We found that the visual input arrives after 45ms from stimulus onset in layer 4 and layer 6 before being passed around the cortical micro-circuit.  After around 70ms the edges of the figure were detected in the superficial layers, possibly through horizontal connections within V1.  Later still, at around 100ms, the center of the figure was labeled with enhanced neural activity in the superficial and deep layers.  Current-source density analysis revealed that this late-modulation of activity was due to currents flowing in layer 1 and layer 5. This result suggests that feedback connections target layer 1 and layer 5 and produce enhanced sustained activity across the superficial and deep layers. ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/project/v1.0.0/bacbe303-f70e-4839-9b9e-7029ef7906b2"
+    }
+  ],
+  "total": 15,
+  "size": 15,
+  "start": 0
+}

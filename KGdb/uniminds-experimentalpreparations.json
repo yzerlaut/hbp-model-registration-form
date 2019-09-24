@@ -1,0 +1,46 @@
+{
+  "importantMessage": "This query is executed with a mode thought for query testing only (with throttled performance). Please register your query if you're happy with it. It's easy and you gain speed ;)!",
+  "results": [
+    {
+      "identifier": "450b14cb-022b-4eeb-845c-6b1738d3b4de",
+      "name": "ex vivo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/options/experimentalpreparation/v1.0.0/450b14cb-022b-4eeb-845c-6b1738d3b4de"
+    },
+    {
+      "identifier": "723e77da-c6cb-4dce-9cc6-bd5821fed50f",
+      "name": "in silico",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/options/experimentalpreparation/v1.0.0/723e77da-c6cb-4dce-9cc6-bd5821fed50f"
+    },
+    {
+      "identifier": "0156c480-4a77-42cd-ac1b-e6aead7f4155",
+      "name": "in situ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/options/experimentalpreparation/v1.0.0/0156c480-4a77-42cd-ac1b-e6aead7f4155"
+    },
+    {
+      "identifier": [
+        "386e3ec6cecc26ad1de7ee83f830ba1b",
+        "88183b946cc5f0e8c96b2e66e1c74a7e"
+      ],
+      "name": "<Unknown>",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/options/experimentalpreparation/v1.0.0/7495ad78-9c66-4c54-8123-261e110b9828"
+    },
+    {
+      "identifier": "d4f099af-30c6-4988-b401-7b00c4699993",
+      "name": "in utero",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/options/experimentalpreparation/v1.0.0/d4f099af-30c6-4988-b401-7b00c4699993"
+    },
+    {
+      "identifier": "43e88402-1e80-4e92-bb20-34f8ecd4cf71",
+      "name": "in vivo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/options/experimentalpreparation/v1.0.0/43e88402-1e80-4e92-bb20-34f8ecd4cf71"
+    },
+    {
+      "identifier": "bb38e1af-de54-42be-9775-e81298b553ef",
+      "name": "in vitro",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/options/experimentalpreparation/v1.0.0/bb38e1af-de54-42be-9775-e81298b553ef"
+    }
+  ],
+  "total": 7,
+  "size": 7,
+  "start": 0
+}

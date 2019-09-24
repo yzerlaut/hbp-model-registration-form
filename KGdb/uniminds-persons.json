@@ -1,0 +1,2983 @@
+{
+  "importantMessage": "This query is executed with a mode thought for query testing only (with throttled performance). Please register your query if you're happy with it. It's easy and you gain speed ;)!",
+  "results": [
+    {
+      "identifier": "c80fb19b5e752adaafd60e5db3e4ec30",
+      "name": "Hu, Hua",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/aa49382d-0e83-4d4d-8cd6-87f7281ccc40"
+    },
+    {
+      "identifier": "c585f75ab24f3551098bf12a3b97861c",
+      "name": "Marinelli, Silvia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/fa9b803a-b63e-4011-b516-95b69ec2fba4"
+    },
+    {
+      "identifier": "6c0de8d8935f65b28ab3549d1380c73c",
+      "name": "Lupascu, Carmen",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/677b10df-132f-42ff-a48f-4493d4a13b64"
+    },
+    {
+      "identifier": "8084dad5af6ddbfa865453fe52ec3e62",
+      "name": "Marie, Hélène",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9ffbc370-9318-4bf1-84eb-7d3d3e023d11"
+    },
+    {
+      "identifier": "27175b17aa0b1bcec739457d419cd4eb",
+      "name": "Santuy, Andrea",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ca878de2-4e83-452f-9f0b-3e694f645f93"
+    },
+    {
+      "identifier": "d93ae049a3a0f9cdfd2b46081cf76210",
+      "name": "Muller, Eilif",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/99a555ec-a241-4dbb-8e52-804bf9f56eaf"
+    },
+    {
+      "identifier": "2817ac687ec61159c9fbedbf883185c9",
+      "name": "Choi, Hi-Jae",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d5bdbeb4-7247-4016-a152-4a7b64873c69"
+    },
+    {
+      "identifier": "714546ba-5726-4ff6-99a7-7e5a3b98a9c5301597",
+      "name": "Haug, Smejda",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/feeed0de-a08d-407e-ae85-0b0d59d88bc7"
+    },
+    {
+      "identifier": "3cdff58ec3ceb1f1daf84ef5cf7fbd27",
+      "name": "Ledberg, Anders",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/45f3e316-b90e-4068-86ed-633bfa9f0d9e"
+    },
+    {
+      "identifier": "0b6888c55d248a941a022961b3de4374",
+      "name": "Malikovic, Aleksandar",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/fce74e71-3ff8-457b-b16b-f803c7e32ae5"
+    },
+    {
+      "identifier": "07b95701202a3a70bea668f10b681540",
+      "name": "Orsini,",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/85a88dd4-66f6-4178-9c17-bc1d5ede8e14"
+    },
+    {
+      "identifier": "a5796d498dc71862c883858f1ab290b2",
+      "name": "Nilsen, André Sevenius",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c8b13778-265c-4e7c-ba62-ed84956842d0"
+    },
+    {
+      "identifier": "14b6a1a3-033c-417f-8a5b-6a2a6798e41c",
+      "name": "Ris, Peterjan",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/14b6a1a3-033c-417f-8a5b-6a2a6798e41c"
+    },
+    {
+      "identifier": "5247e07a9e484a7ae8329969efafacd6303708",
+      "name": "Mangin, Jean-François",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/626320f4-46c7-49b1-8271-e405253c4d8b"
+    },
+    {
+      "identifier": "91984061-7928-4738-84b5-84390bf12d0f301597",
+      "name": "Huynh, Anh-Minh",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a01a6d56-eb6c-415b-af13-9fea7eee0d2b"
+    },
+    {
+      "identifier": "68ecb5da-9128-48ae-acad-baef2e34e11b303708",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/68ecb5da-9128-48ae-acad-baef2e34e11b"
+    },
+    {
+      "identifier": "43b50f1a62f008194bee685932c9d5e8",
+      "name": "Minotti, L.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2ca1dedb-7ecb-48b2-aaf7-2eddb0caeea7"
+    },
+    {
+      "identifier": "93c031f3-40aa-4d51-b095-73dfa72df389",
+      "name": "Hvoslef-Eide, Martha",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/93c031f3-40aa-4d51-b095-73dfa72df389"
+    },
+    {
+      "identifier": "97b51e6b08b127047a4fd55cdec63303",
+      "name": "Simula, Francesco",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a3772175-0e66-43c4-a299-2319cad14740"
+    },
+    {
+      "identifier": "8264e3f07b7bbd52a9cb7d057989070a",
+      "name": "Stoianov, Ivilin Peev",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ae471ead-7c2a-45fb-8e45-48367ba4e77f"
+    },
+    {
+      "identifier": "d0049ea8-9cb0-46a2-8b3a-da5415947f07303708",
+      "name": "Leboyer, Leboyer ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/90eca9fc-bb5b-4097-9c05-005c8a5585df"
+    },
+    {
+      "identifier": "2e1f9eaefe1c854d811d0e63d07bcd2a",
+      "name": "Cherubini, Enrico",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0db7caa1-a97a-477a-b711-44b6a1fc1f34"
+    },
+    {
+      "identifier": "e8413722f2a01f10c6a48e02fa31cd36",
+      "name": "Uylings, Harry B.M.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/37b88cd6-c202-4745-a1b4-1e7caad6333a"
+    },
+    {
+      "identifier": "bc4897ed92280622b93827af53718c9c",
+      "name": "Lachaux, Jean-Philippe",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/29e7c787-9afd-417c-ae16-958a09542e56"
+    },
+    {
+      "identifier": "b5cbee5c88c84fa6d075eb8d7b02acde",
+      "name": "Kanari, Lida",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/947d9214-bb98-431a-b20e-fe3ede3a1a1b"
+    },
+    {
+      "identifier": "5a72cd0aad2a58ecbd232e43826775de",
+      "name": "Bathellier, Brice",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/70169185-78d1-4092-a0d6-e959e53dcba8"
+    },
+    {
+      "identifier": "08c2023d4db3e403124ceffd85f66b3c",
+      "name": "Erlebach, Eva",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/af9024a7-2e9f-44a7-9599-f15814f09b09"
+    },
+    {
+      "identifier": "92885f6cef3c870388170c7cc78f7753",
+      "name": "Budd, Julian",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/07cb6265-1194-4b39-aac1-0c6f0b139ec7"
+    },
+    {
+      "identifier": "a526a4e3b5a818488404810c4f7ee6e4",
+      "name": "Di Giovanna,Antonino P.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ed1002ed-dcda-49d0-81be-50bbd850ea99"
+    },
+    {
+      "identifier": "a34a6f25c50a2e005f17c33c7ef10893",
+      "name": "Sanchez-Vives, Maria V",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c8d9523a-1949-4c7a-8b66-c4a67292012a"
+    },
+    {
+      "identifier": "1fe36e2fecf2f6cf3c5daa6a4fe13f6b",
+      "name": "Leroy, Francois",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d033f3cc-775b-4ed8-a1a6-bb1d2f0f238c"
+    },
+    {
+      "identifier": "cee64af1-6fa2-416b-9f5a-9be4804a9ad0",
+      "name": "Hafting, Torkel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/cee64af1-6fa2-416b-9f5a-9be4804a9ad0"
+    },
+    {
+      "identifier": "eadb2ccee107b2fa3218fbf3c1d1d0b5",
+      "name": "Sylvestri, Ludovico",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0a4db9d1-8ef9-4ec3-8204-612249eb0dee"
+    },
+    {
+      "identifier": "8cb9d524dff73b321ede05deea3322f2",
+      "name": "Destexhe, Alain",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/79e451c0-59f6-425b-a336-9c8e7955aefa"
+    },
+    {
+      "identifier": "26df4a52612ed12a4585e47413ecd004",
+      "name": "Wilms, M.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4367dbaa-b809-447b-ba5a-10db7a751987"
+    },
+    {
+      "identifier": "9e3d4386f5ac4fa059520dfb83fe7bb0",
+      "name": "Ruest, Torsten",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0fa4ab84-0f24-4a13-aae8-d7db4631de3e"
+    },
+    {
+      "identifier": "b1489375-aeef-49a1-996e-0264f9cbeba7",
+      "name": "Laird, Angela R.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/649f85a4-93e2-4825-8cb5-fa138a8365b7"
+    },
+    {
+      "identifier": "399eeb85fb7a76f425ddeaf94589e9fe",
+      "name": "Pennartz, Cyriel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5ee233d6-ad5b-45f4-820c-e3a590722b2c"
+    },
+    {
+      "identifier": "4432a5f654f37009dc78917bd264f931",
+      "name": "Cano, Deborah",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/15b9d03d-af2d-4b2c-9cd0-ae479f428184"
+    },
+    {
+      "identifier": "5dce3df3bcf0db40012e11d24dc17842",
+      "name": "Goriounova, Natalia A.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f27205d1-4f90-4c2e-8341-f1d910a796be"
+    },
+    {
+      "identifier": "8cb01a69d26751ae517bc0197be410e3",
+      "name": "Brakspear, A.B. Clementine B.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/1c7d55df-7b5d-4541-97b3-2d51cf24f615"
+    },
+    {
+      "identifier": "5c4c4110f3c89de1ada82a8a3da0ab44",
+      "name": "Munoz, Alberto",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2d2b387d-bd92-4496-80e9-1f29303a2db5"
+    },
+    {
+      "identifier": "048d7e9df79f7be4d53120e38cdcf7a4",
+      "name": "Boy, Jana",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/14518408-ec46-4bb1-831c-4c492d82d054"
+    },
+    {
+      "identifier": "6c1aaeda7a3284c5fa8e7f6a999e911f",
+      "name": "Muellenbroich,",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2cdc1962-9d5a-4159-8525-c72ed33cdd58"
+    },
+    {
+      "identifier": "3c7c7564c04d6b13aa4430e61e801ed0",
+      "name": "Dieudonne, S.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/81c8bc74-709d-4714-8c86-eed0aa5fe452"
+    },
+    {
+      "identifier": "39189b9f0da5343390612335ac08c921",
+      "name": "Tewatia, Parul",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a1657ae8-80bb-43b9-8271-7a66215339f8"
+    },
+    {
+      "identifier": "689540cd46b28cc0d8b81bcddcd230c7",
+      "name": "Román, Claudio",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0e3123af-3ade-40de-9005-32accf92df24"
+    },
+    {
+      "identifier": "e32fbff494add3a89c1af76bf17368fa",
+      "name": "Lange, Sigrun",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/38df8e39-1cc6-4ac0-8176-ffd752f26b5d"
+    },
+    {
+      "identifier": "edfb9fa84f0f13523693331b586362e9",
+      "name": "Teleńczuk, Bartosz",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/47769bf5-a201-4e65-b4d3-6eafa1d63729"
+    },
+    {
+      "identifier": "5d60644577e59c9a5745653412b14cc1",
+      "name": "Marin, Boris",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/47b03079-67c5-4364-b8f2-32841e94b39f"
+    },
+    {
+      "identifier": "23bb06c1-72e3-4222-b7c9-0f2743e8c15e",
+      "name": "Reithler, Joel ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/23bb06c1-72e3-4222-b7c9-0f2743e8c15e"
+    },
+    {
+      "identifier": "cc90fe228d069810cb9701c50a0a2019",
+      "name": "Gonzalez, Santiago",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5548f6d1-f5cb-4866-9c19-1c0c4e373686"
+    },
+    {
+      "identifier": "48335bc015d6ffd5e9356bb712a0b031",
+      "name": "Inda, MC",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f0dac448-6c09-4c2d-9359-49da45879e11"
+    },
+    {
+      "identifier": "e1022717a77028ddd697d070cd576074",
+      "name": "Lansink, Carien S.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e472b4e5-56b1-4aed-a3e5-a5f6904d3faf"
+    },
+    {
+      "identifier": "e43de45a-a8c5-42f9-87cb-a135ee4f9d21",
+      "name": "Fyhn, Marianne",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d2b9da6d-6b0f-4fdf-bddc-87cf33f207b4"
+    },
+    {
+      "identifier": "4a3dffc1ca25e9cc07b8678b5b46fa6b",
+      "name": "Testa-Silva, Guilherme",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f1111557-20ef-4b36-9be7-e2294bd3b035"
+    },
+    {
+      "identifier": "434fde20c12175b0e8a2edb06d118307",
+      "name": "Genon, Sarah",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/34a29a59-b42a-4d2b-9bfc-919b603b2b29"
+    },
+    {
+      "identifier": "58755927a228e91cb8f282e9f2ae054b",
+      "name": "Bergs, René",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/8f5252fa-569c-4f67-9f80-a468b14246da"
+    },
+    {
+      "identifier": "8d3a23b22bea28420abb671bb05d46a4",
+      "name": "Roger, Séverine",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5f7ecaea-01cc-4a5f-b5bf-d26b33ca1bb8"
+    },
+    {
+      "identifier": "db5c0f3340680991f7c26bd1e45efb47",
+      "name": "Hellgren Kotaleski, Jeanette",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/6da73e37-4e46-4b24-867e-71883b167fa0"
+    },
+    {
+      "identifier": "b30fdcfded8361240a7f521568115705",
+      "name": "Verhoog, Matthijs B.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e27aa176-f057-4e2b-bdc3-bcfcf79d1fba"
+    },
+    {
+      "identifier": "449c9caa59b3e6e054fd67ced388b7b1",
+      "name": "Capuani, Fabrizio",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4b795016-38c1-4c72-b734-96a3b0572ec0"
+    },
+    {
+      "identifier": "217bcc2cc9623c8ff3c73a18c15c6181",
+      "name": "Lippert, T.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/af56b24d-6d2b-4241-b2fb-6ab63560dd48"
+    },
+    {
+      "identifier": "51fbbbab-d9e8-4378-955c-065817857bb3",
+      "name": "Reddy, Leila",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/51fbbbab-d9e8-4378-955c-065817857bb3"
+    },
+    {
+      "identifier": "3bb6ae1ec51622439f158ed89973471e",
+      "name": "Gardner, Brian",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/32b5b002-a563-4250-8365-fd7f55557034"
+    },
+    {
+      "identifier": "76962d4e-fe10-4ce7-ab1f-c964d976405b",
+      "name": "Marenzi, Elisa",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/76962d4e-fe10-4ce7-ab1f-c964d976405b"
+    },
+    {
+      "identifier": "e3166345e37f3cc562a95f5968d91440",
+      "name": "Isope, P.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5f6cc7c4-8f84-4f93-8f62-0c53e863b2fd"
+    },
+    {
+      "identifier": "8ecabdddc66eab50644bdb04317283a1",
+      "name": "Bizzi, Albero",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/36178c27-5d00-407d-9688-6e18ee7cb8ea"
+    },
+    {
+      "identifier": "2bd5d3f03e5ebe1979abbfc596117892",
+      "name": "Illa, Xavi",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5e7165e0-6fad-42cd-be21-e8787969c931"
+    },
+    {
+      "identifier": "ef4f06ad-16df-4edd-8ce9-ab6d34bd9f30",
+      "name": "Richter, Monika",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/36b13813-3ea1-4da2-b212-4b954546b889"
+    },
+    {
+      "identifier": "8d66a2b8e2f3554d8a29b3d48f7f415a",
+      "name": "Bos, Jeroen",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d7056ed8-2a7b-43ee-bbf3-d50adc7dc696"
+    },
+    {
+      "identifier": "05f19b4d-fb72-4e3f-b18f-133754dc019d305524",
+      "name": "Haraldsen, Ira R.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e5b82a30-c2b8-45ac-8ea1-deb9f9a501d3"
+    },
+    {
+      "identifier": "3d29fd794e9eeee7c7262b7fbdceaa67",
+      "name": "Kath, William L",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0d3f5b1b-1fe8-4cda-b967-25012937705a"
+    },
+    {
+      "identifier": "f6062e66693aad8bce7a1412ab016a73",
+      "name": "Hermann, K.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f75b22d2-cae0-4445-8d09-52734b0aa65e"
+    },
+    {
+      "identifier": "49e0e76dfff178efd76fd0325be98cd9",
+      "name": "Freund, H.-J.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/495a344f-05bd-451d-9600-1cee449cd64d"
+    },
+    {
+      "identifier": "58ff40c5f36ad2b3509200a59f00112c",
+      "name": "Bujard, Hermann",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9800622a-6d99-4f71-a448-1ec07939443e"
+    },
+    {
+      "identifier": "eb8b6c578071212448ed15fe647531c1",
+      "name": "Conti, Emilia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/6eb01ca4-a853-4c77-a11c-3555381032c1"
+    },
+    {
+      "identifier": "e5f413e05d3598cc501a45231bbe1da4",
+      "name": "Pastorelli, Elena",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/17f407c3-825f-416b-a880-e0161c0e5dd3"
+    },
+    {
+      "identifier": "300fe5d4-1537-48c4-b8e3-7e2e1e948fbe301598",
+      "name": "Komlosi, Ferenc",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/59573615-6fba-451e-b7e5-3f428ae6091b"
+    },
+    {
+      "identifier": "29ac2c191d6acda9b6ceb339f5f92aff",
+      "name": "Rubio, Mario",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ab7db0b1-ac39-4079-be60-0021f344da00"
+    },
+    {
+      "identifier": "f0d8c279b7687c2649debfc4435f110a",
+      "name": "Habel, U.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2bf791d7-7f44-4575-be95-e5a2ee5d2e09"
+    },
+    {
+      "identifier": "f0df1e3d391451939220283e4b49f614",
+      "name": "Houenou, Josselin",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/15926521-5ce3-4d28-bb93-fdcb82204ee1"
+    },
+    {
+      "identifier": "1e163f21dbde33c7db3a187c2311feed",
+      "name": "Dohmatob, Elvis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/904ae233-645c-4a5f-952f-c997bff79e67"
+    },
+    {
+      "identifier": "ab2a2c03c2ea415fa8f2e092751c73b8",
+      "name": "Zerlaut, Yann",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d7db810e-57e4-49f3-9cde-a3e03458ffa5"
+    },
+    {
+      "identifier": "16c33b1d85ac6010fa54e286b812d8d5",
+      "name": "Blazquez-Llorca, Lidia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b9a98d6a-8521-4cad-8070-fe6c1f4aa1d2"
+    },
+    {
+      "identifier": "8d9600c7be33f56c2a528b5ecd19318a",
+      "name": "Simmonet, H.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5a327dd7-93c3-475c-a73d-9ec15af47350"
+    },
+    {
+      "identifier": "976e2143-3c35-4502-a47b-6a25d03befdc301597",
+      "name": "Huysegoms, Marcel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/cc84db1b-1f6f-4a8f-8756-3c7f56afd26c"
+    },
+    {
+      "identifier": "82611a24bff033f4a9020addcb870257",
+      "name": "Garcia,Ana",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/3df06ccb-6ff8-40c3-a51b-db5dcd9191a9"
+    },
+    {
+      "identifier": "b40a53c6-ea4d-455b-9910-555188fd89a9",
+      "name": "Bjerke, IE",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b40a53c6-ea4d-455b-9910-555188fd89a9"
+    },
+    {
+      "identifier": "22bc11ef3726cc89459f83e66e88961b",
+      "name": "Mohlberg, Hartmut",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ebdf8bc7-ad09-4d42-b9bb-793cbfa32e52"
+    },
+    {
+      "identifier": "e05394ccaa2664b012ee2389e425455e",
+      "name": "Kindler, M.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/fff2694f-d01d-42b5-9127-7dc55a76b0e0"
+    },
+    {
+      "identifier": "2de87fc7a210c08266c91c82f5e9fe12",
+      "name": "Menze, Bjoern H.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/51db254a-ea76-4c9f-8ac6-7a66beec6d8d"
+    },
+    {
+      "identifier": "d17148c6-257d-4587-b659-e50f98cdc2dc",
+      "name": "Hafting, Torkel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b0c1d147-336a-43a4-9229-66b73e8c21d5"
+    },
+    {
+      "identifier": "b9dc08ad567117caf30e6aeddbc6ca32",
+      "name": "Marchetti, Cristina",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/082126dc-9dbf-4e9c-a924-7b0de19b3e59"
+    },
+    {
+      "identifier": "e1caaebf72c43d4ce4f3aa57f54e39dc",
+      "name": "Merchan-Perez, Angel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e6f5a00b-e57d-49c5-9ac0-128585bbf6ef"
+    },
+    {
+      "identifier": "45d2545510f78b228ad8bc49804d888e",
+      "name": "Carannante, Ilaria",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f08d84d2-0f95-4542-be58-87da71663678"
+    },
+    {
+      "identifier": "3ea4b23c7de53bf513fada1b45c78b5e",
+      "name": "Storm, Johan",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/529b3bc0-8f4c-44eb-8694-a52e41d7d345"
+    },
+    {
+      "identifier": "b06814e8fc1fb8dfc2abffaada889d37",
+      "name": "Lenzen, Marianne",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/1cf9d169-9e82-4363-a469-ff6f402e7a53"
+    },
+    {
+      "identifier": "d0585304e9af12e69b13b82ba654108f",
+      "name": "Galtier, Mathieu",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/85a18cde-fa1b-4ccb-9830-d070adc43c25"
+    },
+    {
+      "identifier": "ffb92a65-35da-4160-a481-545e69d71fb1",
+      "name": "Maja Puchades",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ffb92a65-35da-4160-a481-545e69d71fb1"
+    },
+    {
+      "identifier": "050cdedd138a2aab7d9d46e31cfb5b28",
+      "name": "Lehtimäki, Mikko",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4772fb1d-34d9-4c1a-b33b-ebaec6461fba"
+    },
+    {
+      "identifier": "d6adfd0e3ce1c4d57d2a5b38de15114b",
+      "name": "Grisel, Olivier",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5c8b1f5d-09b2-44ff-bbc3-794275cecd69"
+    },
+    {
+      "identifier": "40f3fd03-16e8-425a-b457-83f8d30af81c303708",
+      "name": "Fillard, Pierre",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/23b83629-ce3b-48ab-bdbb-5e6e80ba2c41"
+    },
+    {
+      "identifier": "e431e4b0-1930-4a6a-ab64-0dc1e24b5cfa301598",
+      "name": "Freund, Tamas",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/fee3d61d-c365-44d3-b8b0-dd800eb63dd4"
+    },
+    {
+      "identifier": "b3916602008f98058c4cd73b7f54a421",
+      "name": "Fernaud, Isabel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ac533251-7425-40a9-a454-29a113555635"
+    },
+    {
+      "identifier": "da0152ea6dd88d9cb32da2548e23ad6e",
+      "name": "Pinel, Philippe",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a4ac671e-094c-4766-a3b8-7d867c28719f"
+    },
+    {
+      "identifier": "117cfb31e36224c51aa326590ddac35b",
+      "name": "Grefkes, Christian",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a7076980-4454-4b44-8920-f56ad4fb917f"
+    },
+    {
+      "identifier": "2fc267e08b6ed0186740d84b40b0cc19",
+      "name": "Grüning, André",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e8acb273-af2d-41be-934c-3ceef0f5c9a6"
+    },
+    {
+      "identifier": "3e1125b33c46e59da87609e3af86545d",
+      "name": "Sanchez-Vives, Maria",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/145fd516-d8f2-4b6d-8b50-837f9b57f641"
+    },
+    {
+      "identifier": "3082e3638734a7aadad1088adce12fc8",
+      "name": "Smejda Haug, Finn-Mogens",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/50f11848-08b4-4d4b-8c4b-1744a45b2ff1"
+    },
+    {
+      "identifier": "1f41214159a0f7c4c6c16e2992004003",
+      "name": "Evans, Talfan",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d08574c4-ce94-427f-9565-733561c84a46"
+    },
+    {
+      "identifier": "319af966b45a2b7164e0e85f6151f7ed",
+      "name": "Brunel, Nicolas",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/164df231-9e26-4e87-8bd7-8ee51250bbbd"
+    },
+    {
+      "identifier": "60f4bcb1947ed4d66480a93e428e7533",
+      "name": "Migliore, Michele",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/88ae1a7f-cd7a-45f0-8836-10c9f3f34fbf"
+    },
+    {
+      "identifier": "7fa488150d900767879066d7e0a16e1f",
+      "name": "Rhodes, Oliver",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d4dc6d7b-dfdd-4c44-8224-112afd47b2d9"
+    },
+    {
+      "identifier": "5a92f2df-bf49-4ac3-9878-5114ef26f404",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5a92f2df-bf49-4ac3-9878-5114ef26f404"
+    },
+    {
+      "identifier": "270bd6d924dc3f33d295299fa518cb95",
+      "name": "Denghien, Isabelle",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5881d658-98be-404d-bd0d-567286574930"
+    },
+    {
+      "identifier": "a4d69019d2992d5344e4b93b5c5527c6",
+      "name": "Sáray, Sára",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/626f774e-1d2c-4f8a-b758-cf6c3c8a07d1"
+    },
+    {
+      "identifier": "cc8882fccec79ac2dc33dcc396786fe2",
+      "name": "Schürmann, Felix",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/467b3785-6809-4484-b789-2c24ba4711f7"
+    },
+    {
+      "identifier": "8c54a031-dcf5-467c-b84f-6fbe81afc275305524",
+      "name": "Ropstad, Erik",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4de66614-db05-405a-8cc9-82cfe526bb39"
+    },
+    {
+      "identifier": "db99b8dc0e51c0c3758e6517427407a2",
+      "name": "Gorski, Tomasz",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/fb89992e-f603-449a-8dae-60147a1c2322"
+    },
+    {
+      "identifier": "94bf9c2f-aa5c-4f22-8258-ee066027c753",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/94bf9c2f-aa5c-4f22-8258-ee066027c753"
+    },
+    {
+      "identifier": "0a24806b5cde557e3041a5d701864849",
+      "name": "Hagger-Vaughan, Nicholas",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b36b0fbc-ac30-4d53-9e8a-e5e7f0c5d642"
+    },
+    {
+      "identifier": "729a5fbc9ac9b953cbcf089b22d4deb7",
+      "name": "Barbieri, Francesca",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d718a7b5-a750-42b4-bbf6-ef4bb9e302cf"
+    },
+    {
+      "identifier": "530ce668-f256-4252-8795-4f817b3010af301597",
+      "name": "Mogens, Finn",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7ed25850-8197-4745-a59b-2ee3e8f72506"
+    },
+    {
+      "identifier": "75c2d2004d9f76ef9d78d98946028027",
+      "name": "Hübbers, René",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/964bfa5f-caab-4719-9485-12f8ebe2f7a6"
+    },
+    {
+      "identifier": "26b63a6a-114a-482c-bc84-49fe8f5d0314",
+      "name": "Laja, A",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/26b63a6a-114a-482c-bc84-49fe8f5d0314"
+    },
+    {
+      "identifier": "eb75d017-532c-4ea8-a267-8b262a4851ac",
+      "name": "Roelfsema, Pieter",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/eb75d017-532c-4ea8-a267-8b262a4851ac"
+    },
+    {
+      "identifier": "495eeec3f9d86d8db1d294292ee0d27b",
+      "name": "Katz, Yael",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c26a26f8-3b4f-465d-b76e-fd1f09cb22dd"
+    },
+    {
+      "identifier": "1daeb495256201c414982f361db31ea5",
+      "name": "Bertrand, O.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/02a24d3a-f170-4edd-be4e-66e96f189e07"
+    },
+    {
+      "identifier": "88170aec3154260af796dcfe393fc9fa",
+      "name": "Roland, Per E.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/51cd1848-150d-45dd-b355-5d1b19279b70"
+    },
+    {
+      "identifier": "373466f8b03ccb9a233d4a65e2559297",
+      "name": "Muckli, Lars",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/980b563e-2922-4ad1-be99-4e31228988b8"
+    },
+    {
+      "identifier": "2b65804fc53f229aba03606e30273409",
+      "name": "Dubois, Jessica",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/63ad929d-4b23-4740-a0cb-e1cf5afee605"
+    },
+    {
+      "identifier": "4ee3d33d121998d88aae6595c96ccb01",
+      "name": "Sharma, Lungsi",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/420f55ed-83ac-4ce8-b187-b671e172b370"
+    },
+    {
+      "identifier": "f681c6fdb2544cad53abc7252d678e6e",
+      "name": "Reid, Andrew",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/bfb38cff-391e-4883-bd1d-9e3c686d402b"
+    },
+    {
+      "identifier": "0e0a8f9d48c215ee8e545793214ae1e3",
+      "name": "Efremov, Velizar",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/6e1135d3-d9c9-403f-9a78-1dfe0c5fa587"
+    },
+    {
+      "identifier": "e3f15872b1d466d94072a4710749affc",
+      "name": "Massimini, Marcello",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/3263e23e-c8e9-4bfa-bdd6-245d9b01ced5"
+    },
+    {
+      "identifier": "7e060345-3035-4867-9dfd-704283b32fea",
+      "name": "Caspers, Svenja",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a9ef1e6d-df29-4ec7-9a17-4c91c341ebb3"
+    },
+    {
+      "identifier": "2574e98d0674f503a20dd37359d4e379",
+      "name": "Turegano, Marta",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/8b3830f7-d2ae-4897-a983-fc84bbf12bb7"
+    },
+    {
+      "identifier": "0621a40fd626426cdf04ffaf13c63b3a",
+      "name": "Kujovic, Milenko",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a39f95be-e92b-4cfc-9d06-b2bf0b5d4bb9"
+    },
+    {
+      "identifier": "9b40a5f3eabb61d05491704ccc92223f",
+      "name": "Chaudhry, Farrukh A.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2eea3bf2-0201-44c9-b6bd-262556a58a4d"
+    },
+    {
+      "identifier": "149350b5c34d8e8465ebdc7ca0f5b028",
+      "name": "Jiang, Tianzi",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b78f231a-78c1-4e07-b27c-aa00a897d3ce"
+    },
+    {
+      "identifier": "bd416152e0f5ac6eed8c89c3721e871c",
+      "name": "Dusart, Isabelle",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/43401b5f-02ba-4855-a012-61ac3237de69"
+    },
+    {
+      "identifier": "c0cefbde2487d8d86e16af8b3badf8f6",
+      "name": "Sprenger, Julia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/951b3a6e-1d11-47cf-8249-adea77e434b7"
+    },
+    {
+      "identifier": "465d8385bb1da6c9b4fde7c570e14cde",
+      "name": "Rottschy, Claudia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/facb527b-1a76-4763-8829-56ea37385c10"
+    },
+    {
+      "identifier": "795e9eebd94e9ede316b12ae4c7f2900",
+      "name": "Kabdebon, C.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a09db578-560c-4191-a107-26db45ae7dec"
+    },
+    {
+      "identifier": "d52b082ebde8deb0fda8468522b18589",
+      "name": "Tognolina Marialuisa",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0129910b-bc1d-4fe6-a0da-f92339325454"
+    },
+    {
+      "identifier": "d4e995b00674a221135ce664dadc6880",
+      "name": "Rossi, Paola",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2dd7bfe4-0592-4c29-bab9-6ef08e88507a"
+    },
+    {
+      "identifier": "b15601ad7bfddc6b779b3cdc3cc415ed",
+      "name": "Orio, Patricio",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2538aa83-5a10-4f7f-9329-aab76a0d2b5b"
+    },
+    {
+      "identifier": "d04d6205cacb47644ba786e42659ffd5",
+      "name": "Van Geit, Werner",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/46cffe0f-b6c7-49fd-aa91-a23a2210a50c"
+    },
+    {
+      "identifier": "c745b264c8bfe3b8b55ac510bd065381",
+      "name": "Tellmann, Stefanie",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4cf4ad20-0dc8-40b1-818c-808db6f53afe"
+    },
+    {
+      "identifier": "aa4fb1fd82ca7961c688e8b46439a3ca",
+      "name": "Guevara, Pamela",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/60874685-d721-4791-8449-010c53b445d5"
+    },
+    {
+      "identifier": "96cca02bc178ed9c6e6e5df74984a75a",
+      "name": "Poupon, Cyril",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/745bd581-bffb-4eca-9c6c-29ea5a5d79c3"
+    },
+    {
+      "identifier": "c505e9d380add3295c0b27f110902d2a",
+      "name": "Rojo, Concepcion.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/30f520d9-b536-4899-b15d-12240636ba9e"
+    },
+    {
+      "identifier": "bbcfd626082fb6374f16576484a275ca",
+      "name": "Solinas, Sergio",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ef2211d4-177d-4f16-916d-c5759d9649c9"
+    },
+    {
+      "identifier": "3592d4867d045afe3a795cd5f6b03474",
+      "name": "Montiel, Juan",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d23b25d7-1129-4850-b46a-9540d2f98b34"
+    },
+    {
+      "identifier": "a8f3d6b5ba8e9f88b379f90eaeae73cf",
+      "name": "Kohus, Zsolt",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/8985dbc2-a8b9-45d2-a7fb-f5058a55fa45"
+    },
+    {
+      "identifier": "86bccd4d-5b49-40e4-bffa-51f9fc73557f",
+      "name": "Jeurissen, Danique",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/86bccd4d-5b49-40e4-bffa-51f9fc73557f"
+    },
+    {
+      "identifier": "9dd5b86e618fd8757107c5baa2d1f9d2",
+      "name": "Schober, Martin",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/8703ee7f-6913-4b13-bb49-4f25f73493f6"
+    },
+    {
+      "identifier": "4fe03857f4bf96f48be533ce11baa590",
+      "name": "Schlingloff, Dániel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7901725f-6de3-4f78-a8aa-5205af53f7f7"
+    },
+    {
+      "identifier": "f3d8ba32eb4c1b15905e89355667ca3c",
+      "name": "Ossandon, T.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b3b3c5af-6a7a-4605-b2c4-c653f1092bff"
+    },
+    {
+      "identifier": "8d8e0517090b4eddf46b294663839302",
+      "name": "Petkoski, Spase",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c1eda0e9-eecc-47f1-a1e1-8805c647b732"
+    },
+    {
+      "identifier": "d5bb3c34575b6885d635cf65fa2b8458",
+      "name": "Shi, Ying",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f4f9d6b3-8639-4a60-81b6-dc0fb3a94793"
+    },
+    {
+      "identifier": "e8e331307e65d6ab967d1354d4a82158",
+      "name": "Fernaud,Isabel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5ef69db7-2b50-4f8a-a32c-6884898564a0"
+    },
+    {
+      "identifier": "32d434732ac4fd11981ff0d898c6d6ab",
+      "name": "Caspers, S.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/3c38a44e-08e6-453a-a044-f839a0261459"
+    },
+    {
+      "identifier": "051bf22d8b60083ce3d4fef350e7d86d",
+      "name": "Valdes, Lorena",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ae5342ce-a5ed-45a2-a360-6c809bd7e648"
+    },
+    {
+      "identifier": "4dcbdfa50295f4b7e40afdcde4e0542a",
+      "name": "Larsson, Pål Gunnar",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b1bdc9c9-6acb-40e4-814d-229da7ee8922"
+    },
+    {
+      "identifier": "6e3405f4-1281-42b8-a32c-4d23cb7d8682",
+      "name": "Hvoslef-Eide, Martha",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/3534f7b2-c4d1-4c2b-9306-30403caeb383"
+    },
+    {
+      "identifier": "cd6a8cd21375bf948e55b404d1a6278b",
+      "name": "Del Giudice, Paolo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/61f614ac-727e-42d3-80da-852a220800d5"
+    },
+    {
+      "identifier": "9d1c8fa503461faf4e3cfa3e2e39064e",
+      "name": "Helias, Moritz",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/bc4b76b1-0c7f-46d9-b6fa-11b9af78dbe6"
+    },
+    {
+      "identifier": "21ec0b4ae3f94c4d7e701862718f2ae2",
+      "name": "Caspers, Julian",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7ea3dba0-32a9-4b91-b645-c3f41d8557e1"
+    },
+    {
+      "identifier": "f22962a2d361d177a2d29426cdfb9dcb",
+      "name": "Grün, Sonja",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7813aa6b-7973-46be-8401-0b5591d090b8"
+    },
+    {
+      "identifier": "374b255388344793cf4c3d44cdd3a2ad",
+      "name": "Narayanan, Rajeevan T.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/8733b1b5-8ddc-4d69-b3a8-7d430733f65d"
+    },
+    {
+      "identifier": "6eee3297bd33f51ea33e622555011ba5",
+      "name": "Hammer, Ingvild M.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/1366a645-542b-40d1-b14f-a1fbb998a15e"
+    },
+    {
+      "identifier": "ab768ec54c1556e30ae8f711fdfbd5b6",
+      "name": "Eger, Evelyn",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/95d19aac-ef6c-4f04-8334-cfe93693aa74"
+    },
+    {
+      "identifier": "72aaec82a49755418ded769254be73c6",
+      "name": "Morabito, Annunziato",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/eeabf6d7-2000-4b8d-87c2-b43d613ff5c2"
+    },
+    {
+      "identifier": "964d5c7735ea7114e39a9b744ca87f4b",
+      "name": "Ginistry, Chantal",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ac787494-5c75-4098-9699-5fe9b70e101f"
+    },
+    {
+      "identifier": "95d8cba79571f0f80405085123953a71",
+      "name": "Gurd, Jennifer M.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/bb37c6a1-176b-44b1-985f-0f11abc9c07b"
+    },
+    {
+      "identifier": "2482a133-eb18-4771-86f0-bd618ef19a80264305",
+      "name": null,
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2482a133-eb18-4771-86f0-bd618ef19a80"
+    },
+    {
+      "identifier": "46f600ef63191d2b80362caa4686a2ec",
+      "name": "Schleicher, Axel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/32da775f-41b2-456a-b3d0-3e7bb9be0219"
+    },
+    {
+      "identifier": "2484710564a651990693277bffc4385b",
+      "name": "Langner, Robert",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c51dc4c8-cfd8-4945-b38f-e51742ba5050"
+    },
+    {
+      "identifier": "be3841f67b12f941b080f90e15d38b78",
+      "name": "Franceschini,Alessandra",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/619f7230-4183-438b-8a22-699838d672f3"
+    },
+    {
+      "identifier": "a90d5b0d4572adde6ea6e0eb8d736bc5",
+      "name": "Holzmann, Carsten",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/84e353ef-155d-4588-b67c-d9e2b0e676e0"
+    },
+    {
+      "identifier": "91ec40b223989db714e4b2e119163002",
+      "name": "van Dongen, Yvette C.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/193b22f2-25d0-445a-8c3a-f5d28574609e"
+    },
+    {
+      "identifier": "51039292414022ca5020a79339f70db5",
+      "name": "Weber, Bruno",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c743c121-1d65-4ca9-9a82-8f63383f4d85"
+    },
+    {
+      "identifier": "a68e38ca8e7f3ffb785146c7ba17e625",
+      "name": "Obermayer, Joshua",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/1288396d-d818-479a-af9d-164a7f0d0c67"
+    },
+    {
+      "identifier": "2b3f55d50caa18f5f008148449144330",
+      "name": "Saray, Sara",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/8671def9-fb2f-4dbe-b01a-cdd8f16d08d4"
+    },
+    {
+      "identifier": "084b7d754e54ce901fb14e61ce0dd7ed",
+      "name": "Belgard, Grant",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0ce34d28-1db5-4890-8ec0-83f99f2087d2"
+    },
+    {
+      "identifier": "4a66c4db5d03d953806550fab721525a",
+      "name": "Oros-Peusquens, Ana-Maria",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/3484c045-aae8-43f7-bf47-bd1929bdd36e"
+    },
+    {
+      "identifier": "dddfaa11fb9c7af6f9e2a54f9e3ef163",
+      "name": "Weiner, Kevin S.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d0fd7001-e5ce-4b48-9123-f7a6cd129b16"
+    },
+    {
+      "identifier": "e86dc72d5594a43f7a1db1e3945db2bf",
+      "name": "Amunts, Katrin",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/09d722c8-6746-4353-adae-689466ba67e5"
+    },
+    {
+      "identifier": "3293e59d9ae3ddd586eeb2645b4e0e63",
+      "name": "Miguens, Miguel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/791c1171-88da-4b87-b1a2-4c20b4f80b07"
+    },
+    {
+      "identifier": "7ccd50494a1af99bc39a8133006d45f1",
+      "name": "Pizzarelli, Rocco",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c2dc2298-bb07-4532-9cf7-bd42000870df"
+    },
+    {
+      "identifier": "8c08e729defe3c8d58483433a3969926",
+      "name": "Kath, William L.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/6d236d8e-0d1e-43ec-a614-917bbeae95ae"
+    },
+    {
+      "identifier": "8d35540e420ab8f79de819ad0a5ded53",
+      "name": "Di Giovanna,",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d91ca367-7916-403c-b913-f069902983f2"
+    },
+    {
+      "identifier": "922cc7083a7ea26e7f7ee146454ca8db",
+      "name": "Malavasi, Elisa",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/1c598994-ff26-402a-a33f-9ca4ad8447a0"
+    },
+    {
+      "identifier": "5a4c7d1b5ecc173302e92b0f8f975fb3",
+      "name": "Lai, Yi Ming",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/58ab4aa1-38de-4e18-a2d6-d85ad86490ee"
+    },
+    {
+      "identifier": "4cc6d9f1a3aef03d763856d84f785576",
+      "name": "di Volo, Matteo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/bea1da12-1209-4860-adc7-34275fb69917"
+    },
+    {
+      "identifier": "40dedce89f58ff31d66e8478675cd4df",
+      "name": "Zamora-López, Gorka",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/3fc8ea93-1b59-4692-bb6f-e91ff277869f"
+    },
+    {
+      "identifier": "edaf4d7d6d699c33596520ece086b3e7",
+      "name": "Sgritta, Martina",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/761188af-3ecd-4bcf-9d5d-25f0cb2f73df"
+    },
+    {
+      "identifier": "11f03cabc47e37dc3e2fda0828bb3c55",
+      "name": "Dale, Anders M.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/be9ae439-e727-4d52-935e-5f67b3d6e4d9"
+    },
+    {
+      "identifier": "5aa5bfa87b75272a79d50bda1a1cd7fc",
+      "name": "Lillehaug, Sveinung",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/da49cb78-31a9-4bd4-88dd-e9b4e1b251e7"
+    },
+    {
+      "identifier": "c3d292cd-f48f-4d89-9f44-acbc46b2ac18",
+      "name": "Lensjø, Kristian",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/131e04f7-0cd5-4fea-be02-c4f5fbbab303"
+    },
+    {
+      "identifier": "d90ece5a2caa50b760a38e9696ae9024",
+      "name": "Gulyás, Attila",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a94838fe-cb7b-4eee-bd68-ac55f4413452"
+    },
+    {
+      "identifier": "95d10473d7155a59208aeed05c806229",
+      "name": "Kriegeskorte, Nikolaus",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/38a94333-e90c-4e46-803c-24844115dfcd"
+    },
+    {
+      "identifier": "24757947a0a71307274fc89739281d9f",
+      "name": "Migliore, Rosanna",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5f009b50-4422-43fa-84b1-7d3a7dbe34e8"
+    },
+    {
+      "identifier": "09ab5fb4d34676e2f439b0432f04a0e0",
+      "name": "van Mourik-Donga, Laura A.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/41cb220a-765f-4bea-a119-a1ae0aad4c71"
+    },
+    {
+      "identifier": "143410d3da19feb04c1865c347cf94f9",
+      "name": "Marasco, Addolorata",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/136ab352-ab6c-427e-818d-a1a90941ca98"
+    },
+    {
+      "identifier": "c2cfb229db97cac89aa6438b0b8a54d5",
+      "name": "Nicholson, Daniel A.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d80c244e-d4de-40d2-8cc6-acc1d9092b81"
+    },
+    {
+      "identifier": "7097a4c37e89c2b8a8395b3604513004",
+      "name": "Schormann, Thorsten",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/19e56199-9b90-4193-8f02-6c1547c470b5"
+    },
+    {
+      "identifier": "84ac902b72214db92a82f6cce8134505",
+      "name": "Denker, Michael",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/8c05c21a-240a-447e-9f98-71f2b76e4d99"
+    },
+    {
+      "identifier": "c3be94cf9c3b2b2ec7c9f730f9fbc886",
+      "name": "Minnerop, Martina",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/61823b90-b077-4e80-80ff-0836982af718"
+    },
+    {
+      "identifier": "ce4c5cea6bf209faf48c6f8b830d0efb",
+      "name": "Guevara, Miguel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/009b571b-b5fa-41b2-bb87-f49240836e58"
+    },
+    {
+      "identifier": "a34ce9d5dbb7daf8e3ea15095abacbd5",
+      "name": "Fink, Gereon R.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2b48633b-3c06-4048-8db3-bd83ccd03e8d"
+    },
+    {
+      "identifier": "90227b15989ecfc09eaa411034e71e25",
+      "name": "Morstadt, Katja",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d4435eb0-f7e4-4eda-bc79-15e887c91017"
+    },
+    {
+      "identifier": "d507bec89b30f1b574a48924bd4a09c8",
+      "name": "Vitale, Paola",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/636a5132-7004-448e-abcc-d727dccaae2f"
+    },
+    {
+      "identifier": "774cca513c766de4a5e037044a7ae00f",
+      "name": "Meringolo, Maria",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d4247702-326f-4c99-adc7-a675bbcb386e"
+    },
+    {
+      "identifier": "9847658d901328002437c6a7a6302f2c",
+      "name": "Alonso-Nanclares, Lidia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2415cdb6-dfb3-4e4b-a650-da1cbb0688bc"
+    },
+    {
+      "identifier": "3851879c832915aca42fd08de923c4f3",
+      "name": "Dyrby, Tim B.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9061015c-ad75-44e3-8823-bd9cae01c991"
+    },
+    {
+      "identifier": "79c32e58bc995a70c2f1bf4814f6f530",
+      "name": "Vidal, J. R.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/884b6239-22fc-44f6-841f-4fc19d3e8b2c"
+    },
+    {
+      "identifier": "a508def57f57873d5ab49eab2308a08f",
+      "name": "Nieus, Thierry",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/da77be45-265e-4f04-9f98-d231386783c9"
+    },
+    {
+      "identifier": "6815ac666477e233eb244713ed5cf8dd",
+      "name": "Dickscheid, Timo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b12333cc-a151-4b4f-b287-115641de24bf"
+    },
+    {
+      "identifier": "13462dc7f166aac066e7fcbcaf23f5b6",
+      "name": "Cesana, E.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/25580b64-4f26-4237-876e-def5b36fd14f"
+    },
+    {
+      "identifier": "3078da386dd0af57e61faf9a24059f8b",
+      "name": "Varoquaux, Gaël",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c48b3b04-e5fa-4719-8ede-5a4284e83982"
+    },
+    {
+      "identifier": "89e6546bf8dbdfe05ca7839257bc4545",
+      "name": "Joly-Testault, Véronique",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9abe9e7f-5103-4cf0-8ea1-25a1e90c7269"
+    },
+    {
+      "identifier": "7dd4640cd3e71498fed859ea35a5dd12",
+      "name": "de Kamps, Marc",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c66f2395-60a5-4d61-a23c-eea3d97c1e05"
+    },
+    {
+      "identifier": "39a3ee96e53c5be4ce734398d0adb4da",
+      "name": "Scott, Heather A.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7bd83549-20fb-418a-9d26-efc901cb808e"
+    },
+    {
+      "identifier": "13418f8079344b85dc89c232c5750f82",
+      "name": "Morosan, Patricia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/8427fbe2-fc70-499a-99d2-cc6228ea28be"
+    },
+    {
+      "identifier": "869ddbbb60b4a457f0ed08462ab64f83",
+      "name": "Lewis, Lindsay B.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/6178d363-9636-434d-bf84-9eac825e408a"
+    },
+    {
+      "identifier": "0633574442ccd91510a5852cff704938",
+      "name": "Markram, Henry",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ff9b077f-8039-4c0d-8246-16e06de67e6a"
+    },
+    {
+      "identifier": "ecbb33de3d14e617b183c78d35da715e",
+      "name": "Casali, Stefano",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/affd78ef-2c82-4b2b-bfe6-134c875abfda"
+    },
+    {
+      "identifier": "c05e03ddce0de72b2b2b6c3c3b9ca01e",
+      "name": "Schneider, F.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7798fe24-7f0d-4d67-a7ed-91c9daf61e38"
+    },
+    {
+      "identifier": "6d3de856-93ee-4944-8d43-9f517cc87868301598",
+      "name": "Kali, Szabolcs",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/6396afaf-0ad0-4846-b520-44973d31d8cb"
+    },
+    {
+      "identifier": "3ac753a73ac8cfd3151639808ae45913",
+      "name": "Palomero-Gallagher, Nicola",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5894efb9-ac4c-43b7-8efe-1f8ed9011800"
+    },
+    {
+      "identifier": "d162a27b5b21a14a4910314673749d06",
+      "name": "Borgeat, L.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e4f634ed-d525-477f-aae0-d24855b12236"
+    },
+    {
+      "identifier": "6082090719f9a2b0b84643e38c408b8e",
+      "name": "Csaba, Eroe",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/22ce19b2-6f84-4283-8710-b81072bedab4"
+    },
+    {
+      "identifier": "3291c4595e804128dbbd6a862db4a566",
+      "name": "Eroe, Csaba",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f38bca22-e877-42fe-acf7-b2e32e1d285c"
+    },
+    {
+      "identifier": "67fcae6dc4ec8f61b6250f5c1163ada3",
+      "name": "Mel, Bartlett W.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ec7ddf86-0494-4926-b2ed-a4b336edf609"
+    },
+    {
+      "identifier": "a855fc95-0e0d-44c5-bff2-4ea4a03d635b",
+      "name": "Seitz, Rüdiger J.  ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/100319b9-ee1c-46e6-8e5a-db8dd60947c9"
+    },
+    {
+      "identifier": "dd977fbba27642dfde1a830c3fc48cdd",
+      "name": "Perrot, M.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a0d48a30-8382-4b47-bde2-049ddac3b9d1"
+    },
+    {
+      "identifier": "9166072ed53f93740e7fb45765bd3b54",
+      "name": "Lepage, Claude",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/62137f2c-3340-4c80-8bcd-93a9236ed9d6"
+    },
+    {
+      "identifier": "fbec7907-0560-41cb-bec6-bf376991f02b303708",
+      "name": "Zachlod, Daniel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/65aea44c-5bf1-4ce7-a614-9b4f641af26c"
+    },
+    {
+      "identifier": "af81c3857f9ddaeff432d30349c4565a",
+      "name": "Leergaard, Trygve B.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b52365e3-d794-4a98-90a5-cc2c3f3b760e"
+    },
+    {
+      "identifier": "a4320afe-9d3c-4f36-9f5b-aded5c29b918303708",
+      "name": "Marrakchi-Kacem, Linda ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/47ed0d4c-18d8-4470-be2a-7bbd9aee05e3"
+    },
+    {
+      "identifier": "a607ae113e28b0da777a47f3c9ab65a2",
+      "name": "Kozlov, Alexander",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f1089f46-56da-44d8-a18a-d72ee0a5fd20"
+    },
+    {
+      "identifier": "d08803b431f1769227eadb76ab2ae7da",
+      "name": "García-Marín, Virginia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/043dfd28-aa0d-4340-a1c1-8a1462c92f09"
+    },
+    {
+      "identifier": "aeeaa478013a1a0b355597b63906f03d",
+      "name": "Deco, Gustavo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/1feef926-228d-4a73-978d-0226f078412b"
+    },
+    {
+      "identifier": "165429010ca75e9e6cf32dc4aa7686de",
+      "name": "Mattia, Maurizio",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/05a4b732-5ddc-4670-99e7-ef9b9743199c"
+    },
+    {
+      "identifier": "15d91cf8e1f6f8265f89b361314ffde6",
+      "name": "Boccara, Charlotte N.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/40c69335-765e-4d70-9ae1-1d3da259aba6"
+    },
+    {
+      "identifier": "81e764f1f83122c276b9beea12113bba",
+      "name": "Lehre, K.P.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/cf8324b2-7cf2-443a-8865-81ba7f9b6240"
+    },
+    {
+      "identifier": "80ed026d-a21d-4ee4-9e6b-5e2ab054477d264305",
+      "name": "Leergaard",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/80ed026d-a21d-4ee4-9e6b-5e2ab054477d"
+    },
+    {
+      "identifier": "9416f26fe008fa553d4f194bed0c0d2d",
+      "name": "Henke, Franziska",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/33676830-78c7-4f98-8bd2-6ba334544aaf"
+    },
+    {
+      "identifier": "0c420063c33118f0fd65cabd330e9dd1",
+      "name": "Bludau, Sebastian",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/fd0cfde1-98a1-41fe-9c82-5ddcfa89e8fe"
+    },
+    {
+      "identifier": "de09444761de4bd7755ea93a43ccb150",
+      "name": "Goldman, Jennifer",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ff2fd193-a1c3-425c-9fe4-01404fb55e86"
+    },
+    {
+      "identifier": "cd90ad5840d4837fa66dfd7c16a1aaa7",
+      "name": "B. Brakspear, A.B. Clementine",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/55349d55-c2a2-4007-bbd4-fc0cc58ceeea"
+    },
+    {
+      "identifier": "1e03063c1bdd43685ddb608e7382c335",
+      "name": "Odeh, Francis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d7418bb0-4936-4d8a-989e-e12d96e5956f"
+    },
+    {
+      "identifier": "8ffffca000c69be448d41dcb311b32b0",
+      "name": "Nair, Anu G.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f267eea9-069b-4213-a106-82388b804d40"
+    },
+    {
+      "identifier": "0a3ef744b892e971e45a5d0fae055a48",
+      "name": "Romundstad, Luis Georg",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/6ff401c7-f837-436a-be93-199852e30f12"
+    },
+    {
+      "identifier": "6f3f77cdef1f4225d52581fe97651964",
+      "name": "Li, Hai",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d4241907-df36-4b8c-bba7-0789ee4f51a8"
+    },
+    {
+      "identifier": "b0ae9181-6eac-4bff-af17-c286bd8df9d1",
+      "name": "Schlegel, Ulrike",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b0ae9181-6eac-4bff-af17-c286bd8df9d1"
+    },
+    {
+      "identifier": "ebd945a6-d223-478d-9c75-ca60b9c48098",
+      "name": "Migliore, Rosanna",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ebd945a6-d223-478d-9c75-ca60b9c48098"
+    },
+    {
+      "identifier": "5a31e0fd3c5818fe0e5fa33c98fd94cc",
+      "name": "Brannon, Terrence",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b4c13ecb-5783-4514-934a-94801f7e3551"
+    },
+    {
+      "identifier": "4e98049f0fbe5f595d6e0f217986a211",
+      "name": "Knoesche, Thomas R.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/593b2071-f099-4775-93e9-897a0c87843d"
+    },
+    {
+      "identifier": "b5a8cf20-5c99-4bcc-8b43-bb7e2a58578d",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b5a8cf20-5c99-4bcc-8b43-bb7e2a58578d"
+    },
+    {
+      "identifier": "cdeab995367e75c32c922c94a73ee262",
+      "name": "Müller, Veronika I.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ffee5c2b-b9a8-469c-bab5-304a0c050c6f"
+    },
+    {
+      "identifier": "6565d9632e49705d186cab5fa84956c2",
+      "name": "Fox, P.T.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/521308c6-83fd-4b95-96ee-002a18ba79d9"
+    },
+    {
+      "identifier": "5100de06a71083efd935e29b8bf8af7e",
+      "name": "De Blasi, Ignazio",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0968fcd1-8133-4803-b717-db59bb245a69"
+    },
+    {
+      "identifier": "84db6c6b95bcefdd42b29c84f69933c7",
+      "name": "Taglietti, Vanni",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/8918863c-0616-403d-a2a1-340205f854f8"
+    },
+    {
+      "identifier": "5e598d6705a463a7493b01e512a85e22",
+      "name": "Hao, Yaoyao",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/23a80163-9a4a-4d59-95c2-9155ff3f8201"
+    },
+    {
+      "identifier": "78653367361c2a0063c36dbb628cc0f6",
+      "name": "Rioux, Pierre",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/51266523-93f9-400b-8694-c38a3ea16b40"
+    },
+    {
+      "identifier": "ec4eec262b57594977c1b5c0b2dcb641",
+      "name": "Riehle, Alexa",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d77412af-59de-46a3-8dce-ee75fe8683ab"
+    },
+    {
+      "identifier": "c7a9f57a2cb85d23c7b08ff4b92715f0",
+      "name": "Porrero, César",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/aeeeb597-49da-4e20-8338-c1c1228298bc"
+    },
+    {
+      "identifier": "4af0f49173aa92e1f2ceb0ac624f2c92",
+      "name": "Cattaneo, Antonino",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/70526992-3b41-4d79-9c6c-4250efa9af76"
+    },
+    {
+      "identifier": "47307dee15d60254be48ad0213a53faf",
+      "name": "Mickus, Timothy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/32953cfd-bd71-4f3d-8ba8-94d57b1fc60c"
+    },
+    {
+      "identifier": "66ab95f8-2308-4d15-bb09-ae30e92f8e82303708",
+      "name": "Leboyer, Marion ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/83bb832d-495f-40bf-9ae3-d0a9ada1a7b3"
+    },
+    {
+      "identifier": "15988fa668fbbd37ecc5f77dcdd82198",
+      "name": "Murphy, Ricardo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f9650dac-2256-4b56-a82f-4064d2064db1"
+    },
+    {
+      "identifier": "0687160038fb633aaa52385e78a6c850",
+      "name": "Falck, Joanne",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/54063bd6-0de0-439d-bdfd-5f13b4dfc9e9"
+    },
+    {
+      "identifier": "78d6f4f33ca31a022ee7c579d7164ff7",
+      "name": "Rivière, Denis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d47dc8b1-7b83-4347-9bcf-831676406f60"
+    },
+    {
+      "identifier": "835860ec-3aee-4204-a49c-9a97303ead9a",
+      "name": "Seitz, Rüdiger J.  ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/832df7d2-721a-4192-ab9e-d217b83e5df3"
+    },
+    {
+      "identifier": "442d891d-a961-47d9-ae51-95f6705e3e52",
+      "name": "Self, Matthew",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/442d891d-a961-47d9-ae51-95f6705e3e52"
+    },
+    {
+      "identifier": "1b6ddf94d95969e6caef3f7d6d307608",
+      "name": "Lupascu, Carmen A.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/87132c5c-5dca-47fb-ad34-14c5e9abfc9e"
+    },
+    {
+      "identifier": "66f87b4d74ef870105cdf2d77c7845f7",
+      "name": "Eriksson, Olivia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/26b780b1-f682-4215-896b-073201ae4f1d"
+    },
+    {
+      "identifier": "b8240a44567af29f1817aad75a1c9d5f",
+      "name": "Yeh, Chun-Hung",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/19dcca17-6c43-44f1-90ee-7121f89c3b5e"
+    },
+    {
+      "identifier": "65f5bb9774b84923332294850e25003b",
+      "name": "Javier DeFelipe",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4d3dd333-5e3d-4152-96c2-f830b095d092"
+    },
+    {
+      "identifier": "10835087776ba1bacf19eef2fa82e451",
+      "name": "Frost Nylen, Johanna",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5fec45a8-7565-426d-9762-7e64822f2af5"
+    },
+    {
+      "identifier": "bbd6a594887bf72d2da26caf02939ad2",
+      "name": "Orsini, Francesco",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/53cf5b00-690b-426c-96e0-9d21ac26d0d3"
+    },
+    {
+      "identifier": "d73c67bb2d08557894c6a9851fcc9da8",
+      "name": "Pimpinella, Domenico",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4bf9f58a-6149-405e-85a1-0d5c14ddecfd"
+    },
+    {
+      "identifier": "8fa3aa891fd942a14f67673fa1c6e2f7",
+      "name": "Tognolina, Marialuisa",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c616ccb5-7682-4e5b-8a4e-4795267aa1f7"
+    },
+    {
+      "identifier": "8935efb5f915c520e30d413a3f3aaefb",
+      "name": "Pinho, Ana Luísa",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/75911e5d-b2b8-4f6c-8cf0-1ee5849a7cf2"
+    },
+    {
+      "identifier": "34c04d30add1e771ef4cedf54c59d89d",
+      "name": "Vogt, Brent A.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f2e68e90-7514-4881-89a5-6156aae23a45"
+    },
+    {
+      "identifier": "7f08b000400bbc86ff825a5594de8860",
+      "name": "Friederici, Angela D.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/442fdfdb-c951-40fb-ac20-808e95fb3ccc"
+    },
+    {
+      "identifier": "e07cbf2d-15ed-4564-864a-92d9b7bd5977",
+      "name": "Fyhn, Marianne",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e07cbf2d-15ed-4564-864a-92d9b7bd5977"
+    },
+    {
+      "identifier": "2d95043d6603e8a784ffbed5bfa74945",
+      "name": "Hagens, Olivier",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/904e57f1-de86-463f-a80f-19c18c820cb9"
+    },
+    {
+      "identifier": "c437bd8c02b38999bad0beb01b8642b1",
+      "name": "Schmidt, Maximilian",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9409f57e-1729-4b3a-ba6d-3de652ea7500"
+    },
+    {
+      "identifier": "7be384119cf6b1bfbff17cdda3476f2e",
+      "name": "Scheperjans, Filip",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9f82c5c6-6f77-4963-a51d-e3af84488ddb"
+    },
+    {
+      "identifier": "eb8b6eaaf0f9bc659a105c957eeb04ed",
+      "name": "Roca, Pauline",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/3262f45f-4c25-4fff-a090-a58f4fcdb92c"
+    },
+    {
+      "identifier": "f7e179682ccf98378bb566852f442c93",
+      "name": "Eickhoff, Simon B.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/59cd1f87-2e3a-4e93-90df-2bf531f296eb"
+    },
+    {
+      "identifier": "2457b4a7cf0b3fa199dcc3c88180dc9f",
+      "name": "Zilles, Karl",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/bd887710-f5a6-4119-97c7-686977885f30"
+    },
+    {
+      "identifier": "86193baaabd3fa8d0cd26f2e74380d02",
+      "name": "Hirsch, Sven",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f90a9e35-d5aa-4b63-88fe-90f0d30018a2"
+    },
+    {
+      "identifier": "1d3203ba063f35edd21cc65310c7dd02",
+      "name": "Benavides-Piccione, Ruth",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a50eee3d-4e19-462e-bbe5-d1f8cc44b1ce"
+    },
+    {
+      "identifier": "a41dee58-dc33-4e43-a681-e95b34e4f05e",
+      "name": "Peters , Judith C. ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a41dee58-dc33-4e43-a681-e95b34e4f05e"
+    },
+    {
+      "identifier": "549e13a948ee01b7ce8f3bc111d43010",
+      "name": "Kjonigsen, Lisa J.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ae69658b-9603-47da-ad90-784812c36d20"
+    },
+    {
+      "identifier": "b0e2942a9ecc50d6950a8ff45203f10b",
+      "name": "Paolucci, Pier Stanislao",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/dd012edf-e311-4694-98da-4576636781b6"
+    },
+    {
+      "identifier": "f720d35edb1d30d32fdf6f0f5a6cbfa2",
+      "name": "Grün,Sonja",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/21dfbc89-e560-471d-afe9-0f84bd4668e4"
+    },
+    {
+      "identifier": "34be982ee380b62a3491e6f7dca74009",
+      "name": "Rodriguez, Rodrigo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/be836b62-14aa-424d-afd1-f216cf5dc138"
+    },
+    {
+      "identifier": "f767d3651a1e358f37f05efad2a284bf",
+      "name": "Moebus, Susanne",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/32b050d2-6a46-486c-a5bf-fe2903e9c506"
+    },
+    {
+      "identifier": "430c97d74657eb3a173b9349c8d97966",
+      "name": "Giustizieri, Michela",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/de93969c-843f-440c-bb69-7381d1cb3781"
+    },
+    {
+      "identifier": "d0f97a07371e3ecd6842f1d769f91500",
+      "name": "Doreswamy, Keerthi K.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/865b341e-1e9f-4bb7-aea8-56ca70b68225"
+    },
+    {
+      "identifier": "13186d20311a8d2ab05921a64ea81488",
+      "name": "Melozzi, Francesca",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/8d65c1ca-7324-47d6-9655-91bb5e14421e"
+    },
+    {
+      "identifier": "0a3475a5b32da9d448fd94998aebe6c6",
+      "name": "Dorst, Matthijs",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b8504d01-cd0e-48d2-9792-865e4ac6e0d1"
+    },
+    {
+      "identifier": "b2205683513a49df729fc96d41946bde",
+      "name": "Prusiner, Stanley B.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9b943866-ec85-46cc-b890-ad4241d76aeb"
+    },
+    {
+      "identifier": "80735a71cd8dfbde2d1c727c958f114f",
+      "name": "Evangelio, Marian",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2de6aea6-32b3-422c-98df-c1b7e91b412c"
+    },
+    {
+      "identifier": "c5d27bb9-4353-41f5-ab4b-089d8453391d303708",
+      "name": "Sigl, Benjamin",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/8ada6f3c-d3ca-493e-a95d-124493fd8437"
+    },
+    {
+      "identifier": "e2053f67c169156640457a72a7ad1c56",
+      "name": "Lindroos, Robert",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/be14c6f4-7459-486a-8b8d-44e43ff62cae"
+    },
+    {
+      "identifier": "bb682bac1c22662d4cb748c4141328a5",
+      "name": "Fan, Lingzhong",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/fe41358b-88b5-4764-8fc7-79e0fc9b4490"
+    },
+    {
+      "identifier": "e0a81bf2b4154e7bfcfd48418b06d840",
+      "name": "Fontana, Andrea",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e8cbe9ab-7c12-4f0e-aba1-f674d5e82f61"
+    },
+    {
+      "identifier": "679a35b004aa3c3186155fee8498ef3a",
+      "name": "Segev, Idan",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/72238c5d-7d8f-4241-ac84-d69273dc7576"
+    },
+    {
+      "identifier": "1e156ca3-122f-423e-922b-6baab4b9861e303708",
+      "name": "Le Bihan, Denis J.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d6f5e477-5810-4e05-a319-b0f96f5ca193"
+    },
+    {
+      "identifier": "29afd436bfdca862b216a8c4a5d7526b",
+      "name": "Jirsa, Viktor",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5fd5a274-8b6e-4501-a688-b87e444e49e3"
+    },
+    {
+      "identifier": "8be63434b9e94e090526de40ae1142e7",
+      "name": "Sherif, Tarek",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/aae5e820-7531-40f0-a4c2-224ec0257e99"
+    },
+    {
+      "identifier": "ed87e7b0d26a23e8661ba250c6b2db90",
+      "name": "Fonseca Guerra, Gabriel Andrés",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/881bbb9a-c7fb-44ff-a50a-9fa8096a8114"
+    },
+    {
+      "identifier": "d047d9c7-9252-413d-b196-346ed807a6ee301598",
+      "name": "Jelitai, Marta",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ea6dadd4-e930-4d14-967c-dcffab8dca8a"
+    },
+    {
+      "identifier": "679f1065084d2d7329dd09621a6776fb",
+      "name": "Berthoz, A.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/1f5b48d5-321b-4c1c-aa10-0bbf330d6e8e"
+    },
+    {
+      "identifier": "15a32127577b72a195d45208bbfec045",
+      "name": "Reckfort, Julia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/33ebc23a-ac96-4074-879f-616e5760927b"
+    },
+    {
+      "identifier": "92a155a0-c229-4526-8817-f524b0391278",
+      "name": "Goebel, Rainer",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/92a155a0-c229-4526-8817-f524b0391278"
+    },
+    {
+      "identifier": "50a16d082a7968ff920ab1be883bd26a",
+      "name": "Freyermuth, S.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/cf1220d4-dcfa-448e-9833-ff4219f6a684"
+    },
+    {
+      "identifier": "bf3d79c5413e27622cf1825548e1d002",
+      "name": "Muellenbroich,Marie C.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7d129d6c-5658-4e7a-bc29-68b1065b2571"
+    },
+    {
+      "identifier": "cc06c44d6fa2538c64b07518027e8ff3",
+      "name": "Janetzko, Florian",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/3be64e32-8a0a-4211-a7e9-927ddbbabc5d"
+    },
+    {
+      "identifier": "dc476808207493ffd749b1d6c2152616",
+      "name": "Das, Samir",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/469bb0a1-587d-414b-8cf9-e5cfd47b0c39"
+    },
+    {
+      "identifier": "7714bba1f45e5e8d301a843bba21f8fb",
+      "name": "Bologna, Luca",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/1d1c0e86-b248-4aa2-8623-97ffaff39339"
+    },
+    {
+      "identifier": "0338e76ece1347eb52faa29812ea84dc",
+      "name": "Boudewijns, Zimbo S.R.M.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/036a7868-73af-41e0-a67f-5f3ae382ec60"
+    },
+    {
+      "identifier": "5d8b905cb2f32be20209bd524a5e44a5",
+      "name": "Weiss, Peter H.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7a221544-6d2a-4db6-8fcd-b278d8c68393"
+    },
+    {
+      "identifier": "db40532ad3db1e2e9cbc76f3f73fa08a",
+      "name": "Wójcik, Daniel K.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a7dfbf02-4c3d-49d2-946a-5c7d7093ff55"
+    },
+    {
+      "identifier": "6e435269817f5eb9ce0833594e0a61a6",
+      "name": "Rizza, Martina",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e9918cbb-46cf-466a-89be-7741a550f6df"
+    },
+    {
+      "identifier": "60a1ed4f641de27d38862c90656deb71",
+      "name": "Grillner, Sten",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d758d21b-83e1-4f56-a037-e98b8ae431fe"
+    },
+    {
+      "identifier": "c2a3957f9bacf56bd8f835092bd4d3c1",
+      "name": "Stendardo, Emiliana",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/374d7ec2-875d-48db-8189-a120a551be8c"
+    },
+    {
+      "identifier": "0af028c38090013855330ad176f9436e",
+      "name": "Laurier, Laurence",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/cd934121-7688-4447-9a70-a925c1976ce7"
+    },
+    {
+      "identifier": "9957ce8c6fbdb4846a2022d8db374ae5",
+      "name": "Bazin, P.-L.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/428d0b15-e744-46c1-892d-b5af0235d591"
+    },
+    {
+      "identifier": "2a7008ce-cb2e-42b0-8579-a585496d40c0301597",
+      "name": "Kirlangic, Mehmet E",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/564bbb7f-e8ab-470c-a749-7cc19c3b2865"
+    },
+    {
+      "identifier": "7a448726e6324d71e629e4df484bb811",
+      "name": "Storm, Johan F.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/945f4641-3b4e-438c-87ab-c0672bc5cc7f"
+    },
+    {
+      "identifier": "01838dc7f19663a59edf611b4003cc20",
+      "name": "Ponting, Chris",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b2f2726c-03f9-4249-9cf0-0d5e36ad0b2b"
+    },
+    {
+      "identifier": "3e41be67-c4c8-4527-89d4-1951b9f647a0",
+      "name": "Schlegel, Ulrike",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a2b3a50a-e5c4-467a-80c3-3a11553cc032"
+    },
+    {
+      "identifier": "b68f60d22e276e50c508b63192ef6dd2303708",
+      "name": "Adalat, Reza",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/60e6ad23-e561-4bd0-bc11-4cef43147b02"
+    },
+    {
+      "identifier": "b0cd57580fa66b21872cdde74d1bca9e",
+      "name": "Dehaene, Stanislas",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/002d1bca-7b51-4567-9f5e-108bbae0678e"
+    },
+    {
+      "identifier": "39c3c894db7e2983df43a67e316b2684",
+      "name": "Bush, Daniel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/67d2abaf-712f-448f-8771-e0ea4c8208a7"
+    },
+    {
+      "identifier": "d53c19307c5e9bc77c9b0cc80ff0a95c",
+      "name": "Alexander, Daniel C.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ce01db5c-e9f9-4f93-8cc6-5df9ee3a6b63"
+    },
+    {
+      "identifier": "e537fd8ddd6926b8b364e4bdb49c255e",
+      "name": "Kinomura, Shigeo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/31198ebe-d670-4bec-a8e5-7b38312d3bf2"
+    },
+    {
+      "identifier": "1fe99bb89df20116c473dfaac56f432b",
+      "name": "Stensrud, Mats J.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9b9fed81-4a0b-4d23-970e-ed5a804e4115"
+    },
+    {
+      "identifier": "ba18ed4c4a052ec49d37fab45cec5821",
+      "name": "Cohen, Yoram",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/bdf4f1db-975f-4cc7-834e-12b94c0dc2d9"
+    },
+    {
+      "identifier": "2b7c61e00a834eef84b31c28c0340dfa",
+      "name": "Badiani, Aldo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/427a0585-7b67-40c1-8271-49567ce25848"
+    },
+    {
+      "identifier": "ec9fe3b8-6fd6-4921-b224-328dc46a1ef6",
+      "name": "Medini, Chaitanya",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ec9fe3b8-6fd6-4921-b224-328dc46a1ef6"
+    },
+    {
+      "identifier": "dd2679fd-0ab2-4f5a-8992-bac90deffd35303708",
+      "name": "Mangin, Jean-François",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/dd2679fd-0ab2-4f5a-8992-bac90deffd35"
+    },
+    {
+      "identifier": "83040487088f45211fe3d666f8f21e0c",
+      "name": "Bulanova, Anna",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5d92bbf2-ade4-429f-a113-65f5e34647a8"
+    },
+    {
+      "identifier": "490f5c3f7d9be7ac6143e5dfb1738b17",
+      "name": "Avvisati, Riccardo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/cc2e9b46-fe35-4426-8de2-0fa14329188d"
+    },
+    {
+      "identifier": "6f25a99e577d346a9faa70d693fc7fc7",
+      "name": "Fabre, Murielle",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/232137c0-a2f6-48ea-b143-6ad05726f2d9"
+    },
+    {
+      "identifier": "29b11c95231ddc489e083003a803b448",
+      "name": "MacFarlane, Dave",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/57fbf913-05f0-48bd-89c5-ee47b85cf8c6"
+    },
+    {
+      "identifier": "80e5c5e05e0b8d03ceca1e883a25ff32",
+      "name": "Appukuttan, Shailesh",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c4862d7f-4b79-45e5-99c5-224f760d8beb"
+    },
+    {
+      "identifier": "06e2f1ec83efaebb32756bd75ef03027",
+      "name": "Pavone, Francesco",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/67ce3e0c-5477-46d5-a44d-0703724d3408"
+    },
+    {
+      "identifier": "3e6747fd6e4f4bc1b010134095459cce",
+      "name": "Antonel, Stefano",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ff9d11a3-b323-4d66-ac16-4c891e9a602b"
+    },
+    {
+      "identifier": "cc377065-350c-4f6c-a79a-16cde5fa443e305524",
+      "name": "Krogenæs, Anette",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/6d7e1c2f-02d1-459d-9c9d-a14eaa620dbc"
+    },
+    {
+      "identifier": "38559f02f35c5a23054514acf06b718a",
+      "name": "Allegra Mascaro, Anna Letizia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2b0072af-7076-49f4-836e-7397585abe36"
+    },
+    {
+      "identifier": "801fedae84bb089ad907b584097691b5",
+      "name": "Lodder, Brendan N.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/76d314fd-f7e0-4cf6-a56d-9fd7e5d88971"
+    },
+    {
+      "identifier": "4f875f637b57cb29e503e83e3baefce3",
+      "name": "Maffei, Arianna",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b7b5a452-6eb2-4fa3-a35b-01dbd07406c1"
+    },
+    {
+      "identifier": "b7d8d136-e5d4-4e36-9aa3-3eb5b1f97ec4303708",
+      "name": "Houenou, Josselin",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/54a57503-9a9b-4f26-b0f8-b8383e8ab2d5"
+    },
+    {
+      "identifier": "e3e2becc75391e9bea7a8fcb2781e3b2",
+      "name": "Tegolo, Domenico",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/49c718bb-306f-479e-961b-0fa2fe0de597"
+    },
+    {
+      "identifier": "31f30782814945726c2785dd966375fd",
+      "name": "Johanna Frost Nylén",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/736779f4-373e-42c7-a1b9-fc025ee985ad"
+    },
+    {
+      "identifier": "baec0381f1f9af275705aeecf62f691c",
+      "name": "Evans, Alan C.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/bba928d0-b301-4779-b5b0-0cf5311873b5"
+    },
+    {
+      "identifier": "77d53abaa99856e582b79184b5355869",
+      "name": "Behrens, Tim E.J.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f5e5e442-c01d-4b55-b77a-8656138e03e8"
+    },
+    {
+      "identifier": "17d4b1ac202550c692d63f38bb6e3518",
+      "name": "Cieslik, Edna C.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/1a59f96e-d375-42a6-9783-3307b2cd42ac"
+    },
+    {
+      "identifier": "9cff6ce8536b907a566893c4efb65096",
+      "name": "Forti, L.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5cd98bc6-0598-4169-8ee5-178331cb29fe"
+    },
+    {
+      "identifier": "f4b54e39f890184a99f75d22c4462626",
+      "name": "Brochier, Thomas",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a055d7b9-10bc-4d1a-b3b3-72217ed3e729"
+    },
+    {
+      "identifier": "bf633157ef0540f58ef184b62af17c9a",
+      "name": "Kassis, Nicolas",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b3dca6ac-20fa-482e-898a-abbf45c2f28e"
+    },
+    {
+      "identifier": "dc157687-612d-48ec-a17d-a79ffdf6e0e4301597",
+      "name": "Turegano, Marta",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/89212392-e8fd-497d-abd7-315a9e1f8b26"
+    },
+    {
+      "identifier": "edc868b49ab60e3e9a5d04e07dd13240",
+      "name": "Poupon, Fabrice",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/98bf29d2-503f-4624-9471-f48f40ad0408"
+    },
+    {
+      "identifier": "3ec44d03971de898cfd873164be3ba54",
+      "name": "Tort-Colet, Núria",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/07b875c0-4a46-47a2-bde6-f8037312bf51"
+    },
+    {
+      "identifier": "839077a14fbb36c1f2bcbe7e8999b6cc",
+      "name": "Berki, Péter",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4af45124-d91d-4de1-8d85-7032d1d3dc74"
+    },
+    {
+      "identifier": "5793a7b2530e834379aab95034bad05b",
+      "name": "Golding, Nace L",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ea459e38-6e27-403b-a972-62338b56d8d3"
+    },
+    {
+      "identifier": "4076521a-d75c-4cbb-96ba-f8344ede83d6",
+      "name": "Possel, Jessy K. ",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4076521a-d75c-4cbb-96ba-f8344ede83d6"
+    },
+    {
+      "identifier": "5b43785b16504b1ee97d3f2bca0f465e",
+      "name": "Zaborszky, Laszlo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/50f48e98-b940-44a4-96a4-97dd05c89f06"
+    },
+    {
+      "identifier": "a5d0e7fb46df7c01ab8e3292c2e93c0f",
+      "name": "Armano, Simona",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/10a22209-af5f-499e-8375-cc4c37c172e3"
+    },
+    {
+      "identifier": "3e871e11c214a058a43cb1fc38788eea",
+      "name": "Kedo, O.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/11759a11-c200-4003-b8b3-696a6ed4a227"
+    },
+    {
+      "identifier": "4c18ce485b69b817ec808d013fdb3c5e",
+      "name": "Rousseau,  Marc-Etienne",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4c86ca30-4e3c-40d0-923e-f300572bcc66"
+    },
+    {
+      "identifier": "780b735ea0c17fcb25fc0ab0681739be",
+      "name": "Serna, Pablo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/456eb9d8-b00e-43ea-99b6-4256053821a4"
+    },
+    {
+      "identifier": "7771fb0db22c62a114c8711c86ebd16e",
+      "name": "Clark, Chris A.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/115c7180-dfdd-4263-95d7-285b2e8e6745"
+    },
+    {
+      "identifier": "8b2e37adc07eb8aaf05021b426ad40f7",
+      "name": "Alessandro, Arena",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/af7aea78-340e-4bf9-8697-1ccc18b43d75"
+    },
+    {
+      "identifier": "bb1b46c62924fe56f310920e5167ddbc",
+      "name": "Farnes, Nadine R.S.F.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d7d026b0-7d21-4c09-8eb8-cf50c27b4680"
+    },
+    {
+      "identifier": "d1545494a0e64d241369fa2f27b002b9",
+      "name": "Bichelmeier, Ulrike",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f64e1349-ae13-49cf-84ba-aebe7ddbbba3"
+    },
+    {
+      "identifier": "3bd0f9b7b8837c71d89b5805f3cf4e8e",
+      "name": "Hütz, Tim",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/42b23758-459e-4baa-9282-b8f1dd382b94"
+    },
+    {
+      "identifier": "c152e95753fc809d975a91b2b0131920",
+      "name": "Clascá, Francisco",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a2fd9277-c87e-437b-9f7b-d90d6c9a204f"
+    },
+    {
+      "identifier": "057111bffd2809774c89ec1a412b1844",
+      "name": "Frost Nylén, Johanna",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/057b9a73-e316-4d61-abf8-2f5a36c4def3"
+    },
+    {
+      "identifier": "645c1d87f9f006665c4d69c5119351c1",
+      "name": "Duclap, Delphine",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/338bb52f-efcd-44ea-96f6-b132a42c26cd"
+    },
+    {
+      "identifier": "08ac8f79ddc174ee2bc97d8813808593",
+      "name": "Rousseau, M.-E.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/bcc282e9-05fb-4bf6-a2cb-f0f4f331f23c"
+    },
+    {
+      "identifier": "e2a04034-e363-4c61-9779-69655e215898",
+      "name": "Jianghai, Ruan",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/469c7c30-2638-43ad-b73f-de1bcb9e833c"
+    },
+    {
+      "identifier": "844814bd0476282dc187818e733c7056",
+      "name": "Asamoah, Boateng",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/1f6b779b-c566-4c38-8bed-4e043a71777d"
+    },
+    {
+      "identifier": "82d3fc89c109a42f2a8fcf23ac9de2eb",
+      "name": "Lehre,Knut P.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/bc585185-a52b-47bd-aed0-0b2173ca8599"
+    },
+    {
+      "identifier": "6cb180318a1592839b7950477a6c7cab",
+      "name": "Mansvelder, Huibert D.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/217f3a75-0844-4c2b-8de4-06fa69fd58b6"
+    },
+    {
+      "identifier": "87234d65cb489f3f4dcc60679950dd20",
+      "name": "Anton, Alejandro",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d82d29e2-0723-4548-ae0e-931b368eaca1"
+    },
+    {
+      "identifier": "58b33e216171a135073bc140b36f70af",
+      "name": "Telenczuk, Maria",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/837e7d47-3292-4c48-b214-cef39b854410"
+    },
+    {
+      "identifier": "85de1b6632594583d7710fcad60edba3",
+      "name": "Danbolt,  Niels C.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5d764884-a105-4976-bfd1-d5627082fa30"
+    },
+    {
+      "identifier": "3332026ccb686544923ef1e5380e7a4c",
+      "name": "Mohan, Hemanth",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0ee707ff-2a2a-400e-b25f-4d0c5757cb59"
+    },
+    {
+      "identifier": "4cf42680530997c768af4a4b181182f4",
+      "name": "Keller, Daniel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/aec7b6d0-12e6-437b-8a48-cb24de455166"
+    },
+    {
+      "identifier": "cede004c51ec0056455d13392d666077",
+      "name": "Gómez González, José Francisco",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2bfbe6cf-c7c5-4412-bde3-ced5b62cc450"
+    },
+    {
+      "identifier": "77568cb90ec7bf39d888f42356812d20",
+      "name": "Doublé, Christine",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/d6341ace-bb1c-4bdf-a3b6-c1fce4e310d7"
+    },
+    {
+      "identifier": "fe4a151aa50b36947c340060639b06d1",
+      "name": "Bicanski, Andrej",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2224908b-c918-42aa-a48c-1de9f7c8c9ac"
+    },
+    {
+      "identifier": "84d2470dad9efba36a698de299111e78",
+      "name": "Linne, Marja-Leena",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9064a9a1-1ac5-4246-89e1-a8793aadc343"
+    },
+    {
+      "identifier": "ffc9ef1984476a49d43603c261d1675f",
+      "name": "Lebois, Alice",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/84e844db-ff35-4b3a-a08e-e5d2d65bcb4a"
+    },
+    {
+      "identifier": "771a23360c02a6d8bca5c61308895c37",
+      "name": "Gleeson, Padraig",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5237b4fa-5447-43af-83fd-0946e081e937"
+    },
+    {
+      "identifier": "8ffd9974-1c4b-489d-892a-87bc866cf848301597",
+      "name": "Finn-Mogens",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/30461e9e-d5c7-4088-924a-0d5f17bac959"
+    },
+    {
+      "identifier": "4ec5314e-37d7-4546-84b8-3dd87d181971",
+      "name": "Lensjø, Kristian",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4ec5314e-37d7-4546-84b8-3dd87d181971"
+    },
+    {
+      "identifier": "0ab22bea3d68a9e92f91538c2c653213",
+      "name": "Holmseth, Silvia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b618c9b6-78d8-431a-92e0-911bc4fb1468"
+    },
+    {
+      "identifier": "3a2dcba69606495850f0112bf23c4b03",
+      "name": "Rademacher, Jörg",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/29aaa36f-b660-449b-a8de-1d58410c15f4"
+    },
+    {
+      "identifier": "c149471847daff78577093fa451d9a94",
+      "name": "Lorenz, Simon",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4f928d11-d6ea-42d8-aa19-9c6033d00de6"
+    },
+    {
+      "identifier": "1282e138b3db78e637a6052e6e87ac1d",
+      "name": "Regalado, Mamen",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/a0c386f6-13f2-4b06-9f0c-cba824bd30e2"
+    },
+    {
+      "identifier": "b42b02ee0265036d212abca6c2a3c23e",
+      "name": "Dehaene-Lambertz, Ghislaine",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/89e56337-4c2f-4254-964e-233b452f86b2"
+    },
+    {
+      "identifier": "481a4731f9d7e68ae9c5858fb1d07a3e",
+      "name": "Bacha-Trams, Maraike",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ca2a4c0d-2cc9-44c6-a02c-3656bd96ff86"
+    },
+    {
+      "identifier": "98875cc8775207e604e1db7f6bcf9fe8",
+      "name": "Geerts, Jesse",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/bfdcee77-cf9f-421f-8565-cd619584a772"
+    },
+    {
+      "identifier": "bed1a1f94192588589812fa534ae0c7b",
+      "name": "Menon, Vilas",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ba3244b0-6e7a-452a-abd2-8c74bb73299a"
+    },
+    {
+      "identifier": "69cd99984a2016a92fee1e271cb6d87a",
+      "name": "Spoerer, Courtney J.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b73b833e-e990-4510-8e85-1e62e74ca630"
+    },
+    {
+      "identifier": "4aeac3c558a97b81455652da0c7f1728",
+      "name": "Potjans, Tobias",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/cb5a8f71-10fe-4b96-8924-4093835d0840"
+    },
+    {
+      "identifier": "e8ddfa1755f2d93687f531a11115b1ee",
+      "name": "Nilsson, Lars N.G.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c3cc42b8-3d60-4456-91e5-e8ef6833349a"
+    },
+    {
+      "identifier": "fc779157bb67cdec0eddbc6284284764",
+      "name": "Yetman, Michael J.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4db8cef3-fcda-4bcc-98e6-c93aaaffe9e4"
+    },
+    {
+      "identifier": "71e7e4edb3bb19f6276fcb1ecee73219",
+      "name": "Nuber, Silke",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/04b439a9-a292-4253-b7d8-05838bc7d9a2"
+    },
+    {
+      "identifier": "e9a1ae9d473cf1b79677cacc5938a84d",
+      "name": "Henssen, Anton",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/868b9bcb-8266-4e8c-ae85-775287e58eb7"
+    },
+    {
+      "identifier": "d4fd4954c697b5a0b62414bc8fd82e77",
+      "name": "Huppi, Petra S.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b7da1533-d973-4204-a918-ed5f15e391ee"
+    },
+    {
+      "identifier": "28cd2bbf034cb2518c8d67db992c5d64",
+      "name": "Kurth, F.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ff8f02cd-2fbd-481f-94fe-cdd2e927b805"
+    },
+    {
+      "identifier": "769b427c3a0a54dcfafa88e22002bbe3",
+      "name": "Fragnaud, Helissande",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b0d15aed-b5cc-45cb-a580-073b39f627ed"
+    },
+    {
+      "identifier": "52836c04b7e4a77bfe66ac9714385f02",
+      "name": "Wree, Andreas",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ea0ed976-7ff2-457a-a883-8d250e01b62b"
+    },
+    {
+      "identifier": "e5a3d05307533047dea7a1494194e801",
+      "name": "Prescott, Tony",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/37c53d98-5cb5-490d-bf66-f2be401ed191"
+    },
+    {
+      "identifier": "258fa23d9f3588319dd70a03717fb34f",
+      "name": "Kleiner, Melanie",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9ee642c3-f21c-4099-99ba-3aa8ff18852e"
+    },
+    {
+      "identifier": "aebb7b029eb1830d4fb7b4e9a46825e7",
+      "name": "Székely, Gábor",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/706fc2b3-2b1e-459d-824b-5a6d67c403db"
+    },
+    {
+      "identifier": "9165911ac5faff2d4dc0f426030c9bc1",
+      "name": "Armstrong, E.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e7588fb7-fcfe-44c7-8a97-cd9594377ff5"
+    },
+    {
+      "identifier": "274457d14fdc8db443d4765a3ac061ba",
+      "name": "Hoemke, L.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c738bf45-c965-4872-821b-0c7a3b5cbe6c"
+    },
+    {
+      "identifier": "2fc88e670233820318e7a81a39b4c0ff",
+      "name": "Jankowsky, Joanna L.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4d3c86e7-afd4-4d3f-8123-34c11e024bfe"
+    },
+    {
+      "identifier": "b41a7a957f1daa9657eae1d3773f9db1",
+      "name": "Rössert, Christian",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/3da763ac-0897-4345-9797-4093ffb0d8e3"
+    },
+    {
+      "identifier": "1d3589e6726569bb6a3521723052aa64",
+      "name": "Pavone,",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0bf051ad-5ba0-4641-958b-95cda995b838"
+    },
+    {
+      "identifier": "76b71ee20f84dd3271b351c22fcc1fe9",
+      "name": "Locatelli, Francesca",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e67e11da-59ea-4d1b-b225-b225482916cc"
+    },
+    {
+      "identifier": "5d9996a3c1450db8c53eff3616759342",
+      "name": "Amadon, Alexis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5ca7c926-9238-42cc-9749-cce7d80fdc71"
+    },
+    {
+      "identifier": "94243ccc523681b93d43279b15af63b9",
+      "name": "Sacconi, Leonardo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b186531f-0a79-4396-9306-b2f45fff2432"
+    },
+    {
+      "identifier": "85578cdf71b7726dbf0bc8b520974561",
+      "name": "Larsson, Jonas",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/794b0e5f-e9d4-4d6b-8c3f-7165dd61f433"
+    },
+    {
+      "identifier": "14e723981f864af421b339d1e7e84a57",
+      "name": "Thomson, Alex",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/6d76b140-0e01-4552-8314-0eb43eb00227"
+    },
+    {
+      "identifier": "68f7bd0bbd60708e0baf671b5306c6a9",
+      "name": "Aardse, Romy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/14f0acc0-9fc0-4b67-881f-522b89316b83"
+    },
+    {
+      "identifier": "6bdec65e966cc8d762ba03d103e91bc1",
+      "name": "Klingberg, Torkel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0d46df64-2a91-4f33-9737-c09beaf99e52"
+    },
+    {
+      "identifier": "1f33c0db272cb241e8cc20fc39b25e44",
+      "name": "Kahane, P.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2d392c0d-f0ba-4c8c-887e-edd747a65607"
+    },
+    {
+      "identifier": "1249773526ded0347a9bda5351f6f59a",
+      "name": "Becuwe-Desmidt, Séverine",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/1fc64a2f-eddf-43e2-97e9-ff7c9c5bebbb"
+    },
+    {
+      "identifier": "17dd3a60158564f9a4b1acdc1ca5357b",
+      "name": "Courcol, Jean-Denis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/8f51960b-f579-41a0-a435-6ec360f382fd"
+    },
+    {
+      "identifier": "3389a66617e995632091b97c1659eb0c",
+      "name": "Hjorth, Johannes",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ba5a4c6a-c530-4682-a815-eb2d2e60a043"
+    },
+    {
+      "identifier": "fd58ed7df7c5c5157706b122a9b90d3f",
+      "name": "Jerbi, K.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/50d6404c-0aef-40f5-b344-782639080f8a"
+    },
+    {
+      "identifier": "b8c53763dc95a6b4af3ab4057690fac9",
+      "name": "Grill-Spector, Kalanit",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/79229d6e-7b26-4c91-93e9-553d54431b6b"
+    },
+    {
+      "identifier": "234c9c5eb0565690e745f0c526675f5d",
+      "name": "Matthijs Dorst",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/6f69b07b-b237-49d5-9c6b-a8bed902542b"
+    },
+    {
+      "identifier": "Barbieri, Francesca",
+      "name": "Barbieri, Francesca",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/89c1ecca-e0a5-40e4-b0fd-682a50be341f"
+    },
+    {
+      "identifier": "1246d77d1d771325575776db8a3405ac",
+      "name": "Gruening, Andre",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ef9f5b43-51c2-4e24-beeb-3afe5b7efa01"
+    },
+    {
+      "identifier": "2df6744a-1fff-4c94-a900-bd8feedfafd2",
+      "name": "Claus, Steven",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2df6744a-1fff-4c94-a900-bd8feedfafd2"
+    },
+    {
+      "identifier": "e555fa5f136533798d563c8b41a0d59b",
+      "name": "Geinisman, Yuri",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f6a5e705-7a68-4dde-a493-5e701d69fdd9"
+    },
+    {
+      "identifier": "7fdc4682-45da-4a9b-a75f-42edfb996f07264305",
+      "name": "Jankowsky",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7fdc4682-45da-4a9b-a75f-42edfb996f07"
+    },
+    {
+      "identifier": "d1d4965e13b1ba7a7c3c93ccd1fb7020",
+      "name": "Bürgel, Uli",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/45c3743f-11ed-4e8a-82c4-eee40793d886"
+    },
+    {
+      "identifier": "22956f19a06b3aa2af06a18157db0842",
+      "name": "Pietrzyk, Uwe",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f4497c22-41d7-44d9-a7c7-8b344d194aa8"
+    },
+    {
+      "identifier": "74b3577f444a59e6b28b5340ac15e4c3",
+      "name": "Filipchuk, Anton",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c2102187-e215-4477-96bd-3ff0eb3b4872"
+    },
+    {
+      "identifier": "d758a5c1ed56cd552e44fcdb640e837f",
+      "name": "Costantini,",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/3462f1f0-fc8f-4c6b-b09c-1b01c0e3d7b8"
+    },
+    {
+      "identifier": "92be1c272a9d4873640fa55ba6f5aafa",
+      "name": "Alvarez, Carmen",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f1b5db99-d6a8-43e6-9178-45e049153ee0"
+    },
+    {
+      "identifier": "059f4b4ccc707731d7a469206e4bbd1b",
+      "name": "Mercer, Audrey",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c2fb249b-50f8-4ef2-a7db-3687140648a4"
+    },
+    {
+      "identifier": "c61564a6780681fb18f6a0c125b9ec47",
+      "name": "McClure, Patrick",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/95ad27b5-7dd5-4988-a956-a4ea5c15962d"
+    },
+    {
+      "identifier": "aa475c79fed40ab964d9ebfa0a044439",
+      "name": "Leon, Gonzalo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f7c82df7-5fe3-4759-b493-19b37d3dee85"
+    },
+    {
+      "identifier": "1a243831e83b9fc06bec33c1ad8b2ec0",
+      "name": "Klaus, Carolin",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/49f81cc9-3a11-4763-9936-c48ab61b8a9e"
+    },
+    {
+      "identifier": "3e72c6207477cf7d2c4ab0022fdb2f30",
+      "name": "Manninen, Tiina",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/77a7933e-c443-4096-80b2-948d2de99d44"
+    },
+    {
+      "identifier": "ca58d45c-c0b4-46cd-912a-82f581f77ce6303708",
+      "name": "Iannilli, Francesca",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e5b4d8ae-3005-40e3-907c-c8f01897e821"
+    },
+    {
+      "identifier": "8a047744-5b04-4c2c-abb3-cc2dfbdc12ea303708",
+      "name": "Zilles, Karl",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/22a9a990-9860-4d40-8cc9-7c3c94930262"
+    },
+    {
+      "identifier": "ff21efea73a8c3ab8cfb82a77de4b815",
+      "name": "Kriczky, Nándor",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0e3c5452-6996-4be5-bff8-f4b5e9419690"
+    },
+    {
+      "identifier": "9e2f73c7e3fd403a5bca75d3f3763444",
+      "name": "Mazzamuto,",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7b8fa5d2-4d82-4e73-8c03-a556c8bc1a9a"
+    },
+    {
+      "identifier": "0ce9f76f6cccf8d3883921b9dc55936a",
+      "name": "Lepperød, Mikkel",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9d3d57ef-27c1-4cbd-b9e5-395e691eefb1"
+    },
+    {
+      "identifier": "86bf34658e28509426f0bc4918c45f3e",
+      "name": "Pezzoli, Maurizio",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e32fa9dc-2202-4a04-b004-f01508b7e68d"
+    },
+    {
+      "identifier": "c9a9d5a6cf3ddd0e7571a76308c2d270",
+      "name": "van Albada, Sacha",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/54845a97-b183-41da-a1f7-90d623cadfbe"
+    },
+    {
+      "identifier": "f3fe180f-4bf4-457f-8f66-0e23e1e2b84a303708",
+      "name": "Saal, Martin",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/8e47c7e7-1020-438f-bdf7-b5d92699eadd"
+    },
+    {
+      "identifier": "a31e2e0ff6f46ca14a6a3331b09a90d7",
+      "name": "Rodarie, Dimitri",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/cba93b15-8ec7-478b-8284-25bf081ebbd1"
+    },
+    {
+      "identifier": "5aadc706fec310d5d0be232386112665",
+      "name": "Ginisty, Chantal",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7a7fa13b-0820-46e0-b799-867928d5ae45"
+    },
+    {
+      "identifier": "3b3ad0ec-11be-44b4-bf32-13838cfa7776301597",
+      "name": "Schubert, Nicole",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/77fb2034-9608-4aea-a8f2-30c2b291540b"
+    },
+    {
+      "identifier": "dc0748d3ec19f154dd23f4b171557432",
+      "name": "Freund, Tamas F.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/fc0a075f-f162-4c77-9c39-5a1521dce0a7"
+    },
+    {
+      "identifier": "17286b25c67f75de91d99293d9182d81",
+      "name": "Groot, Colin",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/40a71279-0b20-4710-a2ee-e0144c2b62ee"
+    },
+    {
+      "identifier": "8c57ff6e01bdf25fa831b1b6df2e674f",
+      "name": "Oliver, Peter",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/18acfdbb-cb31-44b5-b0c3-1a2029e67f67"
+    },
+    {
+      "identifier": "e1f14e3eb193490140e74596dc63ebdb",
+      "name": "Limongiello, Alessandro",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/552dd391-791b-4185-8c26-99ff32a4d2eb"
+    },
+    {
+      "identifier": "e37e661f25b354bc48ecb19316a3922b",
+      "name": "Næss, Solveig",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9ba358cc-c832-4190-aa60-5e4fcf53dd4d"
+    },
+    {
+      "identifier": "2d30fe31400b3de0553da0300377cf90",
+      "name": "Torp, Reidun",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ee6e93c4-7a5b-405d-80e6-73343484f978"
+    },
+    {
+      "identifier": "64f5033157bd17c250893a381d2889c8",
+      "name": "Eyal, Guy",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f8a32f69-138d-486b-b3c5-cb98e9584bce"
+    },
+    {
+      "identifier": "db64e0f6fe4185798ff7df93abba1526",
+      "name": "Senden, Mario",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b2f92c77-2f46-4c84-9cec-d98e798ef801"
+    },
+    {
+      "identifier": "387f5e36df72a54ed712a90693ae8c8e",
+      "name": "Naldi, Giovanni",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c338e696-7619-4459-bf0c-273191a5c8c4"
+    },
+    {
+      "identifier": "e76aae4c69a9a8ced3d34b43ca96e328",
+      "name": "D'Angelo, Egidio",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e31aa451-3b3d-467b-b1b0-f509f2e4b048"
+    },
+    {
+      "identifier": "7c01a711-1dd5-47bb-8829-e4b6d89d3045",
+      "name": "Ruan, Jianghai",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/3ff164f6-eca1-470f-ab0a-9196634c0892"
+    },
+    {
+      "identifier": "22420eb2aa2248d82c296c4802c26da9",
+      "name": "García-Amado, María",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f77811a4-ce7d-423e-aa56-6623abec132d"
+    },
+    {
+      "identifier": "3b0ca7c770cd1a99cedf352306b5d278",
+      "name": "van der Sluis, Sophie",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2f7db89c-f4ec-4717-9639-8636c8670e55"
+    },
+    {
+      "identifier": "cdda3cdc7b3f7ab98830205602f87db3",
+      "name": "Bjaalie, Jan G.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7aacd1ca-cf94-4aed-a5b7-c3abc089e77e"
+    },
+    {
+      "identifier": "0e111526a5ed377e430478e5d361a73a",
+      "name": "Muñoz,Alberto",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c7c4cde2-3445-495b-91c8-eb8aa9ca69ff"
+    },
+    {
+      "identifier": "ba78ffe138e3a79a7514f26441fba6ff",
+      "name": "Bianchi, Daniela",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e90fc25a-fc35-4066-9ff2-ca3583a2d008"
+    },
+    {
+      "identifier": "d84b5ef47f55aa5d17a662a0469f19fb",
+      "name": "Poirazi, Panayiota",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/dfb9df21-0bf3-4fbf-aee7-013ca79ab745"
+    },
+    {
+      "identifier": "91d5f34586c6d817b92c2ec33d4a7c7a",
+      "name": "Schneider, Matthias",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/56e756be-e8ad-49f3-a109-f44c1c001c5c"
+    },
+    {
+      "identifier": "dc9290080e07c6386e6869b1f947acdf",
+      "name": "Ness, Torbjørn V.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ed6b7869-b6ec-4c6b-91ac-481f168d3986"
+    },
+    {
+      "identifier": "5e39b2b8a39a9c036d612187d873da1b",
+      "name": "Gonzalez-Tapia, Silvia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f70dadde-c736-44c0-83f7-df280c1ff1ce"
+    },
+    {
+      "identifier": "b62cde6db92907dbeb5ba209b7d50ec7",
+      "name": "Benevides, Ruth",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f77866a6-a9f6-4fa6-a669-a3e918143409"
+    },
+    {
+      "identifier": "bf58d03c3627c60ad2241fde258c1ac7",
+      "name": "Juel, Bjørn E.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ca18d963-9c18-4730-8526-359d86ac6655"
+    },
+    {
+      "identifier": "dc676d8c-502f-4092-be28-73a0d6759f11",
+      "name": "Migliore, Michele",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/dc676d8c-502f-4092-be28-73a0d6759f11"
+    },
+    {
+      "identifier": "39c73136cf12a960e8b575c3cc07d6ab",
+      "name": "Real, Katia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4243a7e8-f0cc-4e73-9e0f-9770b6402b5c"
+    },
+    {
+      "identifier": "c1ffe49cbf938cecbeee703a6602cb2c",
+      "name": "Werner, C.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c289acd1-fddd-4e7c-bc1b-f3a12764d686"
+    },
+    {
+      "identifier": "d87594b674b644f2f525bce3916ef8ce",
+      "name": "Jones, Derek K.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c3407150-5c30-499d-8b4d-d8852ad05492"
+    },
+    {
+      "identifier": "c929ce5be0274e9d70db1edbaf7e654d",
+      "name": "Witter, Menno P.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/afa9b61f-ae6f-4fe0-881b-5002f6668775"
+    },
+    {
+      "identifier": "9b03c94959259882e467dfe34d58eda0",
+      "name": "Tapia,Silvia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0ff62e3f-9315-4293-964a-0a139090ea87"
+    },
+    {
+      "identifier": "4975608739f1b96559962989b5a28452",
+      "name": "Laird, A.R.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/47ef0c00-6dc8-4552-b063-45cd0c50576a"
+    },
+    {
+      "identifier": "af8d5dc94845de88171ec31ed746dc13",
+      "name": "Bidoret, C.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/781888a3-6bc6-43d8-8d46-ae4afff7910c"
+    },
+    {
+      "identifier": "ae5a85fcad6cef36b70fea4482d1af58",
+      "name": "Engstrøm, M.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7765de99-1f9b-4efe-be60-06846c7063a4"
+    },
+    {
+      "identifier": "b2d8506910c3752397a1f6cae14507e4",
+      "name": "Gundersen, Vidar",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ff30d318-604d-405d-846c-f2b3740ddb15"
+    },
+    {
+      "identifier": "ac82c83c72ddea0a8fc87b12090d236d",
+      "name": "Jackson, Jadin C.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/86763c0b-d503-44f4-a6f4-89d3da63c8a5"
+    },
+    {
+      "identifier": "360d574d292cd7fd0a53f9930e814e42",
+      "name": "Garcia-Rodriguez, Pedro",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9f3996cb-f69d-400c-b8ec-71a86194e3d5"
+    },
+    {
+      "identifier": "ef0a8bb0-0b2b-464b-a2ee-17ae29bdfe2d301598",
+      "name": "Varga, Viktor",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/cfe21ea3-22c1-493e-926f-bf55f7d863eb"
+    },
+    {
+      "identifier": "b01754ea30fc7d5ec81f6327f9527772",
+      "name": "Hill, Sean",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c7b46a11-3c15-4dd6-b551-35447298303d"
+    },
+    {
+      "identifier": "606f4957745e62ae8e4a3af872328c1e",
+      "name": "Tapia, Silvia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9ba1ebb6-3dca-4973-8ce9-7a96fbff3d15"
+    },
+    {
+      "identifier": "9925895a3a2c43d4943b569c45cb9513",
+      "name": "Meli, Giovanni",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9c4b69ec-b0ef-4ebf-b8f2-3b869f669c3c"
+    },
+    {
+      "identifier": "cf94e27427e50a2c0ec8fb369e0b9637",
+      "name": "de Kock, Christiaan P.J.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2b0299fd-63bd-47ac-807b-5532d4b494e9"
+    },
+    {
+      "identifier": "3d5330abd9543acef7f52f4bc2fccd72",
+      "name": "Hamame, C. M.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/52740b24-1967-48f3-a6e3-cc3f7033e7e3"
+    },
+    {
+      "identifier": "4b693c894a594dd5ebc0bc275a70c979",
+      "name": "Pezzulo, Giovani",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/79d57744-d5f2-46b7-9ee4-42513800815b"
+    },
+    {
+      "identifier": "8f85d02ddf1de227f39d91a83c67f28c",
+      "name": "Pieperhoff, P.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/11e7d51c-45d6-4b65-a95e-373c8945d209"
+    },
+    {
+      "identifier": "7ffb91ad1174053838a8657e24d9c2e6",
+      "name": "Diesmann, Markus",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e62df0ac-acf7-4490-ad14-8c7618812fbd"
+    },
+    {
+      "identifier": "718691f4d526795c8335904ac7cf31c8",
+      "name": "Muñoz, A",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c1bdf49b-6b97-4e4a-93cb-e786e0d0c126"
+    },
+    {
+      "identifier": "deb8a4d46d7cb43ab0f2736f8c14191e",
+      "name": "Blohm, Ursula",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/724142fe-9103-4d81-9112-85d5d6d36024"
+    },
+    {
+      "identifier": "4c155e737456366d67952d50cdd51443",
+      "name": "Veltz, Romain",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/9cf0277b-c727-4279-a5be-d40eb34bbce1"
+    },
+    {
+      "identifier": "cfa3cd3f923a06d289a77e7ffb4ae9de",
+      "name": "Lindahl, Mikael",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/20ecc13b-513f-4154-bc20-31eddf78193e"
+    },
+    {
+      "identifier": "9ebd3a30a3114d811b0a2afe2660348b",
+      "name": "Einevoll, Gaute T.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4093e758-4db9-4672-ba3e-6142a741b2c9"
+    },
+    {
+      "identifier": "997bb05ad8634102bb3709515838ac6d",
+      "name": "Plesser, Hans E.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b5d521ad-cb0f-40b0-b415-12567127e966"
+    },
+    {
+      "identifier": "d1db6ae803ca128939e541feac0a6130",
+      "name": "Thirion, Bertrand",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7b73c247-6777-4c6a-83b6-7a1d167629d4"
+    },
+    {
+      "identifier": "355c4fe0-4553-476b-898b-8a744aad5e4f",
+      "name": "",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/355c4fe0-4553-476b-898b-8a744aad5e4f"
+    },
+    {
+      "identifier": "a2259a1401ef10a285903b40c21c1ae1",
+      "name": "Zakiewicz, Izabela M.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0c631537-66b6-4087-8cda-9cc6fb576642"
+    },
+    {
+      "identifier": "37790eca04256052c3ee0517abd88a16",
+      "name": "Atenekeng Kahou, Guy Antoine",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ad298142-15e0-4193-b1eb-f16d0ddfb69d"
+    },
+    {
+      "identifier": "927b82ad-3e27-4dcb-ba1c-7108e18f5e8d",
+      "name": "Sharon Christine Yates",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/927b82ad-3e27-4dcb-ba1c-7108e18f5e8d"
+    },
+    {
+      "identifier": "769ccce90cb68fb6dee57fc8b1b26f53",
+      "name": "Pallier, Christophe",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/daec7082-a74e-4cbc-a809-48f47ed5c624"
+    },
+    {
+      "identifier": "bd9f43569612b294794d06e1bc93e1ab",
+      "name": "Deitcher, Yair",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/71f8e2ca-9f7e-4aa8-aab7-f115d407f14e"
+    },
+    {
+      "identifier": "151f093142b6d5926acdf30ad8015fbd",
+      "name": "Assaf, Yaniv",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0d48f16d-4614-40f2-84e8-7867ea03e1a0"
+    },
+    {
+      "identifier": "cdb7aeca4e56cf7f69103451d1959294",
+      "name": "Stirling, Jordan",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/659eef1d-b4c3-4d96-bbf6-99dc33f3de1d"
+    },
+    {
+      "identifier": "1e4934fc6e42d88646dd9e38639b4ae8",
+      "name": "Richard, Alexandre",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e5186c98-f689-465d-a9b9-926e39ff523a"
+    },
+    {
+      "identifier": "83f98ca132efd19ca9054ba329fe5fbd",
+      "name": "Puchades, Maja A.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e3a6bc78-97bc-49cc-b6a4-7fe28b1df6e0"
+    },
+    {
+      "identifier": "6b08220863588afb8af67e4eaec7da9a",
+      "name": "Torres-Aparicio, Guillermo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/dfb1404b-8719-4d75-a547-e64fafc9bd5b"
+    },
+    {
+      "identifier": "3c3753da03c6ffc38de60145dce58997",
+      "name": "Vinck, Martin",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/893d9ab2-816d-4670-a80c-a945fdc39a74"
+    },
+    {
+      "identifier": "d87cf3f39e6f4af9ad3c7143e0ea7a44",
+      "name": "Bhalla, Upinder S.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/1c1847b9-a56c-4226-9244-c2956cb4268d"
+    },
+    {
+      "identifier": "37a0e18f5b569ba2a0c272fa3796785f",
+      "name": "Furber, Stephen B",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7de19808-104e-43f3-8bfa-3bea9037823b"
+    },
+    {
+      "identifier": "4810d1def8e78d3ccbfdc2a8ef8f3b97",
+      "name": "Rebollo, Beatriz",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/6755e515-b90e-4a3c-8f57-49750be372b5"
+    },
+    {
+      "identifier": "da0b438440450009de31de6366876353",
+      "name": "Marre, Olivier",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/37793643-85bc-4908-9702-3d091fd9a874"
+    },
+    {
+      "identifier": "4dd3305d32bed0c1f8d4231ca56a6d1d",
+      "name": "Checinska, Martyna M.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/743b5077-2d72-4804-9df5-b3c419484e34"
+    },
+    {
+      "identifier": "3aa81001-ee8d-4ad9-a2eb-6f5aebd0ca8b",
+      "name": "Fox, Peter T.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/22d66bba-b0c6-4592-b49e-d7f01b5dd7a7"
+    },
+    {
+      "identifier": "0b69e382d87148a600e3db938dd07b79",
+      "name": "Médiouni-Cloarec, Gaëlle",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/243d80ae-5c06-4df8-ba8e-9f6747289733"
+    },
+    {
+      "identifier": "3912acd02cdfc623daa1bcaa56bd6038",
+      "name": "Castano-Prat, Patricia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/269c5580-91cf-4a64-8cae-076a10d4ae68"
+    },
+    {
+      "identifier": "4953f4a8a786c4c661f60a181439aba4",
+      "name": "Martins, Bernadette",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/266c5ef9-3612-44e7-af02-1e262a737bc8"
+    },
+    {
+      "identifier": "a9a4e0fea291e84e5832fc3c497c14a6",
+      "name": "Meegen, Alexander van",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/32efb44f-b082-4926-8609-59d3de898600"
+    },
+    {
+      "identifier": "41303a0059a44e346897c224d482479e",
+      "name": "Mazzamuto,Giacomo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/cf4fc1af-26b1-4f8c-963f-1c2fbafe225a"
+    },
+    {
+      "identifier": "ddb0904147e01f2c2dcb111007cf7fed",
+      "name": "Capone, Cristiano",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/50aa9d25-68b5-4d05-8c24-efd658e3c0b6"
+    },
+    {
+      "identifier": "81ab062ad7a139c7503b446ed8285692",
+      "name": "Kastanauskaite, Asta",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2480b0c3-f289-40a7-9d2e-d66d43b3a3e1"
+    },
+    {
+      "identifier": "2c916596118aa1ae6070497dae75dda2",
+      "name": "Masoli, Stefano",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/62c225c3-a2de-4f3a-9e32-e10156427853"
+    },
+    {
+      "identifier": "26791415bd4ace18267c0c310157e17e",
+      "name": "Syverstad, Gry H.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/bfe53723-4dd1-46c4-86c9-24b24d1e3211"
+    },
+    {
+      "identifier": "f3eb34929789388d179c0b2edbaf553c",
+      "name": "Parker, Geoff J.M.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/1b208307-1a34-4c44-a89a-1f47aa4d1a42"
+    },
+    {
+      "identifier": "c8ab9ed789381b248506e97513f8fb9e",
+      "name": "Hertz-Pannier, Lucie",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/e64ebeef-353d-4e02-9e00-94d83edf927a"
+    },
+    {
+      "identifier": "2aab1bf1-d742-41cb-8161-004ae2017695",
+      "name": "Supèr, Hans",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2aab1bf1-d742-41cb-8161-004ae2017695"
+    },
+    {
+      "identifier": "2e30f2be-b5ac-4d49-8e5e-c5f700df9364305861",
+      "name": "David 1",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5a01d0aa-3b5d-49a0-838d-9ab7f272d7f7"
+    },
+    {
+      "identifier": "aefab589ccaf80e4034b3d98a22d2ec6",
+      "name": "Tirozzi, Brunello",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/41c09421-6997-4db7-ae0b-e0ee3543dc07"
+    },
+    {
+      "identifier": "f055c712ad75fcbdc9fab8387d9b3193",
+      "name": "Spruston, Nelson",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/97523eed-889b-4cbb-9a6b-4d68ac34679e"
+    },
+    {
+      "identifier": "1d1eeac4b8fe23afb3f190a340b8629f",
+      "name": "Baayen, Johannes C.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b61a9733-cc62-4929-8443-7d1d7f4d94ac"
+    },
+    {
+      "identifier": "b99afd838cdbf7a8314ca285cbb90a9a",
+      "name": "Kleven, Heidi",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/4110f4df-a442-468c-a416-f01a1c6a5e26"
+    },
+    {
+      "identifier": "71db9d196858cffef796e197322708cf",
+      "name": "Davison, Andrew",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/bd554312-9829-4148-8803-cb873d0b32f9"
+    },
+    {
+      "identifier": "3fe45c1cfe494ac53e65f1946e6aa678",
+      "name": "Costantini, Irene",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/076c79e5-9bc6-494b-9e79-ad9877019fda"
+    },
+    {
+      "identifier": "f155abd743dcf5ff6cb18e94199983f5",
+      "name": "Santos, João Pedro",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b8755ba3-41aa-4f1c-919c-2953a06b737e"
+    },
+    {
+      "identifier": "572527acec93ccba7befe3b8fa72d4ca",
+      "name": "Shah, Nadim J.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/bc19c35a-7d92-4f1e-a585-888565a97296"
+    },
+    {
+      "identifier": "fea7d2c30b595f5a45a7093d7beea7b7",
+      "name": "Hoffstaedter, Felix",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/49e3e492-4142-4635-907e-60cdf1e8acdc"
+    },
+    {
+      "identifier": "721db942f304627db509e8b51ecbae41",
+      "name": "Riess, Olaf",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b6bda088-6376-4cec-9070-abf8cc44e40e"
+    },
+    {
+      "identifier": "47166014f2f49dae567b55eabbbdc1a4",
+      "name": "Garcia-Marin, Virginia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c94b93b3-1f39-41c6-9868-ee9effc283fe"
+    },
+    {
+      "identifier": "1d3c68508f93b4e480d9da448ebbd467",
+      "name": "DeFelipe, Javier",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c51a503d-2b00-4ef0-89d9-f20797011f77"
+    },
+    {
+      "identifier": "da7ad692fdcbcf1154b9cde1039c0123",
+      "name": "Soda, Teresa",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ba9f6881-4a69-4eec-b9b0-b013ed93e9c9"
+    },
+    {
+      "identifier": "e46665af9594096c209b78bb2906a98e",
+      "name": "Danbolt, Nils C.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/da2894f9-cf20-450c-a4c2-3813a8709f17"
+    },
+    {
+      "identifier": "e7b0dd090300239c5f3e4425dc2d9b1f",
+      "name": "Kocaer, Ferdag",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7ce6e1ff-6fa8-44bb-92fd-b4dd7ab2acbc"
+    },
+    {
+      "identifier": "2af3a655ca67de50a01736b9effa3594",
+      "name": "Silvestri, Ludovico",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ff47c6ad-b61b-4015-94d2-98396aa2e7f4"
+    },
+    {
+      "identifier": "15352a1deaf708780effb1868b097a2f",
+      "name": "Schmidt, Thorsten",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/88395446-812a-422e-84aa-f14d93b7cacd"
+    },
+    {
+      "identifier": "b1c88f93-c69f-4e04-9bc3-7cbd6eaeabdd305524",
+      "name": "Nuruddin, Syed",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/dd1851ff-1f3b-49ff-91c8-e9b6d74ea1f3"
+    },
+    {
+      "identifier": "7a9c823a2988f36f570e6cacf5be8909",
+      "name": "Prestori, Francesca",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/746d2f8f-01e4-4e31-90ad-6849f7f1f4d9"
+    },
+    {
+      "identifier": "b6701645e04a05055787e983f3a449f4",
+      "name": "Duret, Margaux",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/bf70cce9-a5f8-4653-bb6b-f1b0a17f0d0b"
+    },
+    {
+      "identifier": "26b01fc0-e2ab-4385-b602-d126bf877a48",
+      "name": "Van Kerkoerle, Timo",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/26b01fc0-e2ab-4385-b602-d126bf877a48"
+    },
+    {
+      "identifier": "cd7fcddf3c12b765dec848238dd985f8",
+      "name": "Pietrajtis, K.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/3fa19a3a-c7dd-41dd-a1a0-f20178080502"
+    },
+    {
+      "identifier": "71d25992fafd4c99d71a87d9bbde49c8",
+      "name": "Zehl, Lyuba",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/513f938e-9148-4d57-ba49-5d0f8aca0a57"
+    },
+    {
+      "identifier": "f4857f941b12d61ca88ad1a82e7babd7",
+      "name": "Marshall, John C.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c15a9a74-a06d-4549-979b-897f4fcccb9e"
+    },
+    {
+      "identifier": "c11a1c3bbaba950d3a7edd47752eb1e1",
+      "name": "Chintaluri, Chaitanya",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/083c588a-9ea8-4329-bc64-ef952cb5c1f6"
+    },
+    {
+      "identifier": "4afc7cc46bd5d84015409461ffe716e2",
+      "name": "Gerboga, Fatma",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/c1752450-a019-4b1e-8586-06c83d5b93ed"
+    },
+    {
+      "identifier": "e652f63c8f9e93e747a93b850d61b49d",
+      "name": "Langner, Robert",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/cca391ad-32ab-4720-9f5b-d0859513fe7d"
+    },
+    {
+      "identifier": "5ad4749a-6e5a-4512-86ff-b89834c1b87c",
+      "name": "Casellato, Claudia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/5ad4749a-6e5a-4512-86ff-b89834c1b87c"
+    },
+    {
+      "identifier": "928ae53713d824ce88b354f32d7d5fbc",
+      "name": "Burgess, Neil",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/7d2b7340-d444-4aa1-b495-6a165873d754"
+    },
+    {
+      "identifier": "4c54098d2b5cc37e3aff01287b7743d7",
+      "name": "Tanré, Etienne",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/13afc2a8-7098-44ae-82cf-3ab32d87b60e"
+    },
+    {
+      "identifier": "396b1b9fd803e192273ce027ca3d1263",
+      "name": "Romani, Armando",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/b4cb2cb3-d3f2-4218-96bb-8034cb2ceaef"
+    },
+    {
+      "identifier": "f95aa289525af3fc27e22c801b5d2a73",
+      "name": "LeBihan, Denis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/f0e8c0dd-21e7-4f0d-bebe-f861a3b7478a"
+    },
+    {
+      "identifier": "6bef3ea9-979c-4a08-b801-845fd7de2d0c303708",
+      "name": "Bradler, Sabine",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/35349d83-8e18-495d-b37c-29b06153f103"
+    },
+    {
+      "identifier": "9d42031030aed6d907f08f70da605e49",
+      "name": "Petkova, Mia",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/0c043413-16a6-449a-8257-b621cd074b86"
+    },
+    {
+      "identifier": "ae1b2ae86421b063948a648e10279ff0",
+      "name": "Blasi, Ignazio De",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/2e4fc5f8-2b4d-47bd-a9ff-0a6fb87cb76a"
+    },
+    {
+      "identifier": "5d9b99cf50302c9f4b9367df398dd38f",
+      "name": "Axer, Markus",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/79d13b13-948a-42d4-8314-af0dc16e8d83"
+    },
+    {
+      "identifier": "bffb23cdf03dab22ddacfa334013c972",
+      "name": "Golding, Nace L.",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/aa230662-78c5-444f-bc7f-798ef30891c4"
+    },
+    {
+      "identifier": "940ab1af412349740729bc0f406e2c6e",
+      "name": "Schuecker, Jannis",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/bedcbf3d-a242-4f09-acc5-0cf0143857b3"
+    },
+    {
+      "identifier": "7f93d358a7e4f43d014e3e136754b061",
+      "name": "Nair, Anu G",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/ca6ad49e-5871-4f7a-b0ce-7257418c3860"
+    },
+    {
+      "identifier": "183ac28a5978832f25623307522cba98",
+      "name": "Geyer, Stefan",
+      "@id": "https://nexus.humanbrainproject.org/v0/data/uniminds/core/person/v1.0.0/28db671a-3d5b-4c6e-ac4a-f76344efb0eb"
+    }
+  ],
+  "total": 595,
+  "size": 595,
+  "start": 0
+}
