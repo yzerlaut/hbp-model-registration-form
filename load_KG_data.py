@@ -8,10 +8,11 @@ NAMESPACES = ['datasets', 'methods', 'activities',
               'parcellationatlases', 'parcellationregions',
               'persons', 'preparations', 'protocols',
               'sex', 'species', 'experimentalpreparations',
-              'projects']
+              'projects', 'embargostatus', 'licensetype']
+
 KEYS = ['identifier', 'name', 'description', '@id']
 
-def load_dbs():
+def load_dbs(verbose=False):
     
     uniminds_data, minds_data = {}, {}
     
@@ -45,8 +46,31 @@ def load_dbs():
                         uniminds_data[entry][key].append(uniminds_dataJ[i][key])
 
 
-    for entry in NAMESPACES:
-        print("uniminds %s: %i" % (entry, len(uniminds_data[entry]['name'])))
-        print("minds %s: %i" % (entry, len(minds_data[entry]['name'])))
+    if verbose:
+        for entry in NAMESPACES:
+            print("uniminds %s: %i" % (entry, len(uniminds_data[entry]['name'])))
+            print("minds %s: %i" % (entry, len(minds_data[entry]['name'])))
         
     return uniminds_data, minds_data
+
+def merge_datasets():
+    
+    uniminds_data, minds_data = load_dbs()
+    
+    # starting from the minds and expanding with uniminds
+    final_db = minds_data.copy()
+    for entry in NAMESPACES:
+        interest = {}
+        for key in KEYS:
+            intersect[key] = np.intersect1d(np.array(uniminds_data[entry][key], dtype=str), np.array(minds_data[entry][key], dtype=str))
+
+        # for uniminds_data[entry]['name']
+            
+        # for 
+        # print("uniminds %s: %i" % (entry, len(uniminds_data[entry]['name'])))
+        # print("minds %s: %i" % (entry, len(minds_data[entry]['name'])))
+
+    
+    
+
+    
